@@ -1,38 +1,120 @@
-# Extração de Dados Fiscais via API Siconfi
+# 📊 db_siconfi
 
-## 📊 Sobre o Siconfi
+Este repositório contém scripts em **Python** e **R** para acessar e extrair dados diretamente da API do Tesouro Nacional (SICONFI), com foco na coleta de informações dos relatórios RREO (Relatório Resumido de Execução Orçamentária) e RGF (Relatório de Gestão Fiscal).
 
-O **Siconfi (Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro)** é uma plataforma do Tesouro Nacional que reúne e divulga dados fiscais, contábeis e orçamentários de estados e municípios brasileiros. O sistema promove a transparência da gestão fiscal e é fundamental para o monitoramento da responsabilidade na administração pública.
+---
 
-Entre os principais relatórios disponíveis no Siconfi, destacam-se:
+## 📌 Objetivo
 
-* **RREO (Relatório Resumido da Execução Orçamentária)**: apresenta a execução orçamentária bimestral dos entes federativos, com informações sobre receitas, despesas, resultado primário, entre outros indicadores fiscais exigidos pela Lei de Responsabilidade Fiscal (LRF).
+Facilitar o acesso aos dados fiscais de estados e municípios brasileiros, permitindo:
 
-* **RGF (Relatório de Gestão Fiscal)**: divulgado quadrimestralmente, traz informações sobre limites de despesa com pessoal, endividamento, concessão de garantias e outros dados que evidenciam o cumprimento das regras fiscais previstas na LRF.
+- Baixar dados atualizados por ano, período e UF;
+- Estruturar os dados em formato `.csv` para posterior análise;
+- Automatizar parte da coleta de dados de finanças públicas.
 
-## 🎯 Objetivo do Repositório
+---
 
-O objetivo principal deste repositório é **automatizar a extração de dados dos relatórios RGF e RREO utilizando a API pública do Siconfi**. Os scripts contidos aqui permitem acessar os dados de forma estruturada, facilitando análises comparativas, monitoramento de indicadores fiscais e elaboração de painéis e relatórios. A extração pode ser realizada em Python ou R.
+## 📁 Estrutura dos Scripts
 
-## 🧰 Funcionalidades
+- `baixar_dados_tesouro_rreo.py`: Faz a requisição à API do Tesouro para baixar os dados de RREO em Python.
+- `extrator_siconfi.R`: Script em R para extrair os mesmos dados via API.
 
-* Consulta programática de dados do RGF e RREO por UF, ano e período
-* Salvamento local dos dados em formato `.csv`
+---
 
-## 📁 Organização
+## ⚙️ Pré-requisitos
 
+### Para Python
+
+- Python 3.8+
+- Instalar bibliotecas:
+
+```bash
+pip install pandas requests
 ```
-📂/etl
-   └── extracao.ipynb
-   └── extracao.R
-📂/etl/csv
-   └── arquivos extraídos em CSV
-README.md
-requirements.txt
+
+### Para R
+
+Instale os seguintes pacotes:
+
+```r
+install.packages(c("httr", "jsonlite", "dplyr", "readr"))
 ```
 
-## 📌 Referências
+---
 
-* [Portal Siconfi](https://www.tesourotransparente.gov.br/temas/siconfi)
-* [API Siconfi - Tesouro Nacional](https://apidatalake.tesouro.gov.br/swagger-ui.html)
+## 🚀 Como usar
 
+### Usando Python
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/jpwa22/db_siconfi.git
+cd db_siconfi
+```
+
+2. Edite o script `baixar_dados_tesouro_rreo.py` com os parâmetros desejados:
+
+```python
+ano = 2023
+bimestre = 6  # de 1 a 6
+uf = 26        # código IBGE do estado (ex: 26 para PE)
+```
+
+3. Execute o script:
+
+```bash
+python baixar_dados_tesouro_rreo.py
+```
+
+Os dados serão salvos em um arquivo `.csv` no diretório `dados/`.
+
+---
+
+### Usando R
+
+1. Abra o R ou RStudio.
+
+2. Carregue o script:
+
+```r
+source("extrator_siconfi.R")
+```
+
+3. Execute a função principal:
+
+```r
+baixar_dados_tesouro_rreo(ano = 2024, bimestre = 2, uf = 26)
+```
+
+Os dados serão automaticamente salvos como `.csv` no diretório `dados/`.
+
+---
+
+## 📂 Exemplo de código em ambos
+
+### Python
+
+```python
+from baixar_dados_tesouro_rreo import baixar_dados_tesouro_rreo
+
+baixar_dados_tesouro_rreo(ano=2024, bimestre=3, uf=26)
+```
+
+### R
+
+```r
+baixar_dados_tesouro_rreo(ano = 2023, bimestre = 6, uf = 35)  # São Paulo
+```
+
+---
+
+## 🗂️ Fonte dos dados
+
+- [API SICONFI - Tesouro Nacional](https://apidatalake.tesouro.gov.br/ords/siconfi/)
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
