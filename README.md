@@ -16,8 +16,8 @@ Facilitar o acesso aos dados fiscais de estados e municípios brasileiros, permi
 
 ## 📁 Estrutura dos Scripts
 
-- `baixar_dados_tesouro_rreo.py`: Faz a requisição à API do Tesouro para baixar os dados de RREO em Python.
-- `extrator_siconfi.R`: Script em R para extrair os mesmos dados via API.
+- `extracao.ipynb`: Faz a requisição à API do Tesouro para baixar os dados de RREO e RGF em Python.
+- `extracao.R`: Script em R para extrair os mesmos dados via API.
 
 ---
 
@@ -53,21 +53,18 @@ git clone https://github.com/jpwa22/db_siconfi.git
 cd db_siconfi
 ```
 
-2. Edite o script `baixar_dados_tesouro_rreo.py` com os parâmetros desejados:
+2. Edite o script `extracao.ipynb` com os parâmetros desejados:
 
 ```python
-ano = 2023
+ano = 2023 # Informe o ano ou intervalo.
 bimestre = 6  # de 1 a 6
-uf = 26        # código IBGE do estado (ex: 26 para PE)
+uf = [11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 35, 41, 42, 43, 50, 51, 52, 53]  # código IBGE dos estados (ex: 26 para PE)
 ```
+#### Em Python, intervalos são definidos usando a função range(início, fim, passo) ou ao trabalhar com fatias (slices). O ponto de atenção é que o valor final (fim) não é incluído. Ou seja, o intervalo vai até, mas não inclui, o valor final. Por exemplo: range(2015,2026). Lembrando que em python o final é exclusivo, tal como quando utilizamos < 2026 para definir um intervalo até 2025.
 
-3. Execute o script:
+3. Execute todas as células do notebook.
 
-```bash
-python baixar_dados_tesouro_rreo.py
-```
 
-Os dados serão salvos em um arquivo `.csv` no diretório `dados/`.
 
 ---
 
@@ -75,37 +72,24 @@ Os dados serão salvos em um arquivo `.csv` no diretório `dados/`.
 
 1. Abra o R ou RStudio.
 
-2. Carregue o script:
+2. Edite o script `extracao.R` com os parâmetros desejados:
 
 ```r
-source("extrator_siconfi.R")
+ufs <- c(11:17, 21:29, 31:35, 41:43, 50:53)  # Códigos IBGE dos estados
+anos <- 2015:2027  # Intervalo de anos
+quadrimestres <- 1:3   # Intervalo de quadrimestres (1 a 3) no caso do RGF
+bimestres <- 1:6 # Intervalo de bimestres (1 a 6) no caso do RREO
 ```
 
-3. Execute a função principal:
+3. Execute todo script:
 
 ```r
-baixar_dados_tesouro_rreo(ano = 2024, bimestre = 2, uf = 26)
+source("extracao.R")
 ```
+#### Se estiver utilizando o RStudio é possível executar o script linha a linha.
 
-Os dados serão automaticamente salvos como `.csv` no diretório `dados/`.
 
----
-
-## 📂 Exemplo de código em ambos
-
-### Python
-
-```python
-from baixar_dados_tesouro_rreo import baixar_dados_tesouro_rreo
-
-baixar_dados_tesouro_rreo(ano=2024, bimestre=3, uf=26)
-```
-
-### R
-
-```r
-baixar_dados_tesouro_rreo(ano = 2023, bimestre = 6, uf = 35)  # São Paulo
-```
+### Os dados serão salvos em um arquivo `.csv` no diretório `csv/rgf` ou `csv/rreo`.
 
 ---
 
@@ -114,6 +98,9 @@ baixar_dados_tesouro_rreo(ano = 2023, bimestre = 6, uf = 35)  # São Paulo
 - [API SICONFI - Tesouro Nacional](https://apidatalake.tesouro.gov.br/ords/siconfi/)
 
 ---
+
+### Agora é só carregar os arquivos csv na sua ferramenta preferida e analisar os dados.
+
 
 ## 📄 Licença
 

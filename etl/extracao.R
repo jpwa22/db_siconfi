@@ -50,7 +50,7 @@ baixar_dados_rgf <- function(ano, quadrimestre, uf) {
 
 ufs <- c(11:17, 21:29, 31:35, 41:43, 50:53)  # Códigos IBGE dos estados
 anos <- 2015:2027  # Intervalo de anos
-quadrimestres <- 1:3   # Intervalo de quadrimestres (1 a 6)
+quadrimestres <- 1:3   # Intervalo de quadrimestres (1 a 3)
 bimestres <- 1:6 # Intervalo de bimestres (1 a 6)
 
 # Loop para todos os estados (UFs de 11 a 53), todos os períodos
