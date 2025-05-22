@@ -60,7 +60,7 @@ ano = 2023 # Informe o ano ou intervalo.
 bimestre = 6  # de 1 a 6
 uf = [11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 35, 41, 42, 43, 50, 51, 52, 53]  # código IBGE dos estados (ex: 26 para PE)
 ```
-#### Em Python, intervalos são definidos usando a função range(início, fim, passo) ou ao trabalhar com fatias (slices). O ponto de atenção é que o valor final (fim) não é incluído. Ou seja, o intervalo vai até, mas não inclui, o valor final. Por exemplo: range(2015,2026). Lembrando que em python o final é exclusivo, tal como quando utilizamos < 2026 para definir um intervalo até 2025.
+Em Python, intervalos são definidos usando a função range(início, fim, passo) ou ao trabalhar com fatias (slices). O ponto de atenção é que o valor final (fim) não é incluído. Ou seja, o intervalo vai até, mas não inclui, o valor final. Por exemplo: range(2015,2026). Lembrando que em python o final é exclusivo, tal como quando utilizamos < 2026 para definir um intervalo até 2025.
 
 3. Execute todas as células do notebook.
 
@@ -70,7 +70,12 @@ uf = [11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33
 
 ### Usando R
 
-1. Abra o R ou RStudio.
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/jpwa22/db_siconfi.git
+cd db_siconfi
+```
 
 2. Edite o script `extracao.R` com os parâmetros desejados:
 
@@ -95,7 +100,7 @@ source("extracao.R")
 
 ## 🗂️ Fonte dos dados
 
-- [API SICONFI - Tesouro Nacional](https://apidatalake.tesouro.gov.br/ords/siconfi/)
+- [API SICONFI - Tesouro Nacional](https://apidatalake.tesouro.gov.br/docs/siconfi/)
 
 ---
 
