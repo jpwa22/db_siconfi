@@ -13,8 +13,8 @@ baixar_dados_rreo <- function(ano, bimestre, uf) {
     dados <- fromJSON(conteudo)
     if (!is.null(dados$items) && length(dados$items) > 0) {
       df <- as.data.frame(dados$items)
-      dir_create("csv/rreo")
-      caminho <- sprintf("csv/rreo/rreo_%s_b%s_uf%s.csv", ano, bimestre, uf)
+      dir_create("data/csv/rreo")
+      caminho <- sprintf("data/csv/rreo/rreo_%s_b%s_uf%s.csv", ano, bimestre, uf)
       write_csv2(df, caminho)
       message(sprintf("✔️ RREO salvo: %s", caminho))
     } else {
@@ -35,8 +35,8 @@ baixar_dados_rgf <- function(ano, quadrimestre, uf) {
     dados <- fromJSON(conteudo)
     if (!is.null(dados$items) && length(dados$items) > 0) {
       df <- as.data.frame(dados$items)
-      dir_create("csv/rgf")
-      caminho <- sprintf("csv/rgf/rgf_%s_q%s_uf%s.csv", ano, quadrimestre, uf)
+      dir_create("data/csv/rgf")
+      caminho <- sprintf("data/csv/rgf/rgf_%s_q%s_uf%s.csv", ano, quadrimestre, uf)
       write_csv2(df, caminho)
       message(sprintf("✔️ RGF salvo: %s", caminho))
     } else {
@@ -49,9 +49,9 @@ baixar_dados_rgf <- function(ano, quadrimestre, uf) {
 
 
 ufs <- c(11:17, 21:29, 31:35, 41:43, 50:53)  # Códigos IBGE dos estados
-anos <- 2015:2027  # Intervalo de anos
-quadrimestres <- 1:3   # Intervalo de quadrimestres (1 a 3)
-bimestres <- 1:6 # Intervalo de bimestres (1 a 6)
+anos <- 2015:2026  # Intervalo de anos
+quadrimestres <- ""   # Intervalo de quadrimestres (1 a 3)
+bimestres <- 1:2 # Intervalo de bimestres (1 a 6)
 
 # Loop para todos os estados (UFs de 11 a 53), todos os períodos
 for (ano in anos) {

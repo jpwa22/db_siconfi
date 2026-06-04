@@ -1,2 +1,14 @@
+# Dados gerados (recriáveis pelo pipeline)
+data/csv/
+data/*.rds
+
+# Power BI (binários pesados)
+*.pbix
+
+# RStudio
+.Rproj.user
+.Rhistory
+.RData
+
+# Relatórios internos
 /Relatório STN
-/siconfi.pbix
