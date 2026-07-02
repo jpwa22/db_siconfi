@@ -1,6 +1,8 @@
-# Dados gerados (recriáveis pelo pipeline)
+﻿# Dados gerados (recriáveis pelo pipeline)
 data/csv/
 data/*.rds
+data/*.duckdb
+data/*.duckdb.wal
 
 # Power BI (binários pesados)
 *.pbix
@@ -12,3 +14,4 @@ data/*.rds
 
 # Relatórios internos
 /Relatório STN
+
