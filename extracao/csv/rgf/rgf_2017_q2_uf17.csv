@@ -1,0 +1,162 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4992806557.64
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;4218825324.99
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;773981232.65
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1287730398.74
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;34608343.26
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;665905.23
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;478474917.6
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;773981232.65
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3705076158.9
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);7371392398.7
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF);1047899.2
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);7370344499.5
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);3705076158.9
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);50.27
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);3611468804.76
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);3430895364.52
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);3250321924.28
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Limite Máximo (a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;49.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;% DTP (b);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;49.31
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;% Excedente (c) = (b-a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;0.31
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Redutor Mínimo de 1/3 do Excedente (d) =  (1/3*c);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;0.1
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 01;E;;Limite (e) = (b-d);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;49.21
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3076926621.72
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3068223432.99
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3065485106.72
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;2860813236.96
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;2852110048.23
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;2849371721.96
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;2489973466.42
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;2383207784.45
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;2422181431.09
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;1543951373.92
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;1507687012.17
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;1473142660.96
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;946022092.5
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;875520772.28
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;949038770.13
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;370839770.54
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;468902263.78
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;427190290.87
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;320578561.7
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;417923454.51
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;381648932.65
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;21838022.98
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;22237594.47
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;22595181.43
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;28423185.86
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;28741214.8
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;22946176.79
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;216113384.76
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;216113384.76
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;216113384.76
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);666547145.26
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);831247113.88
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);855449628.45
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;483901477.14
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;696118003.25
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;735513298.27
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;766734543.03
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;816920899.25
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;843527308.46
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;282833065.89
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;120802896.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;108014010.19
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;182645668.12
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;135129110.63
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;119936330.18
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2410379476.46
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2236976319.11
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2210035478.27
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7293584929.36
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7351017551.81
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7371392398.7
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);42.19
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);41.74
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);41.59
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);33.05
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);30.43
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);29.98
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;14587169858.72
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;14702035103.62
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;14742784797.4
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);13128452872.85
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);13231831593.26
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);13268506317.66
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;28754961838.07
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;28754961838.07
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;394727122.52
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;825430611.84
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;939612046.49
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;286155015.4
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;118723232.29
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;92501770.35
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);7293584929.39
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);7351017551.81
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);7371392398.7
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1604588684.47
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1617223861.4
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1621706327.71
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1444129816.02
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1455501475.26
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1459535694.94
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;97901527.74
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;152877003.69
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;8687251.78
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;18000817.18
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;8687251.78
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;18000817.18
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;89214275.96
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;134876186.51
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAssuncaoReconhecimentoEConfissaoDeDividas;Assunção, Reconhecimento e Confissão de Dívidas (LRF, art. 29, § 1º);77274311.2
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAssuncaoReconhecimentoEConfissaoDeDividas;Assunção, Reconhecimento e Confissão de Dívidas (LRF, art. 29, § 1º);122128443.19
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;11939964.76
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;12747743.32
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);97901527.74
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);152877003.69
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;7371392398.7
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);152877003.69
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);2.07
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1179422783.79
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);1061480505.41
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;515997467.91
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;-36274518.86
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;381648932.65
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;-36274518.86
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;381648932.65
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;7371392398.7
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;7370344499.5
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3705076158.9
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;50.27
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;3611468804.76
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;3430895364.52
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;2236976319.11
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;2210035478.27
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;14702035103.62
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;14742784797.4
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1617223861.4
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1621706327.71
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;152877003.69
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;2.07
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1179422783.79
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;515997467.91
+2017;2;Q;Governo do Estado do Tocantins;17;TO;E;1532902;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

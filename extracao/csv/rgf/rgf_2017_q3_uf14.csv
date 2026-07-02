@@ -1,0 +1,168 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1659247853.1
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;1510136668.06
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;32221599.88
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);116889585.16
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);91866799.36
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;913971.14
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;43147401.35
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;16135232.93
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;31670193.94
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1567381053.74
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);3199536328.85
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);3199536328.85
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);1567381053.74
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);48.99
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);1567772801.14
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);1489384161.08
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);1410995521.03
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1921907117.65
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1950603272.05
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2083691371.11
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2100563277.1
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;1802753626.44
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;1839335996.24
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;2010982861.46
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;2036551923.67
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;1146417668.91
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;1146417668.91
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;475686664.94
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;512718332.51
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;685738072.04
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;594223771.1
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;35145931.45
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;35590071.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;36544346.3
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;34348475.6
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;247990916.99
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;284578444.51
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;456643909.24
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;559875295.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;192549816.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;192549816.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;192549816.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;1327066961.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;1326617663.73
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;1325244789.42
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;295910483.66
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;72888565.96
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;72708509.65
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;72708509.65
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;64011353.43
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;46264925.25
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;38558766.16
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);662048132.77
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1068326500.37
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);997939666.93
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);765120428.08
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;617849574.5
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1024151927.85
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;961620342.68
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;715554882.51
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;782109370.65
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1147957642.55
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1131148220.44
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;858605844.68
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;164259796.15
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;123805714.7
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;169527877.76
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;143050962.17
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;44198558.27
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;44174572.52
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;36319324.25
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;49565545.57
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1259858984.88
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);882276771.68
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1085751704.18
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1335442849.02
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3376579222.11
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3411462366.3
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3441987635.58
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3199536328.85
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);56.92
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);57.18
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);60.54
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);65.65
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);37.31
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);25.86
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);31.54
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);41.74
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3038921299.9
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3070316129.67
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3097788872.02
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2879585695.97
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2735029169.91
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2763284516.7
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2788009984.82
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2591624426.37
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (I);93154174.29
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Educação;31085458.24
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB 60%;23446683.51
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Saúde;16914536.01
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outras Destinações Vinculadas de Recursos;21707496.53
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (II);765451670.39
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;765451670.39
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);858605844.68
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);49478583.8
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;1294091.96
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB 60%;10624.29
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;48173867.55
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);108105682.97
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;108105682.97
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);157584266.77
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);204863446.31
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;58793856.36
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB 60%;81856631.04
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;44579819.1
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outras Destinações Vinculadas de Recursos;19633139.81
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);399233392.55
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;399233392.55
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);604096838.86
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);7157.52
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;7157.52
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);42284728.14
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;42284728.14
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);42291885.66
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (I);-161195013.34
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Educação;-29009647.6
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB 60%;-58420571.82
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Saúde;-75839150.64
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outras Destinações Vinculadas de Recursos;2074356.72
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (II);215827866.73
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;215827866.73
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);54632853.39
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);33245296.35
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;33245289.35
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outras Destinações Vinculadas de Recursos;7.0
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);181755626.91
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;181755626.91
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);215000923.26
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;3199536328.85
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;3199536328.85
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;1567381053.74
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;48.99
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;1567772801.14
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;1489384161.08
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;882276771.68
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;1085751704.18
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;1335442849.02
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;3070316129.67
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;3097788872.02
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2879582695.97
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;215000923.26
+2017;3;Q;Governo do Estado de Roraima;14;RR;E;514229;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;590674957.73

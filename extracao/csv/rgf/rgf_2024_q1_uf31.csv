@@ -1,0 +1,332 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4102729301.07
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4134753101.8
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4365127462.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4749291854.6
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4737908259.96
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4704099845.44
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5529623295.66
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7940205435.04
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4360614719.85
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4542452747.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4382405735.66
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4408807782.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);57958019540.96
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);130648155.08
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2140504369.77
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2099849560.89
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2259466362.05
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2259505800.09
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2851003205.27
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2478033756.71
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2785192412.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;4450804743.07
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2308373595.35
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2421454854.49
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2281647247.49
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;2321518043.43
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;30657353951.49
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;130648153.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1687546023.9
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1665572922.31
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1809819475.09
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1874334270.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;2243825676.77
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1967011743.4
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;2321355687.52
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;3531477755.5
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1860038435.97
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1937483038.63
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1821495612.39
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1851831129.55
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;24571791771.09
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;2291291.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;452958345.87
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;434276638.58
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;449646886.96
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;385171530.03
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;607177528.5
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;511022013.31
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;463836725.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;919326987.57
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;448335159.38
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;483971815.86
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;460151635.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;469686913.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;6085562180.4
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);ObrigacoesPatronais;Obrigações Patronais;128356862.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2003348649.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1992119013.45
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2075366468.45
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2218535447.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2237312619.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2222932727.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2504665391.95
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;3685098027.66
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2047085583.44
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2124792912.61
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2091557285.01
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2071497606.72
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;27274311732.8
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2.02
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1644268537.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1645496775.94
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1718520998.98
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1856755501.74
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1882024345.96
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1868027079.53
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;2148295147.54
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;2994281171.81
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1680765899.24
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1768421702.01
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1726840987.86
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1706026430.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;22639724579.08
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesasPensoesInativosEPensionistas;Pensões;359080112.11
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;346622237.51
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;356845469.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesasPensoesInativosEPensionistas;Pensões;361779945.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;355288273.16
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;354905648.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;356370244.41
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;690816855.85
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;366319684.2
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;356371210.6
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;364716297.15
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;365471175.84
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;4634587153.72
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesasPensoesInativosEPensionistas;Pensões;2.02
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;-41123718.4
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;42784527.46
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;30294631.68
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;271250607.41
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;-350407564.43
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;3133361.14
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;239765490.83
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;-195697335.69
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;5155541.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;-3795020.04
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;9201203.16
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;15792132.49
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoExecutadaOrcamentariamente;Despesa com Pessoal não Executada Orçamentariamente;26353856.67
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);723615616.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);685281756.13
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);684125829.92
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);724614514.5
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);685868475.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);572925761.97
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);811508446.2
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);2072486830.44
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);677251077.6
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);778229360.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);751953354.76
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);684176097.9
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);9852037122.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1774645.8
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7870443.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;8450436.41
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7819785.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7475374.02
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7695040.14
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;15098619.94
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;17749943.55
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;10722630.08
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;308745.77
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;10543654.33
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;8467968.61
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;9081298.15
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;111283939.46
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1116574.26
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;20756412.31
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;23983568.89
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;30044886.19
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;20834433.26
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;15633243.25
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;26393500.09
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;150022534.02
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;453644334.55
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8093864.46
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;61631938.9
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;16983642.21
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;16368983.15
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;844391341.28
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;655202.8
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;5339508.57
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1028568.67
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;457197.35
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;4478674.43
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;104457802.92
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;25306759.55
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;5819731.57
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;19216057.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;18501571.8
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6392197.62
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6157522.78
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;5605719.72
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;202761312.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2867.73
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;689649252.77
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;651819182.16
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;645803961.15
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;691826032.79
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;558082388.81
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;506126882.39
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;637916237.06
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1588903808.69
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;650346895.57
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;699661569.85
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;720344221.16
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;653120096.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;8693600529.28
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1.01
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3379113684.19
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3449471345.67
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3681001632.26
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);4024677340.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);4052039784.84
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);4131174083.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);4718114849.46
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);5867718604.6
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3683363642.25
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3764223386.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3630452380.9
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3724631684.74
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);48105982418.84
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);128873509.28
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);95864466156.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF);79853284.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF);18522957.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (V);95766089914.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VI) = (IIIa + IIIb);48234855928.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VI) = (IIIa + IIIb);50.37
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VII) (incisos I, II e III, art. 20 da LRF);46925384058.15
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VII) (incisos I, II e III, art. 20 da LRF);49.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VIII) = (0,95 x VII) (parágrafo único do art. 22 da LRF);44579114855.24
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VIII) = (0,95 x VII) (parágrafo único do art. 22 da LRF);46.55
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (IX) = (0,90 x VII) (inciso II do §1º do art. 59 da LRF);42232845652.34
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (IX) = (0,90 x VII) (inciso II do §1º do art. 59 da LRF);44.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Limite Máximo (a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;49.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% DTP (b);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;49.62
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% Excedente (c) = (b-a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;0.62
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Redutor Mínimo de 1/3 do Excedente (d) = (1/3*c);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;0.21
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Limite (e) = (b-d);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;49.41
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% DTP (f);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;51.37
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Redutor Residual (g) = (f-a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;2.37
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;Limite (h) = (a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;49.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 01;E;Padrão;% DTP (i);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Valores Percentuais;50.37
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);174037373999.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);178501370911.93
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;164136102591.22
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;169043006864.31
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;18427177288.04
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;18366142214.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;7773029599.95
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;8030497663.21
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;10654147688.09
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;10335644551.49
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;143484477899.76
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;148462764764.58
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;2224447403.42
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;2214099885.03
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1437630748.67
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1357293982.13
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;402809705.5
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;387930490.01
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;384006949.25
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;468875412.89
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;3024927089.62
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;2743866116.72
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;6876344319.04
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;6714497930.9
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);19126198155.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);28299115860.5
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;15301786123.76
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;24411717619.63
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;27689836834.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;33502552793.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;10038451291.56
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;6551438878.22
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;2349599418.8
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;2539396295.62
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;3824412031.42
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;3887398240.87
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);154911175844.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);150202255051.43
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);92079439352.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);95864466156.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);82167184.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);79853284.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);91997272167.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);95784612871.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);189.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);186.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);168.39
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);156.81
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;183994544335.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;191569225743.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);165595089901.66
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);172412303168.86
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;300411753045.17
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;234716155674.27
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;8908915058.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;5534216924.35
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasAsEntidadesControladas;ÀS ENTIDADES CONTROLADAS (III);813538704.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasAsEntidadesControladas;ÀS ENTIDADES CONTROLADAS (III);818619651.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasAsEntidadesControladasEmOperacoesDeCreditoInternas;Em Operações de Crédito Internas;813538704.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasAsEntidadesControladasEmOperacoesDeCreditoInternas;Em Operações de Crédito Internas;818619651.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);813538704.7
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);818619651.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);92079439352.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);95864466156.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);82167184.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);79853284.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);91997272167.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);95784612871.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.88
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.85
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;20239399876.87
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;21072614831.75
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);18215459889.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);18965353348.58
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);95864466156.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);79853284.64
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);95784612871.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;15325538059.45
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;16.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);13792984253.51
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;6704922901.01
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;7.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;ReceitaCorrenteLiquida;Receita Corrente Líquida;95864466156.23
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamentoDemonstrativoSimplificado;Receita Corrente Líquida Ajustada para Cálculo dos Limites de Endividamento;95784612871.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada para Cálculo dos Limites da Despesa com Pessoal;95766089914.59
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;48234855928.12
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;50.37
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;46925384058.15
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;49.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;44579114855.24
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.55
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;42232845652.33
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;44.1
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;150202255051.43
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;156.81
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;191569225743.18
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;818619651.36
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.85
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;21072614831.75
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;2115871.47
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;15325538059.45
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;6704922901.01
+2024;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20732660;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

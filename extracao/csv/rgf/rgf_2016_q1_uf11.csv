@@ -1,0 +1,129 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);2902614357.41
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);30877744.98
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;2560488949.68
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;29312113.74
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;307210500.23
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);34914907.5
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);1565631.24
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);309562637.14
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1296.54
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;106425.06
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;552684.79
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;7205889.69
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1296.54
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;301697637.6
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);2593051720.27
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);30876448.44
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);5882366543.24
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);2623928168.71
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);44.61
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);2882359606.19
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);2738241625.88
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);2594123645.57
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4220948216.13
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4183158548.69
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;2926476060.22
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;2892790081.87
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;2917881437.37
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;2884195459.02
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;8594622.85
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;8594622.85
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1294472155.91
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1290368466.82
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);498059052.63
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);768264625.19
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;736042573.6
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;883595701.15
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);237983520.97
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);115331075.96
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3722889163.5
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3414893923.5
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;5825194566.13
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;5882366543.24
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);72.46
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);71.11
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);63.91
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);58.05
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;11650389132.26
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;11764733086.48
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);10485350219.03
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);10588259777.83
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);2926476060.22
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);2892790081.87
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);294239600.85
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);322844673.18
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;4356628.4
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;25855850.92
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;289882972.45
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;296988822.26
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;289882972.45
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;296988822.26
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);461358650.84
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;452764027.99
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;8594622.85
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);2632236459.37
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);2108586757.85
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;328882472.48
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;328882472.48
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;112593743.81
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;131202805.37
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;601448042.63
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;429003740.57
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);1040995833.62
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);1040995833.62
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;1040995833.62
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;1040995833.62
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1425686281.43
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1519860687.85
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;85310345.8
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;62314578.51
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;1340395370.43
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;1457547452.22
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;19434.8
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;1342.88
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-384690447.81
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-478864854.23
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);5825194566.13
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);5882366543.24
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1281542804.55
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1294120639.51
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1153388524.1
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1164708575.56
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;5882366543.24
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;941178646.92
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);847060782.23
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;411765658.03
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;5882366543.24
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;2623928168.71
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;44.61
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;2882359606.19
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;2738241625.88
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;3414893923.5
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;58.05
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;11764733086.48
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1294120639.51
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;941178646.92
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;411765658.03
+2016;1;Q;Governo do Estado de Rondônia;11;RO;E;1768204;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

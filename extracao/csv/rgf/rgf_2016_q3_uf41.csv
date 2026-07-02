@@ -1,0 +1,437 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);22144725962.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7713323.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;14607621727.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;7713323.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;7510244125.57
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);26860109.36
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);6659478234.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);196.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;40911480.42
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;3718921.79
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1793291.02
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;196.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;6613054540.86
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);15485247728.22
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);7713127.01
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);34135477821.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);15492960855.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);45.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);16726384132.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);15890064926.13
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);15053745719.49
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);21419612184.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);21364980835.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);21067628625.56
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);21339250608.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;17073008865.21
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;16945507246.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;16785404963.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;18673369352.29
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;15741770333.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;15410274904.75
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;15313212241.36
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualInterna;Interna;17370728046.04
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;1331238532.12
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;1535232341.33
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;1472192722.45
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualExterna;Externa;1302641306.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;3003354087.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;3080018924.55
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;2945634786.32
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;2665881256.69
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;1343249232.56
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;1339454664.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;1336588875.43
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5360545208.8
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);8117660978.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);9420223388.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);8087319164.35
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4990455302.52
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;7438884879.48
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;8005968805.01
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;7202243428.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1151293027.49
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1235272164.76
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1467682150.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1220034461.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);781203121.21
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);556496066.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);53427566.49
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);334958725.21
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);16059066976.12
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);13247319857.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);11647405236.96
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);13251931444.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;31876371512.27
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;33335523722.14
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;34085898406.02
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;34135477821.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);67.2
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);64.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);61.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);62.51
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);50.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);39.74
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);34.17
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);38.82
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;63752743024.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;66671047444.28
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;68171796812.04
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;68270955643.96
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);57377468722.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);60003942699.85
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);61354617130.84
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);61443860079.56
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);18416258097.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);18284961910.68
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);18121993839.24
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);18673369352.29
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);1343249232.56
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);1339454664.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);1336588875.43
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);3189510607.66
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;1343249232.56
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;1339454664.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;1336588875.43
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;1666775239.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;286569732.83
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;1343249232.56
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;1339454664.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;1336588875.43
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;1380205506.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;1522735368.58
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);17073008865.21
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);16945507246.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);16785404963.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);15483858744.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;15741770333.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;15410274904.75
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;15313212241.36
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;14181217438.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;1331238532.12
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1535232341.33
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1472192722.45
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1302641306.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;1050151032.5
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;973486195.1
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;1107870333.33
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;1731899703.34
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;1399739644.32
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;1997227679.21
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;2325355842.36
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;Depositos;Depósitos;2417108180.72
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;2094828277.01
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;1307719330.95
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;838506107.53
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;1886540576.24
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);794341595.46
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);781279353.51
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);397030254.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);404057152.85
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;409020607.47
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;395958365.52
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;397030254.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;404057152.85
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;385320987.99
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;385320987.99
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);794341595.46
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);781279353.51
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);397030254.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);404057152.85
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);31845267182.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);33335523722.14
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);34085898406.02
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);34135477821.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.49
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.34
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.16
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.18
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7005958780.18
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7333815218.87
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7498897649.32
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7509805120.84
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6305362902.16
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6600433696.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6749007884.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6758824608.76
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasInternas;INTERNAS (VI);522796108.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);526012203.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);526675031.88
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);154513429.88
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;42141963.35
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;42183113.79
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;42845942.07
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;43432710.07
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;480654145.42
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;483829089.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;483829089.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;111080719.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);522796108.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);526012203.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);526675031.88
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 03;E;;Até o 3º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);154513429.88
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);73866707.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);317903652.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;73866707.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;317903652.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;1371972.65
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;4615373.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;1371972.65
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;4615373.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;72494734.58
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;313288279.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;72494734.58
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;313288279.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;34135477821.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);317903652.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.93
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;5461676451.52
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);4915508806.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;2389483447.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);317903652.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.93
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte da Contrib de Int no Domínio-Econômico - CIDE;9145855.26
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Resultado da Exploração de Recursos Hídricos,;40429888.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Especial da PGE/PR;7069965.93
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Convênios com Órgãos Federais;134953269.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;FUNDO ESTAD DE COMBATE A POBREZA - FECP;95113950.58
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Alienação de Outros Bens Móveis e Imóveis;9487350.89
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Prov de % sobre Bilhetes de Passagens Intermunic p/ Ações voltadas à Criança e ao Adolescente;832694.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas Para Estatização das Serventias do Fórum Judicial;1053.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota Parte das Multas por infração ao Código de Trânsito Brasileiro do Funrestran destinado ao Funesp;23065354.71
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Especial de Segurança Pública do Estado do Paraná - FUNESP/PR;12731528.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receita Excedente dos Colégios Agrícolas;650238.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE;289883053.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Depósitos Judiciais;145663054.35
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Operações de Crédito Internas;11368057.49
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Provenientes do Programa Paraná Competitivo;6332487.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Renda do Fundo Penitenciário;4711535.32
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Multas e Taxas de Saúde Pública - FUNSAUDE;34872.68
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Multas e Taxas de Defesa Sanitária - FEAP;5008.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo de Reequipamento do Fisco - FUNREFISCO;21462493.52
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Estadual de Políticas Sobre Drogas - FES;2480.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Operação de Crédito Externa Vinculada - PARANÁ 12 MESES/BIRD;4052948.28
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Programa de Assistência ao Menor e de Natureza Social - LEI Nº 11.091/95;28923481.21
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Pesquisa Científica e Tecnológica;34311154.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transf e Convênios com o Exterior;467234.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Estadual dos Direitos do Idoso;12188497.13
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Taxa Ambiental;11673958.29
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Operação de Crédito Externa / BIRD;223034073.16
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;16963881.04
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Estadual de Recurso Hídricos - FRHI;3809209.97
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Convênios / Outros Transferências - 148;53886565.64
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Multas por Infração ao Código de Trânsito Brasileiro - FUNRESTRAN;14759873.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências da União - SUS;60056913.5
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Reposição Florestal - SERFLOR;2589365.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Diretamente Arrecadados com Utilização Vinculada;66196433.47
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências e Convênios com Órgãos Federais;174485877.06
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências e Convênios com o Exterior;40.65
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Convênios / Outras Transferências;616122727.59
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Fundo Especial da PGE/PR;1199.61
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Convênios com Órgãos Federais;242865.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Fundo Especial de Segurança Pública do Estado do Paraná - FUNESP/PR;23034.78
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE;361687.09
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências da União - SUS- Até 2015;23100.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Operações de Crédito Internas;62809.32
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Operação de Crédito Externa Vinculada - PARANÁ 12 MESES/BIRD;1620.8
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Pesquisa Científica e Tecnológica;1062221.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Taxa Ambiental;11823.03
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Operação de Crédito Externa / BIRD;511.8
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;17339.03
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Diretamente Arrecadados com Utilização Vinculada;107.57
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências e Convênios com Órgãos Federais;1445096.52
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Convênios / Outras Transferências;472845.26
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Resultado da Exploração de Recursos Hídricos,;26292.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo Especial da PGE/PR;17272.34
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Convênios com Órgãos Federais;101034.06
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;FUNDO ESTAD DE COMBATE A POBREZA - FECP;33316100.78
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo Especial de Segurança Pública do Estado do Paraná - FUNESP/PR;31546.14
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE;103167.13
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Depósitos Judiciais;94676768.65
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Operações de Crédito Internas;2613644.45
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo de Reequipamento do Fisco - FUNREFISCO;49958.24
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Pesquisa Científica e Tecnológica;970899.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Operação de Crédito Externa / BIRD;36357.74
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;12992286.64
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo Estadual de Recurso Hídricos - FRHI;29925.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Convênios / Outros Transferências - 148;149604.64
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências da União - SUS;3372.06
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Diretamente Arrecadados com Utilização Vinculada;2044.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências e Convênios com Órgãos Federais;988412.46
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Convênios / Outras Transferências;368084.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Cota-Parte da Contrib de Int no Domínio-Econômico - CIDE;1010716.83
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Convênios com Órgãos Federais;19241097.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE;35463128.81
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Operações de Crédito Internas;2145058.27
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Programa de Assistência ao Menor e de Natureza Social - LEI Nº 11.091/95;14664536.49
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Pesquisa Científica e Tecnológica;9840399.88
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Taxa Ambiental;73324.06
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Convênios / Outros Transferências - 148;1175051.7
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Reposição Florestal - SERFLOR;362951.5
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Diretamente Arrecadados com Utilização Vinculada;3769320.83
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Transferências e Convênios com Órgãos Federais;8711809.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Convênios / Outras Transferências;8714091.53
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte da Contrib de Int no Domínio-Econômico - CIDE;8135138.43
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Resultado da Exploração de Recursos Hídricos,;40403595.79
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Especial da PGE/PR;7051493.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Convênios com Órgãos Federais;115368272.84
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;FUNDO ESTAD DE COMBATE A POBREZA - FECP;61797849.8
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Alienação de Outros Bens Móveis e Imóveis;9487350.89
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recursos Prov de % sobre Bilhetes de Passagens Intermunic p/ Ações voltadas à Criança e ao Adolescente;832694.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Receitas Para Estatização das Serventias do Fórum Judicial;1053.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota Parte das Multas por infração ao Código de Trânsito Brasileiro do Funrestran destinado ao Funesp;23065354.71
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Especial de Segurança Pública do Estado do Paraná - FUNESP/PR;12676947.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Receita Excedente dos Colégios Agrícolas;650238.25
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE;253955070.28
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências da União - SUS- Até 2015;-23100.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Depósitos Judiciais;50986285.7
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Operações de Crédito Internas;6546545.45
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recursos Provenientes do Programa Paraná Competitivo;6332487.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Renda do Fundo Penitenciário;4711535.32
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Multas e Taxas de Saúde Pública - FUNSAUDE;34872.68
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Multas e Taxas de Defesa Sanitária - FEAP;5008.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo de Reequipamento do Fisco - FUNREFISCO;21412535.28
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Estadual de Políticas Sobre Drogas - FES;2480.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Operação de Crédito Externa Vinculada - PARANÁ 12 MESES/BIRD;4051327.48
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Programa de Assistência ao Menor e de Natureza Social - LEI Nº 11.091/95;14258944.72
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Pesquisa Científica e Tecnológica;22437633.99
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transf e Convênios com o Exterior;467234.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Estadual dos Direitos do Idoso;12188497.13
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Taxa Ambiental;11588811.2
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Operação de Crédito Externa / BIRD;222997203.62
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;3954255.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Estadual de Recurso Hídricos - FRHI;3779284.34
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Outros Convênios / Outros Transferências - 148;52561909.3
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Multas por Infração ao Código de Trânsito Brasileiro - FUNRESTRAN;14759873.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências da União - SUS;60053541.44
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Reposição Florestal - SERFLOR;2226414.04
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Diretamente Arrecadados com Utilização Vinculada;62424960.3
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências e Convênios com Órgãos Federais;163340558.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências e Convênios com o Exterior;40.65
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Outros Convênios / Outras Transferências;606567706.57
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Cota-Parte da Contrib de Int no Domínio-Econômico - CIDE;202258.78
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Resultado da Exploração de Recursos Hídricos,;624236.65
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Fundo Especial da PGE/PR;2275953.36
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Convênios com Órgãos Federais;16829648.55
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;FUNDO ESTAD DE COMBATE A POBREZA - FECP;25092915.34
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Prov de % sobre Bilhetes de Passagens Intermunic p/ Ações voltadas à Criança e ao Adolescente;100.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Cota Parte das Multas por infração ao Código de Trânsito Brasileiro do Funrestran destinado ao Funesp;1467000.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Fundo Especial de Segurança Pública do Estado do Paraná - FUNESP/PR;8930049.24
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receita Excedente dos Colégios Agrícolas;49563.99
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE;84054414.97
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Operações de Crédito Internas;476929.2
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Provenientes do Programa Paraná Competitivo;1561.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Renda do Fundo Penitenciário;110558.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Multas e Taxas de Defesa Sanitária - FEAP;3222.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Fundo de Reequipamento do Fisco - FUNREFISCO;10803102.62
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Operação de Crédito Externa Vinculada - PARANÁ 12 MESES/BIRD;8893.33
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Pesquisa Científica e Tecnológica;15871984.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transf e Convênios com o Exterior;209016.9
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Fundo Estadual dos Direitos do Idoso;13052.93
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Taxa Ambiental;44403.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Operação de Crédito Externa / BIRD;20938645.59
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;3954255.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Fundo Estadual de Recurso Hídricos - FRHI;791.12
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Convênios / Outros Transferências - 148;47523254.3
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Multas por Infração ao Código de Trânsito Brasileiro - FUNRESTRAN;807547.18
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências da União - SUS;83778114.86
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Reposição Florestal - SERFLOR;553167.07
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Diretamente Arrecadados com Utilização Vinculada;3859794.6
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências e Convênios com Órgãos Federais;20705015.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Convênios / Outras Transferências;109141633.75
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Ordinário não Vinculado;2582482018.94
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas Desvinculadas pela EC 93/2016;107273860.94
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receita Condicionada da L.C. N° 87/96;74219670.76
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Venda de Ações e/ou Devolução do Capital Subscrito ou Não e Outros Títulos;225.99
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Outras Fontes Recolhidas ao Tesouro Geral do Estado Por Determinação Legal;93926318.29
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Diretamente Arrecadados;974532832.27
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Outras Fontes Recolhidas à Entidades da Administração Indireta por Determinação Legal;-13412836.38
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;RECEITAS DESVINCULADAS DA ADMINISTRAÇÃO INDIRETA PELA E.C. 93/2016;1259154.46
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Extraorçamentários;2454831493.8
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Ordinário não Vinculado;67179034.61
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Outras Fontes Recolhidas ao Tesouro Geral do Estado Por Determinação Legal;695772.24
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Diretamente Arrecadados;495305.31
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Ordinário não Vinculado;96930275.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas Desvinculadas pela EC 93/2016;6457683.2
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receita Condicionada da L.C. N° 87/96;350255.53
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Outras Fontes Recolhidas ao Tesouro Geral do Estado Por Determinação Legal;4493677.48
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Diretamente Arrecadados;5335613.04
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Ordinário não Vinculado;304740770.88
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Diretamente Arrecadados;32103190.45
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Receitas de Outras Fontes Recolhidas à Entidades da Administração Indireta por Determinação Legal;1295619.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Extraorçamentários;2417108180.72
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Ordinário não Vinculado;2113631938.06
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Receitas Desvinculadas pela EC 93/2016;100816177.74
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Receita Condicionada da L.C. N° 87/96;73869415.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Venda de Ações e/ou Devolução do Capital Subscrito ou Não e Outros Títulos;225.99
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Receitas de Outras Fontes Recolhidas ao Tesouro Geral do Estado Por Determinação Legal;88736868.57
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Diretamente Arrecadados;936598723.47
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Receitas de Outras Fontes Recolhidas à Entidades da Administração Indireta por Determinação Legal;-14708456.15
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;RECEITAS DESVINCULADAS DA ADMINISTRAÇÃO INDIRETA PELA E.C. 93/2016;1259154.46
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recursos Extraorçamentários;37723313.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Ordinário não Vinculado;767561048.22
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas Desvinculadas pela EC 93/2016;28720005.75
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receita Condicionada da L.C. N° 87/96;4628371.57
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Outras Fontes Recolhidas ao Tesouro Geral do Estado Por Determinação Legal;14951298.07
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Diretamente Arrecadados;161913701.51
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Outras Fontes Recolhidas à Entidades da Administração Indireta por Determinação Legal;7203240.84
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Vinculados;2136466427.96
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Não Vinculados;6275112739.07
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos;8411579167.03
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Vinculados;3726261.35
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;68370112.16
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos;72096373.51
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Vinculados;146476771.71
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Não Vinculados;113567504.64
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos;260044276.35
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Vinculados;105171487.27
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;338139581.1
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos;443311068.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos Não Vinculados;2417108180.72
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos;2417108180.72
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Vinculados;1881091907.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Não Vinculados;3337927360.45
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos;5219019268.08
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Vinculados;458331086.37
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Não Vinculados;984977665.96
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos;1443308752.33
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;34135477821.98
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;15492960855.23
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;45.39
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;16726384132.77
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;15890064926.13
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;13251931444.63
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;38.82
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;68270955643.96
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;404057152.85
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;1.18
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;7509805120.84
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;317903652.92
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.93
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;5461676451.52
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;2389483447.54
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;1443308752.33
+2016;3;Q;Governo do Estado do Paraná;41;PR;E;11163018;RGF-Anexo 06;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;5219019268.08

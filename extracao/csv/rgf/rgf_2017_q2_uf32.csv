@@ -1,0 +1,172 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5718589031.51
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);581092.69
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;3417093653.8
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;556916.69
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2143251052.97
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);158244324.74
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);24176.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);531056616.77
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7348848.82
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;71031266.45
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;57065751.57
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;395610749.93
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);5187532414.74
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);581092.69
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);12432975579.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);12432975579.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);5188113507.43
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);41.73
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);6092158033.79
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);5787550132.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);5482942230.41
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6809779959.8
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6823755587.15
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6680014890.69
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;6521176582.51
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;6524076848.68
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;6468206440.75
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;6067950018.83
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;6094954381.31
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;6066598057.62
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;5146543744.72
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;5178098288.93
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;5150035610.68
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;921406274.11
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;916856092.38
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;916562446.94
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;348842187.75
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;341247028.44
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;333651869.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1487414.68
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1422028.64
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1356642.6
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;347354773.07
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;339824999.8
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;332295226.56
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;104384375.93
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;87875438.93
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;67956513.97
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;2677613.37
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;26213159.66
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;6617921.34
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;285925763.92
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;273465578.81
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;205190528.6
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3671198709.81
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4273751295.04
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4664375758.65
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2341263036.12
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2883613862.56
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3212540017.62
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2618327485.02
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2970562539.84
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;3279835104.07
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;277064448.9
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;86948677.28
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;67295086.45
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1329935673.69
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1390137432.48
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1451835741.03
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3138581249.99
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2550004292.11
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2015639132.04
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;11884435326.99
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;12038259674.84
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;12432975579.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);57.3
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);56.68
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);53.73
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);26.41
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);21.18
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);16.21
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;23768870653.98
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;24076519349.68
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;24865951158.32
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);21391983588.58
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);21668867414.71
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);22379356042.49
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;1271535025.19
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;1271535025.19
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;1271535025.19
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;459686615.86
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;533978432.64
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;516991019.65
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;241818410.59
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;30661605.5
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;20116878.85
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);36271311.49
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);39014208.05
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);42413894.3
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;36271311.49
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;39014208.05
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;42413894.3
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);36271311.49
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);39014208.05
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);42413894.3
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);11884435326.99
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);12038259674.84
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);12432975579.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.31
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.32
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.34
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2614575771.93
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2648417128.46
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2735254627.41
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2353118194.74
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2383575415.61
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2461729164.67
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;17005500.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;17005500.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;6549350.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;6549350.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;12432975579.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);0.19
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1989276092.67
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);1790348483.4
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;870308290.54
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;12432975579.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;12432304779.16
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;5188113507.43
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;41.73
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;6091829341.79
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;5787237874.7
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;2550004292.11
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;2015639132.04
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;24076519349.68
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;24865951158.32
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;39014208.05
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 2º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;42413894.3
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2648417128.46
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2735254627.42
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;23554850.1
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.19
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1989276092.67
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;870308290.54
+2017;2;Q;Governo do Estado do Espírito Santo;32;ES;E;3973697;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

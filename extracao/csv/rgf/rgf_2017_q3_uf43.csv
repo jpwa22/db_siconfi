@@ -1,0 +1,305 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);29876306046.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5906654.26
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;10308885412.12
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;5703595.89
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;19399420634.76
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;203058.37
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);168000000.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);13566491396.48
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);4701562.66
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;1026409200.63
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;4699049.28
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;607724904.51
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2513.38
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;11932357291.34
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);16309814650.4
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1205091.6
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);16311019742.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);46.54
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);17172507021.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);16313881670.43
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);15455256319.35
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);73796963283.16
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);74803419810.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);74212513006.2
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);76703155009.9
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;66799770175.64
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;67825177365.76
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;67311081980.96
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;68123314462.51
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;66060329057.15
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;67111062271.26
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;66611450877.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;67471762357.27
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;59269680950.03
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;60601223310.99
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;60179758842.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;60242683029.41
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;6790648107.12
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;6509838960.27
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;6431692034.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;7229079327.86
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;739441118.49
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;714115094.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;699631103.14
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;651552105.24
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;22358.42
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;17768.32
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;9923.97
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;16199.36
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;517238079.25
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;511171506.27
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;505327453.41
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;494842793.33
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;222180680.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;202925819.91
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;194293725.76
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;156693112.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;6997193107.52
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;6978242444.79
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;6901431025.24
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;8579840547.39
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3186709544.59
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2609162753.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3210170058.34
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2648083739.47
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;6279966084.01
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;6769534363.61
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;6845572297.72
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;7697124624.89
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;3093256539.42
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;4160371610.11
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;3635402239.38
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;5049040885.42
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-3186709544.59
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-2609162753.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-3210170058.34
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-2648083739.47
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);73796963283.16
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);74803419810.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);74212513006.2
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);76703155009.9
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;34654897410.3
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;35359847964.89
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;34870614793.25
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);212.95
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);211.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);212.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);218.86
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);212.95
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);211.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);212.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);218.86
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;69309794820.6
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;70719695929.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;69741229586.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;70091865393.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);62378815338.54
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);63647726336.8
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);62767106627.85
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);63082678854.49
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;2589812807.86
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;2629570598.77
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;2877578036.29
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;Depositos;Depósitos;1778854780.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;452809228.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;1799550069.86
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;1285917013.3
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;372678142.95
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;DCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;272.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Excedente;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;72.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;Redutor;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;4.85
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;272.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;266.15
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;274.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;295.29
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;267.89
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;288.02
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;279.95
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;280.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;263.04
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;286.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;283.33
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;282.7
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;258.19
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;278.31
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;266.8
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;257.79
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;253.34
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;253.66
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;254.3
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;253.47
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;248.49
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;254.43
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;246.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;253.83
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;243.64
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;240.11
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;237.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;234.48
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;238.79
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;224.81
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;220.53
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;219.53
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;233.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;235.62
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;226.13
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;214.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;229.09
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;211.11
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;209.77
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;213.77
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;224.24
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;209.65
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;215.47
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;218.13
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;219.39
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;213.41
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;208.05
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;208.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;214.54
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;208.27
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;204.66
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;209.33
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;209.69
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;213.14
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;216.62
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;227.23
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;204.85
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;217.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;210.83
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;212.95
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;200.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);665584332.07
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);639370552.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);630878263.7
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);921083103.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;665584332.07
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;639370552.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;630878263.7
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;921083103.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);665584332.07
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);639370552.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);630878263.7
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);921083103.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);34654897410.3
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);35359847964.89
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);34870614793.25
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.92
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.81
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.81
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.63
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7624077430.27
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7779166552.28
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7671535254.52
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7710105193.33
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6861669687.24
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);7001249897.05
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6904381729.07
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6939094674.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;516723894.21
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;555025114.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;22180923.52
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;42977848.09
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;22180923.52
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;42977848.09
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;494542970.69
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;512047266.69
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;482968720.69
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;482968720.69
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;11574250.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;29078546.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);516723894.21
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);555025114.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);555025114.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);1.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;5607349231.51
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);5046614308.36
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;2453215288.79
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (I);15356589974.3
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outras Destinações Vinculadas de Recursos;15356589974.3
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (II);4051896249.92
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;4051896249.92
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);19408486224.22
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);238013283.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;238013283.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);73731792.26
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;73731792.26
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);311745075.76
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);1146092454.51
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outras Destinações Vinculadas de Recursos;1146092454.51
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);2055156575.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;2055156575.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);3201249030.39
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);102694783.93
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;102694783.93
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);41176634.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;41176634.82
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);143871418.75
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS VINCULADOS (I);10897631779.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outras Destinações Vinculadas de Recursos;10897631779.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (II);21324644644.1
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Ordinários;21324644644.1
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);32222276423.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (I);2972157672.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outras Destinações Vinculadas de Recursos;2972157672.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (II);-19442813397.14
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;-19442813397.14
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);-16470655724.56
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);346213793.91
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outras Destinações Vinculadas de Recursos;346213793.91
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);140183003.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;140183003.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);486396797.46
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;TOTAL DOS RECURSOS NÃO VINCULADOS (II);128924406.17
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;Recursos Ordinários;128924406.17
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 05;E;;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;TOTAL (III) = (I + II);128924406.17
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;35045932696.94
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;16311019742.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;46.54
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;17172507021.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;16313881670.43
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;74803419810.55
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;74212513006.2
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;76703155009.9
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;70719695929.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;69741229586.5
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;70091865393.88
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;639370552.74
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 2º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;630878263.7
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 3º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;921083103.06
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;7779166552.28
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;7671535254.52
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;7710105193.33
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;555025114.78
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1.58
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;5607349231.51
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;2453215288.79
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;486396797.46
+2017;3;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11286500;RGF-Anexo 06;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;-16470655724.56

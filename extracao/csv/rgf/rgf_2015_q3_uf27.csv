@@ -1,0 +1,239 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);3437434784.82
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);28675.62
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;2466062866.49
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;28675.62
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;907418277.21
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);63953641.12
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);377558977.67
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1233346.12
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;4903153.17
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;26759860.17
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;344662618.21
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3059875807.15
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);28675.62
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);6328523887.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);3059904482.77
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);48.35
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);3100976704.99
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);2945927869.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);2790879034.49
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);10219132621.16
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);10469642891.21
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);10855443448.77
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);11252027857.87
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;9703158277.34
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;9953668547.39
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;10339469104.95
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;10789647411.1
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;8520141099.19
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;8633273101.56
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;8767057998.33
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualInterna;Interna;9069100506.23
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;1183017178.15
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;1320395445.83
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;1572411106.62
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualExterna;Externa;1720546904.87
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;515974343.82
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;515974343.82
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;515974343.82
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;462380446.77
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);678919111.77
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1085199159.28
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);949394446.5
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);696723056.35
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1030468663.66
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1396731462.59
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1371198733.32
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1031505110.29
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;252626107.15
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;218798761.29
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;278067661.01
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;224977100.8
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);604175659.04
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);530331064.6
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);699871947.83
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);559759154.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);9540213509.39
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);9384443731.93
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);9906049002.27
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);10555304801.52
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;5969712767.26
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6118321764.94
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6272995327.64
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6328523887.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);171.18
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);171.12
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);173.05
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);177.8
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);159.81
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);153.38
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);157.92
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);166.79
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;11939425534.52
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;12236643529.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;12545990655.28
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;12657047775.48
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);10745482981.06
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);11012979176.89
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);11291391589.75
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);11391342997.93
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);9703158277.34
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);9953668547.39
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);10339469104.95
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);10789647411.1
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);302529993.15
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);290735197.97
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);282328765.17
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);262962839.07
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;7300844.25
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;6238221.56
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;5658294.22
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;4874466.72
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;272344765.59
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;263624276.56
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;258908715.22
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;242776750.75
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;272344765.59
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;263624276.56
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;258908715.22
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;242776750.75
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDoFGTS;Do FGTS;22884383.31
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;20872699.85
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;17761755.73
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;15311621.6
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);9400628284.19
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);9662933349.42
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);10057140339.78
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);10526684572.03
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;8217611106.04
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;8342537903.59
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;8484729233.16
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;8806137667.16
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;1183017178.15
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1320395445.83
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1572411106.62
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1720546904.87
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;10334893.68
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;10334893.68
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;10334893.68
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;899664.26
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;104322969.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;104322969.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;104322969.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;Depositos;Depósitos;104322969.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);51157346.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;51157346.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);83823113.81
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;553570073.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;17994284.31
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;487741243.5
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-32665767.81
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);5969712767.26
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6118321764.94
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6272995327.64
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6328523887.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1313336808.8
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1346030788.29
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1380058972.08
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1392275255.3
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1182003127.92
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1211427709.46
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1242053074.87
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1253047729.77
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6328523887.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.41
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1012563822.04
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);911307439.84
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;442996672.14
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.41
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Convênios;347905410.57
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Cota-Parte do Sal Educação - Estadual;8056860.46
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;FUNDEB;71264604.66
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Fundo Est de Errad da Pobreza - FECOEP;81930753.86
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Transf Recursos do SUS;58600111.49
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Contribuição de Interv no Dominio Econômico - CIDE;1156363.39
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Cota-Parte do Sal Educação - Federal;24691279.75
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Operações de Crédito Internas;15606216.34
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Operações de Créditos Externas;34818470.35
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Convênios;2900663.02
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Cota-Parte do Sal Educação - Estadual;34579.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;FUNDEB;15778318.92
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo Est de Errad da Pobreza - FECOEP;3468566.99
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Transf Recursos do SUS;8112212.21
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Contribuição de Interv no Dominio Econômico - CIDE;420977.51
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Cota-Parte do Sal Educação - Federal;2776.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Operações de Crédito Internas;886509.93
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Operações de Créditos Externas;12374622.8
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Convênios;345004747.55
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Cota-Parte do Sal Educação - Estadual;8022280.58
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;FUNDEB;55486285.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Fundo Est de Errad da Pobreza - FECOEP;78462186.87
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Transf Recursos do SUS;50487899.28
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Contribuição de Interv no Dominio Econômico - CIDE;735385.88
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Cota-Parte do Sal Educação - Federal;24688503.75
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Operações de Crédito Internas;14719706.41
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Operações de Créditos Externas;22443847.55
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Convênios;8945168.03
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Cota-Parte do Sal Educação - Estadual;1096703.65
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;FUNDEB;33907284.95
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transf Recursos do SUS;40620059.72
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Cota-Parte do Sal Educação - Federal;1182194.09
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Operações de Crédito Internas;426915.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Operações de Créditos Externas;8369371.56
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Recursos Ordinários - Tesouro;701329316.35
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários - Tesouro;112910191.4
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Demais Obrigações Financeiras;DemaisObrigacoesFinanceiras;Recursos Ordinários - Tesouro;707244720.46
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Recursos Ordinários - Tesouro;-118825595.51
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários - Tesouro;20533665.23
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Total dos Recursos Vinculados;644030070.87
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Total dos Recursos Não Vinculados;701329316.35
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Total dos Recursos;1345359387.22
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Vinculados;43979227.26
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Não Vinculados;112910191.4
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos;156889418.66
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Demais Obrigações Financeiras;DemaisObrigacoesFinanceiras;Total dos Recursos Não Vinculados;707244720.46
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Demais Obrigações Financeiras;DemaisObrigacoesFinanceiras;Total dos Recursos;707244720.46
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Total dos Recursos Vinculados;600050843.61
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Total dos Recursos Não Vinculados;-118825595.51
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Total dos Recursos;481225248.1
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Vinculados;94547697.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Não Vinculados;20533665.23
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos;115081363.14
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;6328523887.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3059904482.77
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;48.35
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;3100976704.99
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;2945927869.74
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;10555304801.52
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;166.79
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;12657047775.48
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1392275255.3
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;26099378.91
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.41
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1012563822.04
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;442996672.14
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;115081363.14
+2015;3;Q;Governo do Estado de Alagoas;27;AL;E;3321730;RGF-Anexo 06;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;565278631.61

@@ -1,0 +1,196 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4678367997.04
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;3176639980.32
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1460497984.34
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);41230032.38
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1434329911.52
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;10613.25
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;66352552.84
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1367966745.43
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3244038085.52
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);6950131538.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);3244038085.52
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);46.68
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);3405564453.82
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);3235286231.13
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);3065008008.44
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4488665386.74
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4094668911.5
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4630409717.81
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;3972101141.33
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;3605649200.72
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;4157112908.7
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;2481363835.15
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;2291246125.05
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;2196807928.71
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;1490737306.18
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;1314403075.67
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;1960304979.99
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;516564245.41
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;489019710.78
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;473296809.11
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);725951187.71
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1023255152.2
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1590409803.06
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1040382523.68
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1007718246.55
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1594533247.16
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;993596.07
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;71738575.73
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;33747354.77
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);315424932.04
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);56201670.08
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);37870798.87
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3762714199.03
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3071413759.3
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3039999914.75
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6600087436.36
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6689897326.15
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6950131538.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);68.01
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);61.21
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);66.62
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);57.01
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);45.91
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);43.74
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;13200174872.72
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;13379794652.3
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;13900263076.8
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);11880157385.45
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);12041815187.07
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);12510236769.12
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);3972101141.33
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);3605649200.72
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);4157112908.7
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);228875034.24
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);209735850.9
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);202258433.96
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;12070213.8
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;11699785.23
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;11332108.5
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;193274835.68
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;176049030.74
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;170482240.35
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;158140140.82
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;142056162.88
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;137631199.49
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;35134694.86
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;33992867.86
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;32851040.86
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;23529984.76
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;21987034.93
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;20444085.11
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);3366186478.54
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);3042450809.25
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);3612915281.82
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;1875449172.36
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1728047733.58
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1652610301.83
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;1490737306.18
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1314403075.67
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1960304979.99
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);377039628.55
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);353462540.57
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);341939192.92
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;12467077.35
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;9467077.35
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;8467077.35
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;7962054.04
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;7962054.04
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;7962054.04
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;69668526.45
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;303933.88
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;216097437.18
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;83502300.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;41915818.69
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;27907048.76
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);89878945.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);89878945.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);89878945.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;89878945.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;89878945.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;89878945.1
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);102425744.12
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);129161349.9
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);247163046.23
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;61963785.23
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;22420115.31
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;9215725.98
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;94628005.63
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;143621629.8
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;265663927.81
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;54166046.74
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;36880395.21
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;27716607.56
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-12546799.02
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-39282404.8
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-157284101.13
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6600087436.36
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6689897326.15
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6950131538.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1452019236.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1471777411.75
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1529028938.45
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1306817312.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1324599670.58
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1376126044.61
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);793821159.43
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);797376922.92
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;793821159.43
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;797376922.92
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;4714318.6
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;6072800.2
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;4714318.6
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;6072800.2
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;789106840.83
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;791304122.72
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;789106840.83
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;791304122.72
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);16567476.46
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);20617512.09
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;3087958.19
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;7137993.82
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoOutrasOperacoesDeCreditoNaoSujeitasAoLimite;Outras Operações de Crédito Não Sujeitas ao Limite;13479518.27
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoOutrasOperacoesDeCreditoNaoSujeitasAoLimite;Outras Operações de Crédito Não Sujeitas ao Limite;13479518.27
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6950131538.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);797376922.92
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);11.47
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1112021046.14
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1000818941.53
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;486509207.69
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);817994435.01
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);11.77
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;6950131538.4
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3244038085.52
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;46.68
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;3405564453.82
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;3235286231.13
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;3039999914.75
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;43.74
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;13900263076.8
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1529028938.45
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;797376922.92
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;11.47
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1112021046.14
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;486509207.69
+2016;2;Q;Governo do Estado do Piauí;22;PI;E;3204028;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

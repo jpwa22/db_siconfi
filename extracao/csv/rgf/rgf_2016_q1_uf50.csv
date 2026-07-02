@@ -1,0 +1,199 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5650534110.33
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);255934063.42
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;3692435564.06
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;130099169.51
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1958098546.27
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;125834893.91
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);2230838238.51
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);127245769.92
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;16751975.22
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1028611.83
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;134269.16
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;13424.08
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;255853447.86
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;368840.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1958098546.27
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;125834893.91
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3419695871.82
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);128688293.5
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);8746464276.05
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);3548384165.32
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);40.57
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);4285767495.26
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);4071479120.5
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);3857190745.73
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8801324237.52
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8719504457.39
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;8457475453.09
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;8375655672.96
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;7177609696.71
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;7234736951.56
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;1279865756.38
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;1140918721.4
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;343848784.43
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;343848784.43
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1380230957.59
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1480551258.58
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1415582358.17
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1587309989.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);35351400.58
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);106758730.52
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);7421093279.93
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);7238953198.81
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8321250479.18
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8746464276.05
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);105.77
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);99.69
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);89.18
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);82.76
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;16642500958.36
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;17492928552.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14978250862.52
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);15743635696.89
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);8457475453.09
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);8375655672.96
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);92809023.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);93051051.12
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;92809023.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;93051051.12
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;16197815.92
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;15571284.12
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;76611207.31
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;77479767.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);2358975403.53
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);2184082991.22
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;1079109647.15
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1043164269.82
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;1279865756.38
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1140918721.4
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);6005691026.33
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);6098521630.62
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;588394.53
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;588394.53
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;12231725.61
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;317789815.01
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);532039590.58
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);532039590.58
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;532039590.58
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;532039590.58
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);534821017.94
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);226573248.18
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;2855447.07
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;1655708.34
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;532035161.78
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;248439823.94
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;69590.91
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;23522284.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-2781427.36
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);305466342.4
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Limite Máximo (a);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;200.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% DCL (b);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;294.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Excedente (c) = (b-a);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;94.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;DCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;294.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Excedente;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;94.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;Redutor;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;6.28
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;294.23
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;278.18
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;286.19
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;310.34
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;287.95
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;292.91
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;280.05
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;266.64
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;281.67
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;263.45
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;242.73
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;231.6
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;275.38
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;213.82
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;216.16
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;201.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;269.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;194.82
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;184.49
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;181.12
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;262.82
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;165.87
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;153.06
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;148.3
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;256.54
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;133.45
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;124.19
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;115.27
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;250.26
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;110.56
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;108.62
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;114.24
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;243.97
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;117.42
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;118.15
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;121.59
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;237.69
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;120.06
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;113.93
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;113.14
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;231.41
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;102.24
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;104.85
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;105.4
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;225.13
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;96.26
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;93.91
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;102.41
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;218.85
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;93.99
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;89.72
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;98.68
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;212.56
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;94.2
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;96.95
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;89.18
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;206.28
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;82.76
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;200.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);25144132.65
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);22459008.71
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;25144132.65
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;22459008.71
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);25144132.65
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);22459008.71
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);8321250479.18
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);8746464276.05
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.3
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.26
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1830675105.42
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1924222140.73
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1647607594.88
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1731799926.66
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;8746464276.05
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3548384165.32
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;40.57
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;4285767495.26
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;4071479120.5
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;7238953198.81
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;82.76
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;17492928552.1
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;22459008.71
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.26
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1924222140.73
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1399434284.17
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;612252499.32
+2016;1;Q;Governo do Estado do Mato Grosso do Sul;50;MS;E;2651235;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

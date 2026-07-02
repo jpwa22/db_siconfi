@@ -1,0 +1,177 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);14487167281.05
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);10846012.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;9975773504.9
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;10537473.03
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;4508152293.03
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;35623.74
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);3241483.12
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);272915.68
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);5293275565.94
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);173670.53
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;110113317.23
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;22525.72
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;364105109.85
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;94583.93
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;753019455.67
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;20937.14
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;4066037683.19
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;35623.74
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);9193891715.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);10672341.92
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);19381862334.93
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);9204564057.03
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);47.49
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);9497112544.12
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);9022256916.91
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);8547401289.71
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);5930582624.7
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);7160530072.6
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);7150309463.68
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;4230797781.2
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;3695938083.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;3678923780.97
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;3204563675.44
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;2806440853.72
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;2851556306.44
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;1026234105.76
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;889497229.39
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;827367474.53
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1699784843.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;3464591989.49
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;3471385682.71
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1272632678.14
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2495387932.92
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2340894311.84
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1919671239.4
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1890236790.97
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1686514857.31
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;609813039.83
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;647520993.4
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;690910535.42
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1256851601.09
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);42369851.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);36531080.89
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4657949946.56
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4665142139.68
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4809415151.84
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18461481002.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18891180516.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;19381862334.93
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);32.12
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);37.9
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);36.89
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);25.23
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);24.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);24.81
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;200.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;200.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;200.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);180.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);180.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);180.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);4230797781.2
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);3695938083.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);3678923780.97
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);26782658.09
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);38736268.16
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);63048445.01
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;1052818.14
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;945356.63
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;4798872.99
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;25729839.95
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;37790911.53
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;58249572.02
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;25729839.95
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;37790911.53
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;58249572.02
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);4204015123.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);3657201814.95
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);3615875335.96
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;3177781017.35
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;2767704585.56
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;2788507861.43
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;1026234105.76
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;889497229.39
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;827367474.53
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;2312408957.54
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;763385251.34
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;779232898.02
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);206987582.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);206987582.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);192479722.77
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;206987582.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;206987582.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;192479722.77
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);206987582.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);206987582.69
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);192479722.77
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18461481002.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18891180516.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);19381862334.93
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.12
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.1
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.99
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4061525820.54
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4156059713.62
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4264009713.68
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3655373238.49
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3740453742.26
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3837608742.31
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);45793429.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);54421168.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;45793429.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;54421168.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;40560314.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;44202103.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;40560314.11
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;44202103.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;5233115.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;10219065.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;5233115.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;10219065.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;19381862334.93
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);54421168.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.28
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;3101097973.59
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2790988176.23
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1356730363.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);54421168.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.28
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;19381862334.93
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;9204564057.03
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;47.49
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;9497112544.12
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;9022256916.91
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;4809415151.84
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;24.81
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;38763724669.86
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;192479722.77
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.99
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4264009713.68
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;54421168.5
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.28
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;3101097973.59
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1356730363.45
+2016;2;Q;Governo do Distrito Federal;53;DF;E;2914830;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

@@ -1,0 +1,182 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7632184774.14
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);539324.44
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;5551714978.4
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;1451.89
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1684460930.67
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);396008865.07
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);537872.55
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);788811729.43
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;139452.28
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;60437143.48
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;38793247.91
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;689441885.76
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);6843373044.71
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);539324.44
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);15063988391.5
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);6843912369.15
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);45.43
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);7321098358.27
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);48.6
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);6955043440.36
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.17
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);6588988522.44
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);43.74
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8501127953.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8918752015.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);10089924626.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;7853594579.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;8271218641.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;9442391252.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;4536374045.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;4534523324.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;4742318086.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;3317220534.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;3736695317.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;4700073166.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;647533374.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;647533374.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;647533374.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2416144596.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3062432194.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2507774444.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;2549452952.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;3080725965.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;2519897181.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);133308356.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);18293771.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);12122737.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6084983357.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);5856319821.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);7582150182.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;14418477504.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;14825244507.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;15063988391.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);58.96
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);60.16
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);66.98
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);42.2
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);39.5
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);50.33
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;28836955008.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;29650489014.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;30127976782.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);25953259507.2
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);26685440112.6
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);27115179103.8
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);7853594579.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);8271218640.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);9442391251.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);88973673.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);89957361.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);91135865.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;88973673.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;89957361.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;91135865.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;36970826.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;37195017.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;37485845.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;52002847.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;52762344.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;53650020.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);6707339690.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);7120025979.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);8260879437.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;3524691654.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;3512456988.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;3712058552.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;3182648036.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;3607568991.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;4548820885.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);1057281216.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);1061235300.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);1090375949.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;75315528.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;60418937.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;50504576.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);152418119338.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);152418119338.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);152418119338.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;152418119338.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;152418119338.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;152418119338.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);171878267.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);51558188.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);78785867.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;172105288.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;51558188.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;78785867.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;227021.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);152246241071.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);152366561150.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);152339333471.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);204388628.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);222672441.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);271251867.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;204388628.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;222672441.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;271251867.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);666566465.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);667393329.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);669912249.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;666566465.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;667393329.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;669912249.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);870955093.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);890065770.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);941164116.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);14418477504.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);14825244507.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);15063988391.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);6.04
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);6.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);6.25
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3172065050.88
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3261553791.54
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3314077446.02
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2854858545.79
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2935398412.39
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2982669701.42
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);484940602.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);657173722.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;484940602.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;657173722.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;245862626.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;303922152.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;245862626.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;303922152.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;239077976.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;353251570.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;239077976.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;353251570.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;15063988391.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);657173722.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);4.36
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;2410238142.56
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2169214328.3
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1054479187.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);657173722.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);4.36
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3843373045.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;45.43
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;7321098358.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;48.6
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;6955043440.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.17
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;7582150181.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;50.33
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;30127976782.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;941164117.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;6.25
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;3314077446.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;657173722.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;4.36
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;2410238143.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1054479187.0
+2015;2;Q;Governo do Estado do Ceará;23;CE;E;8842791;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

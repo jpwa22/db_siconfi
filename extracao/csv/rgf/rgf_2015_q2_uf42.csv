@@ -1,0 +1,216 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);10720029790.54
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);3923191.5
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;6501435281.5
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;1663575.01
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;4198180793.87
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);20413715.17
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);2259616.49
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1458605575.71
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;132830505.87
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;74459975.28
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;23804379.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1227510715.56
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);9261424214.83
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3923191.5
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);18934320098.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);9265347406.33
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);48.93
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);9277816848.33
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);8813926005.91
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);8350035163.5
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);17882020462.01
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);18271644840.24
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);19675592132.89
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;16045929882.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;16341379237.49
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;17645667407.32
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;13308496923.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;13238494571.23
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;13914648317.28
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;2737432958.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;3102884666.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;3731019090.04
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1646343431.47
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1679040829.52
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1768027101.84
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;189747147.91
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;251224773.23
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;261897623.73
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);9830613107.54
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);10991677087.23
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);10911911305.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;7239307188.25
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;8200635862.55
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;8059687113.38
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;2648538818.29
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;2793037675.57
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;2853245099.88
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);57232899.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1996450.89
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1020907.61
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);8051407354.47
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);7279967753.01
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);8763680827.24
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;17835511027.09
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18321728533.64
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18934320098.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);100.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);99.73
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);103.91
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);45.14
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);39.73
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);46.28
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;37868640197.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);34081776177.53
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);16045929882.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);16341379237.49
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);17645667407.32
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);678861430.2
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);670315731.22
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);699719640.66
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;901114.72
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;738581.97
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;652420.07
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;677913450.89
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;669530284.66
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;699020356.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;426997271.91
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;431292638.23
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;437613651.29
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;250916178.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;238237646.43
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;261406704.71
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;46864.59
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;46864.59
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;46864.59
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);15367068452.43
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);15671063506.27
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);16945947766.66
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;12629635493.78
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;12568178840.01
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;13214928676.62
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;2737432958.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;3102884666.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;3731019090.04
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;742688.16
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;683440.32
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;683440.32
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;4453071246.82
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;4946404404.61
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;5222048122.61
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);154180017346.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);154184716478.31
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);154202299949.6
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;153981197273.2
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;153981197273.2
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;153981197273.2
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;198820073.45
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;203519205.11
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;221102676.4
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);529516771.44
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);643790166.03
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);701710209.38
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;193636.03
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;422487.47
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;529435080.31
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;643555656.2
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;701221430.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;81691.13
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;40873.8
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;66291.91
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;1107112.28
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;38454132.82
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;48496672.13
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);153650500575.21
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);153540926312.28
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);153500589740.22
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);343730817.27
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);348559029.7
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;343730817.27
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;348559029.7
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);620248814.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);301717377.52
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);301598608.07
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;620248814.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;301717377.52
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;301598608.07
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);620248814.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);645448194.79
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);650157637.77
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);17835511027.09
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18321728533.64
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18934320098.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);3.48
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);3.52
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);3.43
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3923812425.96
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4030780277.4
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4165550421.7
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3531431183.36
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3627702249.66
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3748995379.53
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasRecebidasExternas;EXTERNAS (V);343730817.27
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasRecebidasExternas;EXTERNAS (V);348559029.7
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;343730817.27
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;348559029.7
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasInternas;INTERNAS (VI);620248814.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);301717377.52
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);301598608.07
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;620248814.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;301717377.52
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;301598608.07
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);620248814.98
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);645448194.79
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);650157637.77
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);350042996.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);427943455.25
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;350042996.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;427943455.25
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;290000000.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;312954668.47
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;290000000.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;312954668.47
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;60042996.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;114988786.78
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;60042996.65
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;114988786.78
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);10866163.14
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);12484642.62
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;10866163.14
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;12484642.62
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18934320098.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);427943455.25
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);2.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;3029491215.78
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2726542094.2
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1325402406.9
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);440428097.87
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);2.33
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;18934320098.63
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;9265347406.33
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;48.93
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;9277816848.33
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;8813926005.91
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;8763680827.24
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;46.28
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;37868640197.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;650157637.77
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;3.43
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4165550421.7
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;427943455.25
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;2.26
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;3029491215.78
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1325402406.9
+2015;2;Q;Governo do Estado de Santa Catarina;42;SC;E;6727148;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

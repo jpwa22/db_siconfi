@@ -1,0 +1,183 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);10150539941.71
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;7192414220.18
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2956284414.23
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);1841307.3
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);2109456881.11
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;338516.43
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;116731658.83
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;34084076.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1958302629.79
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);8041083060.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);18329314466.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF);2397094.3
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);18326917371.76
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);8041083060.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);43.88
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);8906881842.67
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);48.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);8461537750.54
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.17
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);8016193658.4
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);43.74
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3388279401.71
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3311389058.56
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3177813970.77
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;3388279401.71
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;3311389058.56
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;3177813970.77
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;2074694248.93
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;1994181822.35
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;1909934108.95
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;1470069284.45
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;1433920418.87
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;1395254145.39
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;604624964.48
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;560261403.48
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;514679963.56
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1072630364.16
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1098901808.67
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1104413099.34
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Financiamentos;Financiamentos;81581393.21
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Financiamentos;Financiamentos;59005955.7
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2Financiamentos;Financiamentos;52873475.92
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosInternos;Internos;48860029.24
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2FinanciamentosInternos;Internos;42949987.73
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2FinanciamentosInternos;Internos;37075033.95
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosExternos;Externos;32721363.97
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2FinanciamentosExternos;Externos;16055967.97
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2FinanciamentosExternos;Externos;15798441.97
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;159373395.41
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;159299471.84
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;110593286.56
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;3607413.54
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;3271809.26
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;2935688.41
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;154729254.49
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;155170637.2
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;106910934.33
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;346207.18
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;272731.15
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;249852.51
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;690520.2
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;584294.23
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;496811.31
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1722599595.26
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2290312201.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2362790070.37
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1571977782.55
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2167719139.07
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2314354708.59
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1766637241.88
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2320485441.81
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2464688091.92
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;194659459.33
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;152766302.74
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;150333383.33
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;150621812.71
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;122593062.53
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;48435361.78
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1665679806.45
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1021076856.96
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);815023900.4
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;17922201695.92
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18241120272.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18329314466.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);18.91
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);18.15
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);17.34
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);9.29
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);5.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);4.45
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;35844403391.84
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;36482240544.12
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;36658628932.12
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);32259963052.66
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);32834016489.71
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);32992766038.91
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);255970218.08
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);249714125.72
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);233538165.28
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;3504545852.89
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;3504545852.89
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;3504545852.89
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;332618474.07
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;159127945.69
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;94278180.25
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;6565425.7
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;13024768.68
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;21013663.56
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);123728377.3
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);121423964.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);119476412.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;123728377.3
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;121423964.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;119476412.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);123728377.3
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);121423964.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);119476412.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);17922201695.92
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18241120272.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18329314466.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.69
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.67
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.65
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3942884373.1
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4013046459.85
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4032449182.53
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3548595935.79
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3611741813.87
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3629204264.28
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;15225975.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;40341031.5
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;14431802.58
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;38801619.63
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;14431802.58
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;38801619.63
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;794173.02
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;1539411.87
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;794173.02
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;1539411.87
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);15225975.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);40341031.5
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;18329314466.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);40341031.5
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);0.22
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;2932690314.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);2639421283.11
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1283052012.62
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;18329314466.06
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;18326917371.76
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;8041083060.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;43.88
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;8906881842.67
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;48.6
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;8461537750.54
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.17
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;1021076856.96
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;815023900.4
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;36482240544.12
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;36658628932.12
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;121423964.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 2º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;119476412.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4013046459.85
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4032449182.53
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;40341031.5
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;22.0
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;2932690314.57
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1283052012.62
+2017;2;Q;Governo do Estado do Pará;15;PA;E;8272724;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

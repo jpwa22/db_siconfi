@@ -1,0 +1,126 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5727514049.68
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;4076454155.45
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1515028327.78
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);136031566.45
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);910036278.46
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;318116.46
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;7547778.98
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;902170383.02
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);4817477771.22
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);10802513622.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);4817477771.22
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);44.6
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);5293231675.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);5028570091.28
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);4763908507.53
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);7314129163.62
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6872092155.21
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;6361055897.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;5987327845.34
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;3886629155.51
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;3883714361.2
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;2474426741.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;2103613484.14
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;877495359.59
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;809186402.87
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;75577907.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;75577907.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);870333543.1
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1775018887.98
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1122622774.17
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1875668830.13
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);252289231.07
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);100649942.15
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6443795620.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);5097073267.23
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;10712347552.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;10802513622.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);68.28
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);63.62
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);60.15
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);47.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;21424695104.06
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;21605027245.04
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);19282225593.65
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);19444524520.54
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);6361055897.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);5987327845.34
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);6361055897.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);5987327845.34
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);14774882.97
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);13057049.32
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;14774882.97
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;13057049.32
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);14774882.97
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);13057049.32
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);10712347552.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);10802513622.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.14
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.12
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2356716461.45
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2376552996.95
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2121044815.31
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2138897697.26
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasExternas;EXTERNAS (V);2474426741.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasRecebidasExternas;EXTERNAS (V);2103613484.14
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;2474426741.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;2103613484.14
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);2474426741.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);2103613484.14
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;100000000.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;100000000.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;100000000.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;100000000.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;3840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;3840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;3840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;3840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;10802513622.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.96
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1728402179.6
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1555561961.64
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;756175953.58
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.96
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;10802513622.52
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;4817477771.22
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;44.6
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;5293231675.03
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;5028570091.28
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;5097073267.23
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;47.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;21605027245.04
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;13057049.32
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.12
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2376552996.95
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;103840256.18
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.96
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1728402179.6
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;756175953.58
+2016;1;Q;Governo do Estado do Maranhão;21;MA;E;6904241;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

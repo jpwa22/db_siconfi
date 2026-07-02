@@ -1,0 +1,136 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);90601540291.86
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;48797710144.65
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;41803830147.21
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);24994913638.95
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;239597930.15
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;24755315708.8
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);65606626652.91
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);141496347936.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);65606626652.91
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);46.37
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);69333210488.7
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);65866549964.27
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);62399889439.83
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);269025604839.88
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);277574003929.78
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;251436729440.5
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;256477064961.05
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;233293909439.04
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;239654608592.9
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;18142820001.46
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;16822456368.15
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;16424468673.79
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;18492798434.97
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;1164406725.59
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;2604140533.76
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);33380191792.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);46625989080.24
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;22262123100.44
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;25782466587.71
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;24451799029.27
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;22397940208.79
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);13333730337.59
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1554417716.26
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);235645413047.76
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);230948014849.54
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;140398953319.01
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;141496347936.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);191.62
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);196.17
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);167.84
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);163.22
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;280797906638.02
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;282992695872.24
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);252718115974.22
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);254693426285.02
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);251436729440.5
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);256477064961.05
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);1228233298.95
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);1213643597.66
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;57523447.18
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;56867936.54
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;1170709851.77
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;1156775661.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;1170709851.77
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;1156775661.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);250208496141.55
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);255263421363.39
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;232065676140.09
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;238440964995.24
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;18142820001.46
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;16822456368.15
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;2120939490.35
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;1300256814.32
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;5713749399.73
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;6495224638.03
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;2855265048.79
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;1181894911.16
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);4176927055.33
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);4004409735.85
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;4176927055.33
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;4004409735.85
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);871595228.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);713710019.8
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;871595228.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;713710019.8
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);5048522283.33
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);4718119755.65
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);140398953319.01
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);141496347936.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);3.6
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);3.33
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;44927665062.08
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;45278831339.55
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);40434898555.87
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);40750948205.6
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;872648632.59
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;872648632.59
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;872648632.59
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;872648632.59
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;991474021.94
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;991474021.94
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;991474021.94
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;991474021.94
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;141496347936.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);1.32
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;22639415669.78
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);20375474102.8
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;9904744355.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);1.32
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;141496347936.12
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;65606626652.91
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;69333210488.7
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;65866549964.27
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;230948014849.54
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;196.17
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;282992695872.24
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;4718119755.65
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;3.33
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;45278831339.55
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1864122654.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;22639415669.78
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;9904744355.53
+2016;1;Q;Governo do Estado de São Paulo;35;SP;E;44396484;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

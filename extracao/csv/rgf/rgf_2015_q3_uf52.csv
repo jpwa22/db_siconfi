@@ -1,0 +1,257 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);10383449620.27
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1883833.08
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;7007808601.85
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;1801899.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;3265680449.95
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);109960568.47
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);81933.71
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1974816205.5
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1077187.72
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;4415844.5
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;48999163.89
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;1000000.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;44436978.34
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;77187.72
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1876964218.77
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);8408633414.77
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);806645.36
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);17361933085.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);8409440060.13
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);48.44
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);8437899479.45
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);48.6
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);8016004505.48
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.17
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);7594109531.51
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);43.74
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);18092333163.69
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);18095465860.54
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);18339440839.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);18598354565.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;17580245401.36
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;17434653367.95
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;17647786337.04
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;17880200416.13
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;17545102628.83
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;17402816958.7
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;17615805218.8
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualInterna;Interna;17843055586.95
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;35142772.53
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;31836409.25
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;31981118.24
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualExterna;Externa;37144829.18
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;512087762.33
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;660812492.59
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;691654502.33
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;718154149.1
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2248198323.41
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2452012460.54
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2779313487.9
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1478419796.33
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1268864344.45
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1183292922.05
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1226206925.2
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1530640828.65
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;2065889345.33
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1972305731.12
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;2082263317.41
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1854213526.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1086555366.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);703586192.63
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);529156754.71
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1906434558.32
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);15844134840.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);15643453400.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);15560127351.47
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);17119934768.9
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;16656493549.67
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;17096888823.86
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;17315689494.34
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;17361933085.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);108.62
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);105.84
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);105.91
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);107.12
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);95.12
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);91.5
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);89.86
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);98.61
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;33312987099.34
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;34193777647.72
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;34631378988.68
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;34723866170.56
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);29981688389.41
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);30774399882.95
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);31168241089.81
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);31251479553.5
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);17580245401.36
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);17434653367.95
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);17647786337.04
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);17880200416.13
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);890630879.74
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);830197599.03
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);789000458.06
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);760483054.61
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;280877212.09
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;284379075.11
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;288529452.17
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;292722126.92
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;590517898.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;535531545.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;491046284.11
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;454926259.14
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;590517898.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;535531545.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;491046284.11
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;454926259.14
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDoFGTS;Do FGTS;19235769.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;10286978.55
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;9424721.78
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;12834668.55
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);16689614521.62
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);16604455768.92
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);16858785878.98
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);17119717361.52
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;16654471749.09
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;16572619359.67
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;16826804760.74
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;17082572532.34
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;35142772.53
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;31836409.25
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;31981118.24
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;37144829.18
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;376644903.99
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;189023302.58
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;194216971.06
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;162124378.21
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;512087762.33
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;660812492.59
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;691654502.33
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;718154149.1
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;989687968.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;606718794.49
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;432289356.57
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;1135881828.44
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);2096928936.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);2093088159.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);2092013295.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);2088941670.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;2096928936.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;2093088159.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;2092013295.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;2088941670.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);2096928936.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);2093088159.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);2092013295.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);2088941670.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);16656493549.67
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);17096888823.86
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);17315689494.34
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);17361933085.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);12.59
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);12.24
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);12.08
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);12.03
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3664428580.93
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3761315541.25
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3809451688.75
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3819625278.76
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3297985722.84
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3385183987.13
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3428506519.88
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 03;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3437662750.88
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);378524614.29
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);556308007.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;378524614.29
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;556308007.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;375658416.9
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;547411879.7
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;375658416.9
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;547411879.7
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;2866197.39
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;8896127.53
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;2866197.39
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;8896127.53
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;17361933085.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);556308007.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);3.2
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;2777909293.64
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2500118364.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1215335315.97
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);556308007.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);3.2
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Recursos destinados à saúde;905916862.35
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Recursos destinados à MDE;572845883.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Recursos destinados à ciência e tecnologia;226555819.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Recursos destinados ao RPPS;71322267.43
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos destinados à saúde;231026420.79
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos destinados à MDE;17267785.52
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos destinados à ciência e tecnologia;5266682.07
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos destinados ao RPPS;324010.07
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos destinados à saúde;347062627.65
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos destinados à MDE;159980523.62
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos destinados à ciência e tecnologia;40471286.11
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos destinados ao RPPS;185086594.56
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos destinados à saúde;50112522.5
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos destinados à MDE;47339584.83
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos destinados à ciência e tecnologia;69178758.47
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos destinados ao RPPS;227533.69
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Recursos destinados à saúde;277715291.41
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Recursos destinados à MDE;348257989.26
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Recursos destinados à ciência e tecnologia;111639092.63
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Recursos destinados ao RPPS;-114315870.89
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos destinados à saúde;158746923.93
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos destinados à MDE;38711814.21
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos destinados à ciência e tecnologia;71626228.54
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos destinados ao RPPS;2039304.96
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Recursos Ordinários;1679535789.79
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;185292707.51
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;920066525.05
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;136037819.29
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Recursos Ordinários;438138737.94
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;809281951.73
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Total dos Recursos Vinculados;1776640832.29
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Total dos Recursos Não Vinculados;1679535789.79
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Bruta;DisponibilidadeDeCaixaBruta;Total dos Recursos;3456176622.08
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Vinculados;253884898.45
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;185292707.51
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos de Exercícios Anteriores;RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos;439177605.96
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Vinculados;732601031.94
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Não Vinculados;920066525.05
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Liquidados e Não Pagos do Exercício;RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos;1652667556.99
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Vinculados;166858399.49
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;136037819.29
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores;RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos;302896218.78
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Total dos Recursos Vinculados;623296502.41
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Total dos Recursos Não Vinculados;438138737.94
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Disponibilidade de Caixa Líquida;DisponibilidadeDeCaixaLiquida;Total dos Recursos;1061435240.35
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Vinculados;271124271.64
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Não Vinculados;809281951.73
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados do Exercício;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos;1080406223.37
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;17361933085.28
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;8409440060.13
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;48.44
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;8437899479.45
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;48.6
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;8016004505.48
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.17
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;17119934768.9
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;98.61
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;34723866170.56
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;2088941670.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;12.03
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;3819625278.76
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;556308007.23
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;3.2
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;2777909293.64
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1215335315.97
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;1135881828.44
+2015;3;Q;Governo do Estado de Goiás;52;GO;E;6523222;RGF-Anexo 06;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;1478419796.33

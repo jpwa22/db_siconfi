@@ -1,0 +1,117 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4595078118.35
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;3160768191.46
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1434309926.89
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);692953584.99
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;692953584.99
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3902124533.36
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);7848437552.42
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);3902124533.36
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);49.72
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);3845734671.83
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);3653447938.24
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);3461161204.65
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4219518331.22
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4185044145.55
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;2926239807.09
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;2903680582.78
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;2643298828.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;2598084606.38
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;282940979.09
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;305595976.4
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1293278524.13
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1281363562.77
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1482724585.97
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1610681151.45
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1207711153.95
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1371943521.29
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;330160665.32
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;314780421.57
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);55147233.3
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);76042791.41
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2736793745.25
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2574362994.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7734542432.21
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7848437552.42
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);54.55
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);53.32
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);35.38
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);32.8
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1546908486442.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;15696875104.84
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1392217637797.8
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14127187594.36
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);2926239807.09
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);2903680582.78
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1358304001.67
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1326767467.65
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;1308856313.81
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1273402452.65
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;49447687.86
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;53365015.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);1567935805.42
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);1576913115.13
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;193891802.2
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;195120489.21
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;47279605.39
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);70176693.46
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);75681298.72
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;176972.44
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;164247.4
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;47603834.22
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;60149016.16
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;22444686.07
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;15380243.75
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;48799.27
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;12208.59
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;17739776.02
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;18924507.92
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-70176693.46
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-75681298.72
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);7734542432.21
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);7848437552.42
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);4556565.16
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);4556565.16
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;4556565.16
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;4556565.16
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7848438105.78
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.19
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1255750096.92
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1130175087.23
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;549390667.4
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);19645940.26
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.25
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;7848437552.42
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3902124533.36
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;49.72
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;3845734671.83
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;3653447938.24
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;2574362994.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;32.8
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;15696875104.84
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1726656383.27
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;15089375.1
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.25
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1255750096.92
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;549390667.4
+2015;1;Q;Governo do Estado da Paraíba;25;PB;E;3943885;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

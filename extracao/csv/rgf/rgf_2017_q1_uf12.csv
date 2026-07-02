@@ -1,0 +1,126 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);2627076047.02
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;2006328942.69
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;620747104.33
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);620600816.01
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;4745970.81
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;764933.36
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;7051212.02
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;608038699.82
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);2006475231.01
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);4617521260.91
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);4617521260.91
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);2006475231.01
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);43.45
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);2262585417.85
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);2149456146.96
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);2036326876.07
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3827877107.27
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);3721101942.13
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;3658661234.55
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;3551886069.41
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;3168750516.23
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;3066686099.9
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;1777107560.69
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;1709605485.61
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;1391642955.54
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;1357080614.29
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;489910718.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;485199969.51
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;6235107.47
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;6163526.03
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;76919927.46
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;75458646.25
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;2395200.59
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;2280682.1
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;404360482.8
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;401297115.13
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;169215872.72
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;169215872.72
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);599563461.69
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);926719980.8
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;599491980.3
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;926456982.7
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;703563299.63
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;993415117.99
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;104071319.33
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;66958135.29
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;71481.39
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;262998.1
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3228313645.58
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2794381961.33
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4442141070.9
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4617521260.91
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);86.17
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);80.59
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);72.67
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);60.52
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;8884282141.8
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;9235042521.82
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);7995853927.62
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);8311538269.64
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;15765686.82
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;977776.5
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;11520931708.84
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;11520931708.84
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;30313419.22
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;99965269.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);4442141070.9
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);4617521260.91
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;977271035.6
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1015854677.4
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);879543932.04
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);914269209.66
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;4617521260.91
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);0.06
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;738803401.75
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);664923061.57
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;323226488.26
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;3274534.9
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;3274534.9
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeDividasDeTributos;Tributos;240009.74
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividasDeTributos;Tributos;240009.74
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;2840856.66
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;2840856.66
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeDividasDoFGTS;FGTS;193668.5
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividasDoFGTS;FGTS;193668.5
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;4617521260.91
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;2006475231.01
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;43.45
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;2262585417.85
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;2149456146.95
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;2794381961.33
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;9235042521.82
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1015854677.4
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;2916920.32
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.06
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;738803401.75
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;323226488.26
+2017;1;Q;Governo do Estado do Acre;12;AC;E;816687;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

@@ -1,0 +1,290 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);32666269740.4
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);104748.78
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;17828676190.85
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;104748.78
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;14107618448.48
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);729975101.07
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);4128486541.14
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);17323.28
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;3814975.67
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;57329066.96
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;104348994.53
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;17323.28
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;3962993503.98
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);28537783199.26
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);87425.5
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);46228984468.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);28537870624.76
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);61.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);22652202389.68
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);21519592270.2
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);20386982150.71
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;Limite Máximo (a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;49.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;% DTP (b);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;61.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 01;E;Padrão;% Excedente (c) = (b-a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;12.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);107569561636.83
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);102945698049.63
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);103302401502.77
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);108103232139.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaMobiliaria;Dívida Mobiliária;5947478.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaMobiliaria;Dívida Mobiliária;5246024.4
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaMobiliaria;Dívida Mobiliária;4855889.85
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaMobiliaria;Dívida Mobiliária;4848892.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;107134051335.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;102510889201.4
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;102870678115.81
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;107052062510.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;92758306534.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratualInterna;Interna;89535014345.4
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratualInterna;Interna;90656084422.7
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratualInterna;Interna;94940873044.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;14375744801.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratualExterna;Externa;12975874856.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratualExterna;Externa;12214593693.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratualExterna;Externa;12111189466.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;413339672.83
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;413339672.83
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;410644346.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;1030097586.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;16223151.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;16223151.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;16223151.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;OutrasDividas;Outras Dívidas;16223151.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);6394415302.98
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4902756428.86
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4506250728.58
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;7429054671.63
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;6679264275.58
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;5929146268.31
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4449262326.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;4189401337.35
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1928211857.56
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;1914339141.36
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;2047331365.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);5224040706.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);3704719704.28
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);3337234681.09
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);10716540882.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);101175146333.85
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);98042941620.77
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);98796150774.19
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);108103232139.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;51224316994.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;49131341507.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;48793305860.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;46228984469.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);210.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);209.53
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);211.71
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);233.84
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);197.51
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);199.55
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);202.48
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);233.84
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;102448633992.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;98262683014.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;97586611720.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;92457968938.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);92203770593.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);88436414713.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);87827950548.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);83212172044.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);107134051335.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);102510889201.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);102870678116.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);107052062510.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);902215287.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);870543735.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);858342026.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);829650412.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;282935.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;585507.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;902215287.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;870260800.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;857756519.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;829650412.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;1606845.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;476966.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;685974.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;627532.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;900608442.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;869783834.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;857070545.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;829022880.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);106231836048.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);101640345466.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);102012336090.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);106222412098.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;375988536.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;375988536.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;411053953.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;421613021.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;799318727.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;799318727.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;1935811235.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000;1415175208.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;InsuficienciaFinanceira;Insuficiência Financeira;4219947191.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;3187643890.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;Depositos;Depósitos;3660772744.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;Depositos;Depósitos;3883668628.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;Depositos;Depósitos;4182570612.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;342360843.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;62745226.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;51819509.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;363811671.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);34685909005.51
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);34685909005.51
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);34685909005.51
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);70541997189.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;34196059889.32
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;34196059889.32
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;34196059889.32
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;69887658636.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;489849116.19
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;489849116.19
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;489849116.19
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;654338553.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);33441673344.36
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);33813095385.7
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);34147045859.2
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);114614620727.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;30831302.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;382743430.17
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;660610522.19
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;87912598.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;674231972.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;711930639.86
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;778131916.18
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;InvestimentosAtivo;Investimentos;785004221.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;32741364643.36
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;32724308864.47
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;32714190969.63
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;115803136409.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;4754573.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;5887548.8
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;5887548.8
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;2061432500.27
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;344517862.95
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;1003045641.2
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;971558785.45
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;869800249.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);1244235661.15
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);872813619.81
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);538863146.31
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-44072623538.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Limite Máximo (a);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;200.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;% DCL (b);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;202.48
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;% Excedente (c) = (b-a);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;2.48
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Redutor mínimo de 25% do Excedente (d) = (0,25*c);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;0.62
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;Limite (e) = (b-d);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;201.86
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 02;E;Padrão;% DCL (f);PercentualTrajetoriaRetornoAoLimiteDaDividaConsolidadaLiquida;Valores Percentuais;233.84
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);66070744.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);66070743.79
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);66070743.79
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);51397380.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;66070744.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;66070743.79
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;66070743.79
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;51397380.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);66070744.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);66070743.79
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);66070743.79
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);51397380.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);51224316994.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);49131341507.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);48793305860.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);46228984469.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.13
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.13
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.14
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;11269349739.12
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;10808895131.54
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;10734527289.2
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;10170376583.12
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);10142414765.21
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);9728005618.39
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);9661074560.28
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);9153338924.81
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);71303040.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);575043931.93
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;71303040.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;575043931.93
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;27417916.93
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;27417916.93
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;71303040.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;547626015.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;71303040.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;547626015.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);472408527.13
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;26979741.41
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoOutrasOperacoesDeCreditoNaoSujeitasAoLimite;Outras Operações de Crédito Não Sujeitas ao Limite;445428785.72
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;46228984469.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);575043931.93
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);1.24
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;7396637515.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);6656973763.5
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;3236028912.83
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);1047452459.06
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);2.27
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Vinculados;5329164108.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Não Vinculados;-383768878.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos;4945395230.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Vinculados;806718203.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;2172478251.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos;2979196454.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Vinculados;3106863262.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Não Vinculados;6744055625.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos;9850918887.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Vinculados;260.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;773372.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos;773632.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos Vinculados;1480736361.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos Não Vinculados;1738320054.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos;3219056415.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Vinculados;-65153978.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Não Vinculados;-11039396180.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos;-11104550158.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Vinculados;36316372.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Não Vinculados;8189115.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos;44505487.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;Total dos Recursos Não Vinculados;403169345.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;Total dos Recursos;403169345.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;46228984469.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;28537870625.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;61.73
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;22652202390.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;21519592270.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;108103232139.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;233.84
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;92457968938.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;51397380.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.11
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;10170376583.18
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;575043932.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1.24
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;7396637515.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;44505487.0
+2016;3;Q;Governo do Estado do Rio de Janeiro;33;RJ;E;16550024;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;-11104550158.0

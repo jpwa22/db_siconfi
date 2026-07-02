@@ -1,0 +1,310 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1458151994.01
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;1326220048.24
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;24901007.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);107030937.81
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);17053260.92
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;392108.16
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8546232.58
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;8114920.18
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1441098733.09
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);3376579222.11
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);1441098733.09
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);42.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);1654523818.83
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);1571797627.89
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);1489071436.95
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1899694304.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1876657740.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1889523647.08
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1921907117.65
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;1833532340.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;1810498008.72
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;1823363915.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;1849018551.69
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;1833532340.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;1810498008.72
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;1823363915.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualInterna;Interna;1849018551.69
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;66159731.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;66159731.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;66159731.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;72888565.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;2232.65
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1567344115.33
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1391354020.23
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);880947729.42
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);662048132.77
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1668042515.05
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1552268999.29
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1027474937.79
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;782109370.65
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;47684225.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;46179564.11
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;45601445.52
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;44198558.27
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);148382625.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);207094543.17
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);192128653.89
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);164259796.15
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);332350189.28
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);485303720.45
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1008575917.66
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1259858984.88
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;2824662615.35
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;2919517844.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3011384282.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3376579222.11
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);67.25
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);64.28
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);62.75
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);56.92
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);11.77
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);16.62
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);33.49
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);37.31
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2542196353.82
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2627566059.71
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2710245854.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3038921299.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2287976718.43
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2364809453.74
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2439221269.15
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2735029169.91
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1833532340.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1810498008.72
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1823363915.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1849018551.69
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);451628740.47
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);467060020.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);470622887.19
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);328816296.62
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;7281802.57
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;5757663.6
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;3418225.91
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;35239068.94
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;251797121.4
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;268752540.86
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;274654844.78
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;293577227.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;251797121.4
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;268752540.86
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;274654844.78
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;293577227.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;192549816.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;192549816.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasComInstituicaoNaoFinanceira;Com Instituição Não Financeira;192549816.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1381903599.53
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1343437987.76
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1352741027.93
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1216717023.25
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;1381903599.53
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1343437987.76
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1352741027.93
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1216717023.25
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);303485231.82
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);4163684403.26
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);4201379936.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);4201379936.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);459205800.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;4163684403.26
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;4201379936.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;4201379936.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;459205800.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1749515476.06
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1959429837.77
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);2079630456.62
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);2190921320.4
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;691262.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;304601.28
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;551101.82
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;777541.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;1748824213.99
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;1959125236.49
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;2079079354.8
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;InvestimentosAtivo;Investimentos;2190143778.79
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);2414168927.2
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);2241950098.3
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);2121749479.45
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-1731715519.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB;34174617.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB - RP;3519228.03
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências Constitucionais para os Municípios;2235328.48
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transf. Constitucionais para a Educação - Ex. Ant.;1287859.22
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências Constitucionais para a Educação;22402894.89
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transf. Const. para os Municípios - Exerc. Ant.;16.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências Const. para a Saúde - Ex. Ant.;2017554.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências Constitucionais para a Saúde;3481695.1
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB - RP;210.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transf. Constitucionais para a Educação - Ex. Ant.;1722141.39
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências Const. para a Saúde - Ex. Ant.;55149475.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB;21480059.02
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências Constitucionais para os Municípios;2234609.58
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências Constitucionais para a Educação;19686831.78
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências Constitucionais para a Saúde;13683790.4
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Transf. Constitucionais para a Educação - Ex. Ant.;7157.52
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB;12694558.88
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB - RP;3519018.03
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências Constitucionais para os Municípios;718.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transf. Constitucionais para a Educação - Ex. Ant.;-441439.69
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências Constitucionais para a Educação;2716063.11
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transf. Const. para os Municípios - Exerc. Ant.;16.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências Const. para a Saúde - Ex. Ant.;-53131920.54
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências Constitucionais para a Saúde;-10202095.3
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários - RO;23235166.88
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Imp. de Renda Retido na Fonte - IRRF;10397082.98
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte do IPI;32373.31
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte do Imp.sobre Op.de Crédito, Câmbio e Se;43.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Tranf. de Recursos do SUS - Repasse Fundo a Fundo;39038799.06
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Convênios com Órgãos Federais;37385883.09
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Convênios com Órgãos Integrantes do GER;1243960.53
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Compens.Financeira da Extração Mineral;16657.27
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências Financeiras - Lei Pelé 9.615/98;212457.97
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;IRRF - Ex. Anteriores;1732495.34
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Tranf. de Recursos do SUS - Ex. Anteriores;13916633.52
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Convênios com Órgãos Federais - Exerc. Ant.;105074115.77
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Convênios com Órgãos Integrantes do GER-Ex.Ant.;11094574.44
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Tranferências de Recursos do FNDE-Ex.Ant.;71355.48
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte do Imp.sobre Op.de Crédito - Ex.Ant.;453.83
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte da CIDE - Ex. Anter.;2314500.79
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Especial - Ex. Anteriores;651442.04
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte do IPI - Exerc. Anteriores;197609.92
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Combate às Sit de Calamidade Púb-Ex.An;3645.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Tranf. de Recursos do FNAS;1283427.98
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte da CIDE;7403542.04
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do Salário-Educação;2945761.7
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;FEX - Auxílio Financeiro às Exportações-Ex.Ant.;77.63
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte do FPE;26171742.32
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;FEX - Auxílio Financeiro às Exportações;141965.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Fundo Especial do Petróleo;9193.4
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recurso Próprio da Entidade-IPER;725278.65
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Tranf. de Recursos do FNAS-Ex.Ant.;742037.39
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Tranferências de Recursos do FNDE;151158.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências Financeiras - Lei Pelé 9.615/98-Ex.;1362268.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Operações de Crédito Internas;2469486.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;ICMS Desoneração de EXportação LC 87;197197.24
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Combate às Situações de Calamidade Púb;84482.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recurso Próprio da Entidade-IPER-Exerc.Ant.;52262.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do Salário-Educação - Ex.Ant.;0.83
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Cota-Parte do FPE - Ex. Anterores;54260031.18
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Compens.Financeira da Extração Mineral-Ex.Ant.;4037.46
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recurso Próprio da Entidade;27996691.06
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Operações de Crédito Internas - Exerc.Anteriores;46519246.54
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;ICMS Desoneração de EXportação LC 87 - Ex.Ant.;156839.19
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recurso Próprio da Entidade-Ex.Ant.;190533477.23
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos do Tesouro - RO - Ex.Anterores;53888556.21
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;IRRF - Ex. Anteriores;1817518.67
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Tranf. de Recursos do SUS - Ex. Anteriores;977878.3
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Convênios com Órgãos Federais - Exerc. Ant.;1269465.87
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Convênios com Órgãos Integrantes do GER-Ex.Ant.;25639152.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Cota-Parte do FPE - Ex. Anterores;34211668.91
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recurso Próprio da Entidade-Ex.Ant.;19291082.82
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos do Tesouro - RO - Ex.Anterores;10394817.38
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários - RO;22914792.62
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Imp. de Renda Retido na Fonte - IRRF;10545992.26
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Tranf. de Recursos do SUS - Repasse Fundo a Fundo;6643407.82
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Convênios com Órgãos Federais;402605.71
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Convênios com Órgãos Integrantes do GER;1052272.79
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Tranf. de Recursos do SUS - Ex. Anteriores;900.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Convênios com Órgãos Federais - Exerc. Ant.;114308.52
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Cota-Parte do FPE;72387527.53
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Fundo Especial do Petróleo;1131154.24
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recurso Próprio da Entidade-IPER;160247.46
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Tranf. de Recursos do FNAS-Ex.Ant.;15000.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Tranferências de Recursos do FNDE;91000.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências Financeiras - Lei Pelé 9.615/98-Ex.;396410.22
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos de Combate às Situações de Calamidade Púb;84482.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Cota-Parte do FPE - Ex. Anterores;25956.01
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recurso Próprio da Entidade;9453573.31
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recurso Próprio da Entidade-Ex.Ant.;3207.19
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos do Tesouro - RO - Ex.Anterores;24131.75
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;IRRF - Ex. Anteriores;1005303.36
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Convênios com Órgãos Federais - Exerc. Ant.;22255749.77
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Convênios com Órgãos Integrantes do GER-Ex.Ant.;1922258.2
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Cota-Parte da CIDE - Ex. Anter.;57619.01
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Fundo Especial - Ex. Anteriores;200256.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recurso Próprio da Entidade-IPER-Exerc.Ant.;41670.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Cota-Parte do FPE - Ex. Anterores;5984549.02
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Compens.Financeira da Extração Mineral-Ex.Ant.;1549.95
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Operações de Crédito Internas - Exerc.Anteriores;24548619.11
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recurso Próprio da Entidade-Ex.Ant.;48913.22
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos do Tesouro - RO - Ex.Anterores;5588378.85
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recursos Ordinários - RO;320374.26
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Imp. de Renda Retido na Fonte - IRRF;-148909.28
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte do IPI;32373.31
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte do Imp.sobre Op.de Crédito, Câmbio e Se;43.12
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Tranf. de Recursos do SUS - Repasse Fundo a Fundo;32395391.24
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Convênios com Órgãos Federais;36983277.38
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Convênios com Órgãos Integrantes do GER;191687.74
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Compens.Financeira da Extração Mineral;16657.27
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências Financeiras - Lei Pelé 9.615/98;212457.97
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;IRRF - Ex. Anteriores;-1090326.69
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Tranf. de Recursos do SUS - Ex. Anteriores;12937855.22
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Convênios com Órgãos Federais - Exerc. Ant.;81434591.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Convênios com Órgãos Integrantes do GER-Ex.Ant.;-16466835.88
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Tranferências de Recursos do FNDE-Ex.Ant.;71355.48
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte do Imp.sobre Op.de Crédito - Ex.Ant.;453.83
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte da CIDE - Ex. Anter.;2256881.78
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Especial - Ex. Anteriores;451185.14
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte do IPI - Exerc. Anteriores;197609.92
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recursos de Combate às Sit de Calamidade Púb-Ex.An;3645.5
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Tranf. de Recursos do FNAS;1283427.98
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte da CIDE;7403542.04
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências do Salário-Educação;2945761.7
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;FEX - Auxílio Financeiro às Exportações-Ex.Ant.;77.63
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte do FPE;-46215785.21
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;FEX - Auxílio Financeiro às Exportações;141965.61
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Fundo Especial do Petróleo;-1121960.84
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recurso Próprio da Entidade-IPER;565031.19
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Tranf. de Recursos do FNAS-Ex.Ant.;727037.39
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Tranferências de Recursos do FNDE;60158.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências Financeiras - Lei Pelé 9.615/98-Ex.;965858.39
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Operações de Crédito Internas;2469486.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;ICMS Desoneração de EXportação LC 87;197197.24
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recurso Próprio da Entidade-IPER-Exerc.Ant.;10592.28
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Transferências do Salário-Educação - Ex.Ant.;0.83
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Cota-Parte do FPE - Ex. Anterores;14037857.24
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Compens.Financeira da Extração Mineral-Ex.Ant.;2487.51
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recurso Próprio da Entidade;18543117.75
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Operações de Crédito Internas - Exerc.Anteriores;21970627.43
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;ICMS Desoneração de EXportação LC 87 - Ex.Ant.;156839.19
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recurso Próprio da Entidade-Ex.Ant.;171190274.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Recursos do Tesouro - RO - Ex.Anterores;37881228.23
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Vinculados;69119195.26
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Não Vinculados;663718013.93
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos;732837209.19
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Vinculados;56871826.89
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;93601584.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos;150473410.96
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Vinculados;57085290.78
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Não Vinculados;125446969.43
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos;182532260.21
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Vinculados;7157.52
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;61654868.07
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Total dos Recursos;61662025.59
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Vinculados;-44845079.93
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Não Vinculados;383014592.36
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos;338169512.43
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;1441098733.09
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;42.68
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;1654523818.83
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;1571797627.89
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;1175577497.46
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;34.82
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;3038921299.9
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;3;Q;Governo do Estado de Roraima;14;RR;E;505665;RGF-Anexo 06;E;;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;154140065.41

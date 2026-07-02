@@ -1,0 +1,381 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1249761487.46
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1260799345.93
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1282403037.28
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);2007977285.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1650607434.59
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1352175275.28
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1326285533.54
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1293438738.54
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1354227908.28
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1903457241.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1818386041.47
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1448697661.58
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);17948216990.68
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);13098008.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;867140428.84
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;869981872.21
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;896904790.28
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1418142252.69
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1245631381.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;921388181.27
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;866232046.83
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;851238164.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;881554953.45
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1239546312.6
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1328568983.09
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;967552869.35
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;12353882236.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;1071555.61
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;753613562.74
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;746164553.08
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;765125850.17
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1127574427.43
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1173230806.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;768473528.32
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;774160849.83
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;713098339.86
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;729482407.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1114773085.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1216790351.15
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;832948083.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;10715435844.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;298620.36
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;113526866.1
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;123817319.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;131778940.11
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;290567825.26
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;72400574.8
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;152914652.95
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;92071197.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;138139824.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;152072546.4
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;124773227.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;111778631.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;134604786.1
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;1638446391.87
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);ObrigacoesPatronais;Obrigações Patronais;772935.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;312827365.65
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;316830867.33
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;317923714.38
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;486318268.77
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;320197909.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;321998166.3
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;320208842.56
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;321475290.14
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;322949842.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;501264067.07
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;341043115.96
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;330524402.7
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;4213561852.86
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;14370.67
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;243372187.65
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;245973052.49
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;247822697.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;378256518.63
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;248234853.33
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;249730921.91
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;248481851.86
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;249288122.21
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;250639004.07
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;389323974.76
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;264878099.77
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;250674879.43
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;3266676163.59
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;14370.67
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesasPensoesInativosEPensionistas;Pensões;69455178.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;70857814.84
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;70101016.9
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesasPensoesInativosEPensionistas;Pensões;108061750.14
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;71963056.19
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;72267244.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;71726990.7
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;72187167.93
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;72310838.41
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;111940092.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;76165016.19
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;79849523.27
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;946885689.27
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);69793692.97
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);73986606.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);67574532.62
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);103516763.54
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);84778144.02
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);108788927.71
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);139844644.15
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);120725284.01
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);149723112.35
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);162646862.06
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);148773942.42
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);150620389.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);1380772901.77
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);12012081.72
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);221073034.03
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);184148002.14
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);249853441.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);377118069.4
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);818638525.03
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);268079929.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);313848551.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);228885039.71
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);239045554.88
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);339146460.15
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);719343006.02
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);374760129.33
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);4333939742.88
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);24021.45
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;120967.7
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;90309.61
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;89158.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;399572.97
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;120536.19
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;14098.24
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;34441.54
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;34344.87
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;39356.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;134563.59
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;99787.96
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;54131.12
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;1231269.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais;9650.78
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;16721118.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18303409.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18346526.36
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18419888.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;599663619.62
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;47237834.06
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;95133595.79
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;23320661.6
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;23906864.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;23259040.64
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;484901502.96
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;83693161.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;1452907224.01
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;4048555.85
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2013738.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1782861.97
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3264162.02
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3197142.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3511634.86
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;4409568.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2775407.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3635349.33
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6498309.19
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3538534.89
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3011004.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;41686268.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;200182391.96
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;163740544.89
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;229634894.49
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;355034445.93
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;215657226.71
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;217316362.09
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;214270945.81
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;202754626.24
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;211463984.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;309254546.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;230803180.21
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;288001832.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;2838114981.32
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;14370.67
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1028688453.43
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1076651343.79
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1032549595.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1630859215.6
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);831968909.56
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1084095346.03
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1012436982.15
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1064553698.83
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1115182353.4
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1564310781.58
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1099043035.45
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1073937532.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);13614277247.8
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);13073986.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);31099960544.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);1185695.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF) e ao vencimento dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11) (VI);65587134.64
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI);31033187715.12
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);13627351234.35
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);43.91
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);15206261980.41
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);49.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);14445948881.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);46.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);13685635782.37
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);44.1
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);17568895743.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);16877627081.5
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);16340713979.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;16306965804.84
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;15615697143.21
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;15078784041.22
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;14737809442.22
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;14044069934.33
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;13507049861.29
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;5469519863.83
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;5354845454.68
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;5031861593.11
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;9268289578.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;8689224479.65
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;8475188268.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1107434161.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1130244883.8
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1161527345.2
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Financiamentos;Financiamentos;152026229.38
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Financiamentos;Financiamentos;140893498.5
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Financiamentos;Financiamentos;121353720.43
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosExternos;Externos;152026229.38
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2FinanciamentosExternos;Externos;140893498.5
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2FinanciamentosExternos;Externos;121353720.43
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;23662307.35
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;20292836.12
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;16835813.12
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1538251.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1389594.15
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1368489.74
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;22124056.3
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;18903241.97
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;15467323.38
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;286033664.38
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;280195990.46
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;272017301.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;568584287.04
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;568584287.04
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;568584287.04
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;693345651.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;693345651.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;693345651.25
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);7351636456.27
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);8620280993.36
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);8220318882.99
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;7147203143.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;8334198857.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;7702423578.93
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;8733510976.08
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;10165164911.78
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;9485573109.32
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;118635155.11
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;28907754.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;18105275.54
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;1467672677.46
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;1802058299.77
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;1765044254.85
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;204433312.76
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;286082135.83
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;517895304.06
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);10217259286.86
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);8257346088.14
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);8120395096.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);30383651351.44
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);30660991101.69
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);31099960544.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);521091.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);671091.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);1185695.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);30383130260.26
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);30660320010.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);31098774849.76
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);57.82
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);55.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);52.54
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);33.63
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);26.93
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);26.11
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;60766260520.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;61320640021.02
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;62197549699.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);54689634468.47
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);55188576018.92
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);55977794729.57
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);97459374.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);97459374.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);97459374.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;90581356181.79
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;90581356181.79
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;62753533282.61
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;1222051610.45
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;493814971.65
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;272066722.71
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;110885780.44
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;110885780.44
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;110885780.44
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasAsEntidadesControladas;ÀS ENTIDADES CONTROLADAS (III);184726126.5
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasAsEntidadesControladas;ÀS ENTIDADES CONTROLADAS (III);163344361.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasAsEntidadesControladas;ÀS ENTIDADES CONTROLADAS (III);160770414.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasAsEntidadesControladasEmOperacoesDeCreditoExternas;Em Operações de Crédito Externas;184726126.5
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasAsEntidadesControladasEmOperacoesDeCreditoExternas;Em Operações de Crédito Externas;163344361.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasAsEntidadesControladasEmOperacoesDeCreditoExternas;Em Operações de Crédito Externas;160770414.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);184726126.5
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);163344361.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);160770414.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);30383651351.44
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);30660991101.69
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);31099960544.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);521091.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);671091.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);1185695.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);30383130260.26
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);30660320010.51
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);31098774849.76
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.61
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6684288657.26
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6745270402.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6841730466.95
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6015859791.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6070743362.08
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6157557420.26
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;98567382.56
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;182376791.21
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;7086692.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;9157746.81
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;6315499.05
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;8386553.68
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaOperacoesDeCreditoPrevistas;Operações de Crédito não sujeitas ao limite para fins de contratação (I);771193.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaOperacoesDeCreditoPrevistas;Operações de Crédito não sujeitas ao limite para fins de contratação (I);771193.13
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;91480690.38
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;173219044.4
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;45827877.65
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;88447566.85
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de crédito não sujeitas ao limite para fins de contratação (II);45652812.73
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de crédito não sujeitas ao limite para fins de contratação (II);84771477.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);98567382.56
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);182376791.21
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);31099960544.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);1185695.18
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);31098774849.76
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);96834120.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);0.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;4975803975.96
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;16.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);4478223578.37
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;2176914239.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;7.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;ReceitaCorrenteLiquida;Receita Corrente Líquida;31099960544.94
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamentoDemonstrativoSimplificado;Receita Corrente Líquida Ajustada para Cálculo dos Limites de Endividamento;31098774849.76
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada para Cálculo dos Limites da Despesa com Pessoal;31033187715.12
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;13627351234.35
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;43.91
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;15206261980.41
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;49.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;14445948881.39
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.55
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;13685635782.37
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;44.1
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;8120395096.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;26.11
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;62197549699.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;160770414.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.52
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;6841730466.95
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;96834120.53
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.31
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;4975803975.96
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;VALOR ATÉ O QUADRIMESTRE DE REFERÊNCIA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;2176914239.48
+2023;2;Q;Governo do Estado do Ceará;23;CE;E;9240580;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

@@ -1,0 +1,149 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);12332090571.63
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;7510583194.89
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;4821507376.74
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);3349764288.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;21731644.37
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;50299391.06
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;18543058.45
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;3259190194.12
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);8982326283.63
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);19019500292.52
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);8982326283.63
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);47.23
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);9319555143.33
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);8853577386.17
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);8387599629.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);13781558721.01
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);14343658484.27
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;13316072077.7
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;13878094272.95
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;8348996585.85
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;8284131927.44
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;4967075491.85
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;5593962345.51
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;465486643.31
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;465564211.32
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3086066815.54
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4064759676.31
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;2676135608.99
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;3628309335.07
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;440219018.95
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;536075347.75
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);30287812.4
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);99625006.51
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);10695491905.47
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);10278898807.96
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;18475020080.82
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;19019500292.52
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);74.6
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);75.42
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);57.89
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);54.04
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;36950040161.64
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;38039000585.04
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);33255036145.48
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);34235100526.54
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);13316072077.7
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);13878094272.95
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);46868770.47
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);44503219.75
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;46868770.47
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;44503219.75
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;32561499.97
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;30882814.34
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;14307270.5
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;13620405.41
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);13269203307.23
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);13833591053.2
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;8302127815.38
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;8239628707.69
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;4967075491.85
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;5593962345.51
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;470926208.02
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;573299563.78
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);175496483224.04
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);185500160644.69
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;175496483224.04
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;185500160644.69
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);51617633.25
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);59956008.23
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;2856162.07
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;2463841.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;48786937.18
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;57520656.67
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;25466.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;28489.44
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);175444865590.79
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);185440204636.46
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);3182382.35
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);3293394.33
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;3182382.35
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;3293394.33
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);3182382.35
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);3293394.33
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);18475020080.82
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);19019500292.52
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.02
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.02
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4064504417.78
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4184290064.35
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3658053976.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3765861057.92
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasExternas;EXTERNAS (V);1665625.76
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasRecebidasExternas;EXTERNAS (V);1665625.76
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;1665625.76
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;1665625.76
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);1665625.76
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);1665625.76
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);33254098.14
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);33254098.14
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;33254098.14
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;33254098.14
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;9161940.94
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;9161940.94
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;9161940.94
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;9161940.94
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;24092157.2
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;24092157.2
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;24092157.2
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;24092157.2
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);3307672.8
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);3307672.8
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;3307672.8
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;3307672.8
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;19019500292.52
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);33254098.14
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.17
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;3043120046.8
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2738808042.12
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1331365020.48
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);36561770.94
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.19
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;19019500292.52
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;8982326283.63
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;47.23
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;9319555143.33
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;8853577386.17
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;10278898807.96
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;54.04
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;38039000585.04
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;3293394.33
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.02
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4184290064.35
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;33254098.14
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.17
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;3043120046.8
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1331365020.48
+2015;1;Q;Governo do Estado de Pernambuco;26;PE;E;9277727;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

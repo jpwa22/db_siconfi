@@ -1,0 +1,110 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4064084113.04
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;2527594320.19
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1535032592.17
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);1457200.68
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1167817147.49
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;11436375.65
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;15904624.95
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;15534895.14
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1124941251.75
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);2896266965.55
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);6038199971.54
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);2896266965.55
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);47.97
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);2958717986.05
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);2810782086.75
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);2662846187.45
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4061413692.17
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);4491826899.5
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;2842838525.45
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;2748857858.15
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;2359264700.99
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;2271756993.69
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;483573824.46
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;477100864.46
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;729986762.89
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;729986762.89
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;488588403.83
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;1012982278.46
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);568020612.5
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1221496280.18
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;598505012.99
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1104131013.05
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;125030919.26
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;187292801.81
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);155515319.75
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);69927534.68
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3493393079.67
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3270330619.32
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;5982485349.94
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6038199971.54
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);67.89
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);74.39
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);58.39
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);54.16
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;11964970699.88
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;12076399943.08
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);10768473629.89
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);10868759948.77
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);2842838525.45
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);2748857858.15
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);95248213.92
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);95638935.46
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;95248213.92
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;95638935.46
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;34188751.49
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;33788252.64
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;61059462.43
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;61850682.82
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);2747590311.53
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);2653218922.69
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);61616779859.09
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);62062178324.96
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;61478421347.68
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;61478421347.68
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;138358511.41
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;583756977.28
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);448254687.31
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);767613508.26
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;8046122.13
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;312172881.36
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;380538582.01
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;366520034.87
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;59669983.17
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;88920592.03
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);61168525171.78
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);61294564816.7
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);5982485349.94
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);6038199971.54
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1316146776.99
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1328403993.74
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1184532099.29
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1195563594.36
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;6038199971.54
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;966111995.45
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);869500795.91
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;422673998.01
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;6038199971.54
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;2896266965.55
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;47.97
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;2958717986.05
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;2810782086.75
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;3270330619.32
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;54.16
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;12076399943.08
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1328403993.74
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;966111995.45
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;422673998.01
+2015;1;Q;Governo do Estado de Sergipe;28;SE;E;2219574;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

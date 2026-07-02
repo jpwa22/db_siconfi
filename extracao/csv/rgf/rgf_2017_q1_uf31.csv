@@ -1,0 +1,203 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);40469960992.21
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);20034987.73
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;21006211343.12
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;6160140.86
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;18538158271.51
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;13874846.87
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);925591377.58
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);13510537715.54
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);13876031.87
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;363833.98
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;274691589.77
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;36951572.16
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1185.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;13198530719.63
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;13874846.87
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);26959423276.67
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);6158955.86
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);26965582232.53
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);49.1
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);26909400236.2
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);25563930224.39
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);24218460212.58
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 01;E;;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);113258470146.59
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);105593125894.52
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;110344402237.37
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;102766818078.7
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;108849871506.58
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;101294133929.51
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;96803110252.78
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;89701054542.43
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;12046761253.8
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;11593079387.08
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;1494530730.79
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;1472684149.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;989231202.27
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;977295652.99
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;505299528.52
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;495388496.2
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;2833203902.89
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;2825043546.98
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;80864006.33
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;1264268.84
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5891473698.07
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);7674776764.63
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1734585180.85
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4486289088.86
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4595016458.86
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;6243635966.17
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;2860431278.01
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;5891473698.07
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;5940191583.78
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);107366996448.52
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);97918349129.89
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;53711236886.39
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);210.87
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);192.28
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);199.9
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);178.3
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;107422473772.78
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;109834286678.38
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);96680226395.5
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);98850858010.54
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InsuficienciaFinanceira;Insuficiência Financeira;1757346877.31
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;5690101626.02
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;3404959447.46
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;DCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;234.45
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Excedente;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;34.45
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;Redutor;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;2.3
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;200.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;222.91
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;240.91
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;274.39
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;232.15
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;255.44
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;234.43
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;238.76
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;229.85
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;229.94
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;228.75
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;224.53
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;227.55
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;215.58
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;201.7
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;203.12
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;225.25
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;189.12
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;184.92
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;189.13
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;222.95
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;182.26
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;178.52
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;187.76
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;220.65
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;160.58
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;165.86
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;175.42
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;218.35
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;172.5
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;172.88
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;179.46
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;216.05
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;173.6
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;170.84
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;182.18
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;213.75
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;173.12
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;176.36
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;181.77
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;211.45
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;170.37
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;173.96
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;174.54
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;209.15
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;166.46
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;168.82
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;178.97
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;206.85
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;170.57
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;166.7
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;178.99
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;204.55
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;182.43
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;195.25
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;198.93
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;202.25
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;1º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;187.76
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;2º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;184.33
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;3º;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;199.9
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 02;E;;% Limite de Endividamento;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% da DCL sobre a RCL;200.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);222435628.2
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);217863907.68
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;222435628.2
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;217863907.68
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);862906395.54
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);866593994.7
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;862906395.54
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;866593994.7
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);1085342023.74
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);1084457902.38
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);53731469131.32
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.02
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.97
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;11820923208.89
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;12081771534.62
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);10638830888.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);10873594381.16
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);0.06
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;8786742934.27
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);7908068640.84
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;3844200033.74
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;-21846581.6
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;-21846581.6
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;-21846581.6
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;-21846581.6
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;54917143339.19
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;26965582232.53
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;49.1
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;26909400236.2
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;25563930224.39
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;97918349129.89
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;109834286678.38
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;1084457902.38
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;12081771534.62
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;33289810.09
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.06
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;8786742934.27
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;3844200033.74
+2017;1;Q;Governo do Estado de Minas Gerais;31;MG;E;20997560;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

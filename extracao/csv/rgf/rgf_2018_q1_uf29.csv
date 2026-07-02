@@ -1,0 +1,335 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1449926980.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1379018198.41
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1346955666.47
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1390320155.91
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1400025031.47
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1400509857.82
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1328811365.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);2491869179.82
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1226406811.65
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1516490851.85
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1687722315.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1489105671.53
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);18107162086.31
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);3883436.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;975193102.27
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;941671160.44
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;887057523.45
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;925816821.68
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;936912060.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;923366608.54
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;835450155.68
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1776224128.06
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;738007100.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1025129393.25
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1186874470.38
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;981913490.3
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;12133616014.6
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;2009971.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;809742151.47
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;777587123.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;729721812.07
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;764923618.39
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;777359034.32
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;765961882.59
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;714728195.11
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1400612396.22
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;619171770.49
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;851803211.63
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;981217165.43
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;845161304.03
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;10037989664.98
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;2009971.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;164632379.96
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;163271074.25
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;156537940.52
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;160096936.66
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;158802256.44
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;156568789.18
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;119923791.75
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;374643833.31
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;117881229.54
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;172318627.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;204682129.94
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;135781495.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;2085140484.59
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;BeneficiosPrevidenciarios;Benefícios Previdenciários;818570.84
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;BeneficiosPrevidenciarios;Benefícios Previdenciários;812962.98
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;BeneficiosPrevidenciarios;Benefícios Previdenciários;797770.86
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;BeneficiosPrevidenciarios;Benefícios Previdenciários;796266.63
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;BeneficiosPrevidenciarios;Benefícios Previdenciários;750769.41
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;BeneficiosPrevidenciarios;Benefícios Previdenciários;835936.77
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;BeneficiosPrevidenciarios;Benefícios Previdenciários;798168.82
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;BeneficiosPrevidenciarios;Benefícios Previdenciários;967898.53
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;BeneficiosPrevidenciarios;Benefícios Previdenciários;954100.33
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;BeneficiosPrevidenciarios;Benefícios Previdenciários;1007553.79
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;BeneficiosPrevidenciarios;Benefícios Previdenciários;975175.01
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;BeneficiosPrevidenciarios;Benefícios Previdenciários;970691.06
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);BeneficiosPrevidenciarios;Benefícios Previdenciários;10485865.03
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;470728482.68
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;432633442.05
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;456788267.54
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;460625847.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;458619510.73
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;472118144.03
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;487504053.89
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;709977286.58
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;488399711.29
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;489359524.75
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;496286609.82
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;500583841.12
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;5923624721.48
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;412625290.8
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;375192006.8
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;397876709.98
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;401820595.99
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;399654265.95
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;412645362.75
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;425193297.66
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;620421450.92
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;426008419.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;426334992.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;433666776.23
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;437356875.41
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;5168796045.06
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesasPensoesInativosEPensionistas;Pensões;58068661.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;57405526.09
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;58874490.04
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesasPensoesInativosEPensionistas;Pensões;58767411.25
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;58929997.54
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;59437147.92
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;62272916.47
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;89518492.34
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;62347384.1
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;62979466.29
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;62574105.95
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;63180741.63
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;754356341.34
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;34530.16
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;35909.16
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;37067.52
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;37839.76
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;35247.24
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;35633.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;37839.76
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;37343.32
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;43907.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;45065.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;45727.64
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;46224.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;472335.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);4005395.41
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);4713595.92
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);3109875.48
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);3877487.23
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);4493460.57
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);5025105.25
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);5857156.26
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);5667765.18
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);2001933.85
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);4561234.97
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);6608340.11
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);49921350.23
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);1873465.53
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);467563674.04
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);435819652.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);453756784.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);453395366.61
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);286008824.62
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);255168860.04
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);236500427.95
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);557102696.61
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);395232850.6
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);288318137.58
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);290431905.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);310430796.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);4429729976.07
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1894200.65
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1656296.84
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1812512.45
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1689213.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1754855.1
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1331159.94
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;3846301.14
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;3968128.14
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;32479.2
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1905032.84
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;2039574.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;2137678.46
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;24067432.76
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;19202885.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;19228224.39
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18574098.14
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;19066841.32
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;17861107.82
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;21838370.57
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18027825.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;31428609.04
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18661589.85
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;19873322.39
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18954941.73
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;21549959.28
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;244267774.7
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;4597645.45
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;11364880.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6100511.45
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1980457.46
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;5214256.65
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6706595.02
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2960725.47
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3153093.18
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;42078164.89
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;441868942.94
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;403570250.77
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;427269662.33
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;430658854.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;261178605.05
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;225292734.51
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;211665576.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;518552866.25
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;376538781.55
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;266539782.35
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;269437389.18
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;286743158.62
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;4119316603.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);982363306.32
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);943198546.2
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);893198882.1
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);936924789.3
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1114016206.85
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1145340997.78
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1092310937.88
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1934766483.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);831173961.05
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1228172714.27
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1397290410.09
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1178674875.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);13677432110.24
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3883436.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);30283939640.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF);31833753.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);30252105887.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);13681315546.98
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);45.22
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);14702523461.26
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);48.6
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);13967397288.2
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);13232271115.13
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);43.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);22677725517.09
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);23064484398.4
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;18534594879.22
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;18907379587.26
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;5012600839.32
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;5072576592.14
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Financiamentos;Financiamentos;12983848373.32
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Financiamentos;Financiamentos;13420700373.59
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosInternos;Internos;4914386509.28
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2FinanciamentosInternos;Internos;4919071690.41
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosExternos;Externos;8069461864.04
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2FinanciamentosExternos;Externos;8501628683.18
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;538145666.58
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;414102621.53
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;438495276.96
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;314520289.04
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;94957595.49
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;95067672.94
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;4692794.13
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;4514659.55
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;3933028800.96
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;3975935002.51
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;210101836.91
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;181169808.63
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5433939988.6
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);6073060518.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;4666165028.09
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;5273710304.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4923784330.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;5314033279.4
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;257619302.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;40322975.19
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;767774960.51
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;799350214.51
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);17243785528.49
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);16991423879.68
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;29952763445.46
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;30283939640.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);75.71
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);76.16
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);57.57
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);56.11
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;59905526890.92
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;60567879280.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);53914974201.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);54511091352.67
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;181827201787.11
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;217852960226.8
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos e Consignações Sem Contrapartida;1032688005.18
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;Depositos;Depósitos e Consignações Sem Contrapartida;1029469309.24
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;584951609.84
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;94439593.09
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualDePPP;Dívida Contratual de PPP;481942507.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratualDePPP;Dívida Contratual de PPP;435977034.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais - LC 151/2015;658745477.98
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais - LC 151/2015;730372552.39
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasPorMeioDeFundosEProgramas;POR MEIO DE FUNDOS E PROGRAMAS (IV);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasPorMeioDeFundosEProgramas;POR MEIO DE FUNDOS E PROGRAMAS (IV);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);29952763445.46
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);30283939640.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (V/VI);0.31
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (V/VI);0.3
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6589607958.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6662466720.88
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5930647162.2
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5996220048.79
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasEmGarantiasPorMeioDeFundosEProgramas;EM GARANTIAS POR MEIO DE FUNDOS E PROGRAMAS (X);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ContragarantiasRecebidasEmGarantiasPorMeioDeFundosEProgramas;EM GARANTIAS POR MEIO DE FUNDOS E PROGRAMAS (X);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XI) = (VII + VIII + IX + X);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XI) = (VII + VIII + IX + X);91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;163376724.52
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;163376724.52
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;3305619.44
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;3305619.44
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;3305619.44
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;3305619.44
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;160071105.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;160071105.08
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;122782902.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;122782902.36
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001 (II);37288202.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de Crédito Previstas no art. 7º § 3º da RSF nº 43/2001 (II);37288202.72
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);163376724.52
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);163376724.52
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL (IV);30283939640.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (VI) = (IIIa + V - Ia - IIa);126088521.8
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (VI) = (IIIa + V - Ia - IIa);0.42
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;4845430342.46
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);4360887308.21
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;2119875774.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;30283939640.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;30252105887.37
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;13681315546.98
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;45.22
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;14702523461.26
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;48.6
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;13967397288.2
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.17
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;13232271115.14
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;43.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;16991423879.68
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;60567879280.74
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;91600000.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;6662466720.88
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;126088521.8
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.54
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;4845430342.46
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;2119875774.83
+2018;1;Q;Governo do Estado da Bahia;29;BA;E;15276566;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

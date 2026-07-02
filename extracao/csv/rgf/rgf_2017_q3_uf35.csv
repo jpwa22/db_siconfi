@@ -1,0 +1,289 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);93229718339.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;47663458467.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;45566259872.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);27415604995.3
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;215219067.76
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;27200385927.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);65814113344.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);151562454361.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF);33490665.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);151528963696.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);65814113344.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);43.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);74249192211.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);70536732600.83
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);66824272990.26
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);277904437710.13
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);286930015229.56
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);289959870305.2
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);294768329392.56
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;256114780931.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;263446374100.55
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;266226551304.7
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;271351048193.41
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;254920148744.8
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;262286521000.64
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;265097609847.14
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;269965620640.53
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;237979741240.27
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;245355359229.99
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;247323912703.5
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;250266675127.82
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;16940407504.53
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;16931161770.65
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;17773697143.64
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;19698945512.71
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;1194632186.63
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;1159853099.91
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;1128941457.56
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;1385427552.88
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;55232287.92
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;42979181.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;41839995.02
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;40478967.9
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1139399898.71
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1116873918.51
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1087101462.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;1344948584.98
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;20941149798.37
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;23461546182.91
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;23713516191.63
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;23239321611.9
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;848506980.33
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;22094946.1
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;19802808.87
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;OutrasDividas;Outras Dívidas;177959587.25
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);31469768771.65
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);40508014520.6
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);51254804033.77
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);35661995573.92
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;12520891070.38
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;25092154731.19
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;27093171120.39
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;16174556664.1
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;23543477463.74
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;26565827049.35
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;28158648860.09
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;28997038294.06
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;11022586393.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;1473672318.16
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;1065477739.7
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;12822481629.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;18948877701.27
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;15415859789.41
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;24161632913.38
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;19487438909.82
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);246434668938.48
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);246422000708.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);238705066271.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);259106333818.64
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;140443287171.02
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;141498128082.29
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;146284762102.18
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;151562454361.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);197.88
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);202.78
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);198.22
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);194.49
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);175.47
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);174.15
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);163.18
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);170.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;280886574342.04
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;282996256164.58
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;292569524204.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;303124908723.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);252797916907.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);254696630548.12
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);263312571783.92
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);272812417851.11
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;373056475.65
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;185818128.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;225883262.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosAnterioresA05052000;Precatórios Anteriores a 05/05/2000;229376469.45
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;658129347637.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;658129347637.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;658129347637.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;732293915674.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;7704496884.95
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;Depositos;Depósitos;8305371191.71
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;Depositos;Depósitos;9028022725.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;Depositos;Depósitos;12989010533.62
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;3645196627.38
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;1951193973.94
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;1093622177.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;4137569445.52
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);3680959867.01
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);3692109934.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);3597647672.02
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);3738320111.31
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;3680959867.01
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;3692109934.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;3597647672.02
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasExternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;3738320111.31
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);559909308.2
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);491438461.2
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);425796039.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);382686922.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;559909308.2
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;491438461.2
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;425796039.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;382686922.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);4240869175.21
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);4183548395.63
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);4023443711.42
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);4121007033.31
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);140443287171.2
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);141498128082.29
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);146284762102.18
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);151562454361.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);3.02
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.75
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);2.72
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;44941851894.72
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;45279400986.33
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;46811123872.7
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;48499985395.75
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);40447666705.25
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);40751460887.7
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);42130011485.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);43649986856.18
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;3445518254.37
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;7803963953.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;2062632225.42
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;4587017081.77
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;2062632225.42
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;4587017081.77
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;1382886028.95
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;3216946871.69
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;1382886028.95
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;3216946871.69
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);3445518254.37
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);7803963953.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;151562454361.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);7803963953.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);5.15
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;24249992697.88
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);21824993428.09
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;10609371805.32
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (I);8849250235.62
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Educação;639684124.13
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB 60%;1488119034.06
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Destinados à Educação;18077.08
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Saúde;410926417.18
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Destinados à Saúde;190398.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Destinados à Assistência Social;52599265.29
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos destinados ao RPPS - Plano Financeiro;337131615.14
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);2400203624.74
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Alienação de Bens/Ativos;66337197.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outras Destinações Vinculadas de Recursos;3454040481.68
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (II);18545850129.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;18545850129.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);27395100365.08
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);36297526.17
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;914689.79
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;1158216.18
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos destinados ao RPPS - Plano Financeiro;154913.16
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);21966781.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;12102925.64
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);536622841.82
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;536622841.82
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);572920367.99
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);4206552296.07
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;168971277.86
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB 60%;847354130.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;118070674.7
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Destinados à Saúde;46715.86
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Destinados à Assistência Social;1250652.58
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos destinados ao RPPS - Plano Financeiro;2299043217.41
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);460726601.03
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outras Destinações Vinculadas de Recursos;311089026.17
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);7117970858.5
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;7117970858.5
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);11324523154.57
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);70047460.02
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;16555499.76
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Destinados à Educação;10725.86
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;5504533.41
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos destinados ao RPPS - Plano Financeiro;350911.44
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);108301.77
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;47517487.78
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);188543163.88
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;188543163.88
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);258590623.9
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS VINCULADOS (I);74080840.44
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Receitas de Impostos e de Transferência de Impostos - Educação;3742377.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Transferências do FUNDEB 60%;6959463.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outros Recursos Destinados à Educação;4000.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Receitas de Impostos e de Transferência de Impostos - Saúde;26884879.98
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outros Recursos Destinados à Saúde;811.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Destinados à Assistência Social;97934.07
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos destinados ao RPPS - Plano Financeiro;3495174.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);3296737.6
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outras Destinações Vinculadas de Recursos;29599461.98
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (II);4559999278.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Ordinários;4559999278.84
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);4634080119.28
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (I);4462272112.92
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Educação;449500279.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB 60%;633805440.24
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Destinados à Educação;3351.22
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Saúde;259308112.91
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Destinados à Saúde;142871.14
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Destinados à Assistência Social;51250678.64
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos destinados ao RPPS - Plano Financeiro;-1965912601.6
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);1914105202.94
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Alienação de Bens/Ativos;66337197.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outras Destinações Vinculadas de Recursos;3053731580.11
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (II);6142713986.42
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;6142713986.42
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);10604986099.34
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);1111370074.66
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;179660219.69
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;259308112.91
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Destinados à Saúde;25853.5
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos destinados ao RPPS - Plano Financeiro;14319613.13
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);420451233.37
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outras Destinações Vinculadas de Recursos;237605042.06
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);2149439512.94
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;2149439512.94
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);3260809587.6
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;151562454361.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;151528963696.73
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;65814113344.54
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;43.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;74249192211.4
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;70536732600.83
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;246422000708.96
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;238705066271.43
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;259106333818.64
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;282996256164.58
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;292569524204.36
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;303124908723.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;4183548395.63
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;4023443711.42
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;4121007033.31
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;45279400986.33
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;46811123872.7
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;48499985395.75
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;7803963953.46
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;5.15
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;3260809587.6
+2017;3;Q;Governo do Estado de São Paulo;35;SP;E;44749699;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;10604986099.34

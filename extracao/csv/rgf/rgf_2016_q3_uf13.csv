@@ -1,0 +1,228 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5972050672.59
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7609519.47
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;4183746022.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;6088.51
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1451121512.99
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);337183137.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);7603430.96
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);599242424.51
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;563092.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;18584423.25
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6207245.43
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;573887663.83
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);5372808248.08
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);7609519.47
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);11395630934.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);5380417767.55
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);47.21
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);5583859157.66
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);5304666199.78
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);5025473241.89
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6906913511.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6881073490.66
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6478659585.72
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6286692182.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;6892524239.98
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;6871074168.96
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;6466367926.57
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;6276740887.17
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;3288869603.3
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;3288669172.18
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;3197356025.18
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualInterna;Interna;3267664094.71
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;3603654636.68
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;3582404996.78
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;3269011901.39
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaContratualExterna;Externa;3009076792.46
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;14389271.14
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;9999321.7
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;12291659.15
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;OutrasDividas;Outras Dívidas;9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1647502388.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1987926391.16
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1587558459.63
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1666227217.44
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1655881207.21
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1818046894.04
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1631922935.16
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1906119525.52
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;266634829.45
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;266634829.45
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;25059640.97
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;42545804.42
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);275013647.86
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);96755332.33
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);69424116.5
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);282438112.5
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);5259411122.32
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4893147099.5
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4891101126.09
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4620464964.76
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;10998994388.61
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;10622700546.63
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;10859825224.01
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;11395630934.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);62.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);64.78
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);59.66
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);55.17
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);47.82
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);46.06
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);45.04
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);40.55
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;21997988777.22
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;21245401093.26
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;21719650448.02
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;22791261868.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);19798189899.5
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);19120860983.93
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);19547685403.22
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);20512135681.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);6906913511.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);6881073490.66
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);6478659585.72
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);6286692182.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);14389271.14
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);9999321.7
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);12291659.15
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;14389271.14
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;9999321.7
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;12291659.15
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;14389271.14
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;9999321.7
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;12291659.15
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);6892524239.98
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);6871074168.96
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);6466367926.57
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);6276740887.17
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;3288869603.3
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;3288669172.18
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;3197356025.18
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;3267664094.71
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;3603654636.68
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;3582404996.78
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;3269011901.39
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;3009076792.46
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;663062043.52
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;739979141.96
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;761307203.44
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;Depositos;Depósitos;691374927.37
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;57225108.26
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;54565319.27
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;43535744.61
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);2019497437.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);2019497437.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);2448462273.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);2713849216.87
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;2019497437.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;2019497437.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;2448462273.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;2713849216.87
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1859842486.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);2127291692.37
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);2343846797.3
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);2493347924.35
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;334.65
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;111760897.11
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;79067293.14
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;45374.98
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;1806010248.93
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;2014546249.48
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;2264776298.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;InvestimentosAtivo;Investimentos;2493323338.62
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;53942662.74
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;1137229.19
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;3206.16
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;1904.22
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;110760.29
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;152683.41
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;22693.47
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);159654951.57
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-107794254.77
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);104615476.3
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 02;E;;Até o 3º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);220501292.52
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);291503123.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);433873608.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;291503123.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;433873608.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;205270723.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;313041208.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;205270723.2
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;313041208.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;86232400.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;120832400.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;86232400.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;120832400.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);-2340364.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;-2340364.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeContribuicoesSociais;De Contribuições Sociais;-2340364.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeContribuicoesSociais;De Contribuições Sociais;9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Previdenciárias;-2340364.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Previdenciárias;9951295.03
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;11395630934.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);433873608.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);3.81
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1823300949.44
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1640970854.49
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;797694165.38
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);443824903.83
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);3.89
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Vinculados;976431468.76
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos Não Vinculados;478370657.53
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Total dos Recursos;1454802126.29
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Vinculados;6957520.64
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos Não Vinculados;39184426.05
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Total dos Recursos;46141946.69
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Vinculados;49918636.5
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos Não Vinculados;185555657.14
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Total dos Recursos;235474293.64
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos Vinculados;12487861.12
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos Não Vinculados;42615946.48
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Total dos Recursos;55103807.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Vinculados;907067450.5
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos Não Vinculados;211014627.86
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (f)=(a-(b+c+d+e));DisponibilidadeDeCaixaLiquida;Total dos Recursos;1118082078.36
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Vinculados;139921406.53
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos Não Vinculados;314558920.6
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 05;E;;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Total dos Recursos;454480327.13
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;11395630934.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;5380417767.55
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;47.21
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;5583859157.66
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;5304666199.78
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;4620464964.76
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;40.55
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22791261868.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;433873608.8
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;3.81
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1823300949.44
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;797694165.38
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;454480327.13
+2016;3;Q;Governo do Estado do Amazonas;13;AM;E;3938336;RGF-Anexo 06;E;;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;1118082078.36

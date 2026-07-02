@@ -1,0 +1,156 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);8439341784.84
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4345301.64
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;6338795188.53
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;3748368.41
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2100546596.31
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;596933.23
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);2281846462.26
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);591484.65
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;89581245.71
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;37850.56
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;2077864.99
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;98948674.66
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;2091238676.9
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;553634.09
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);6157495322.58
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3753816.99
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);12209085734.48
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);6161249139.57
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);50.46
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);5982452009.9
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);5683329409.41
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);5384206808.91
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Limite Máximo (a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;49.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% DTP (b);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;51.2
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% Excedente (c) = (b-a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;2.2
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Redutor Mínimo de 1/3 do Excedente (d) =  (1/3*c);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;0.73
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Limite (e) = (b-d);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;50.47
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;% DTP (f);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;50.46
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Redutor Residual (g) = (f-a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;1.46
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 01;E;;Limite (h) = (a);PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal;Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal;49.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);7103590792.84
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);6703621202.19
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;7092883766.8
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;6692860376.15
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;5412836847.34
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;5279931876.28
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;1680046919.46
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;1412928499.87
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;10707026.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;10760826.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1427293518.31
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1894965785.98
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1811047827.06
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2107926031.8
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;57588245.95
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;58428400.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);441342554.7
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);271388645.86
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);5676297274.53
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4808655416.21
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;11644432985.92
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;12209085734.48
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);61.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);54.91
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);48.75
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);39.39
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;23288865971.84
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);20959979374.65
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);21976354322.06
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);7092883766.8
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);6692860376.15
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);239136649.68
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);226557386.56
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;238880785.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;226521054.68
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;26342273.02
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;18682767.69
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;212538512.02
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;207838286.99
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDoFGTS;Do FGTS;255864.64
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;36331.88
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);4412700600.36
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);4034207987.58
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;2732653680.9
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;2621279487.71
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;1680046919.46
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;1412928499.87
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);2441046516.76
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);2432095002.01
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;421478809.35
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;369601598.49
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;61043846.99
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;119637147.35
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);14617428951.68
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);14617428951.68
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;14617428951.68
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;14617428951.68
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);11403261.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);26695430.29
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;56775760.23
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;72035912.18
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;1687431.58
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;1719448.88
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;47059930.77
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;47059930.77
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;26584489.71
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ObrigacoesNaoIntegrantesDaDC;Obrigações Não Integrantes da Dívida Consolidada;54197375.91
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);14606025690.64
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);14590733521.39
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);11644440523.52
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);12209085734.48
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2561776915.17
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2685998861.59
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2305599223.65
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2417398975.43
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;12209085734.48
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);0.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1953453717.52
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1758108345.77
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;854636001.41
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;12209085734.48
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;6161249139.57
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;50.46
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;5982452009.9
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;5683329409.4
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;4808655416.21
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;39.39
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;24418171468.96
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2685998861.59
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;5351392.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.04
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1953453717.52
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;854636001.41
+2016;1;Q;Governo do Estado do Mato Grosso;51;MT;E;3265486;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

@@ -1,0 +1,385 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1377964472.71
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1527304839.05
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1799617622.54
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);2649318298.85
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1210724769.98
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1794016132.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1440390470.58
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1598655390.76
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1475063147.76
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1493569634.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1484685753.24
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1476113980.15
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);19327424512.51
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);606899.12
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;807756095.4
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;988821578.36
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1264953669.9
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1770555165.7
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;696909996.93
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;1161985193.9
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;866789295.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;994401596.29
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;877969048.72
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;889772939.69
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;875776707.69
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;867521657.21
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;12063212945.68
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;605357.12
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;651831324.51
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;825995256.48
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1056272906.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1391679079.24
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;583770638.86
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1040056439.53
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;747931530.46
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;867990376.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;756170909.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;768418001.91
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;756912176.44
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;753603090.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;10200631729.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;605357.12
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;155898744.09
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;162821860.94
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;208620471.86
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;378863638.56
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;113138482.91
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;121921001.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;118841600.51
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;126405081.63
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;121796291.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;121346203.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;118859116.28
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;113913777.79
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;1862426271.44
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;BeneficiosPrevidenciarios;Benefícios Previdenciários;26026.8
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;BeneficiosPrevidenciarios;Benefícios Previdenciários;4460.94
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;BeneficiosPrevidenciarios;Benefícios Previdenciários;60291.77
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;BeneficiosPrevidenciarios;Benefícios Previdenciários;12447.9
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;BeneficiosPrevidenciarios;Benefícios Previdenciários;875.16
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;BeneficiosPrevidenciarios;Benefícios Previdenciários;7753.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;BeneficiosPrevidenciarios;Benefícios Previdenciários;16164.92
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;BeneficiosPrevidenciarios;Benefícios Previdenciários;6138.39
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;BeneficiosPrevidenciarios;Benefícios Previdenciários;1847.56
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;BeneficiosPrevidenciarios;Benefícios Previdenciários;8733.83
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;BeneficiosPrevidenciarios;Benefícios Previdenciários;5414.97
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;BeneficiosPrevidenciarios;Benefícios Previdenciários;4789.39
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);BeneficiosPrevidenciarios;Benefícios Previdenciários;154944.97
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;559160389.45
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;535032067.3
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;524205494.05
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;871129572.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;513814773.05
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;625126887.41
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;566485439.77
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;595755019.39
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;589134765.29
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;596225780.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;599806990.88
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;603644067.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;7179521247.28
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;480677139.91
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;455638023.85
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;498852212.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;762744418.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;444096156.09
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;554175195.81
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;495045773.08
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;523197284.52
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;516338919.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;523147357.45
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;526502379.88
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;530245599.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;6310660461.04
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesasPensoesInativosEPensionistas;Pensões;78483084.06
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;79393877.97
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;25353115.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesasPensoesInativosEPensionistas;Pensões;108384988.13
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;69718325.24
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;70951448.5
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;71435485.37
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;72553748.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;72791859.23
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;73074436.38
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;73300186.58
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;73394432.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;868834987.78
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;165.48
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;165.48
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;165.48
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;165.48
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;291.72
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;243.1
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;4181.32
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;3986.84
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;3986.84
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;3986.84
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;4424.42
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;4035.46
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;25798.46
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11047987.86
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);3451193.39
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);10458458.59
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);7633560.8
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);6904051.36
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);7115734.92
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);8498775.08
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);7959333.75
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);7570913.86
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);9102054.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);4948255.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);84690319.55
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);1542.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);338340248.82
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);341577934.72
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);346501221.43
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);857123561.33
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);331300775.92
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);253272186.59
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);218243951.09
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);287148879.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);225909589.77
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);233046159.45
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);233568804.63
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);244984056.47
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);3911017369.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;2788049.14
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1146224.16
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;456525.7
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;478193.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;144534.29
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;2844637.1
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;407863.92
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;135884.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;90999.14
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;434441.45
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;130558.88
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;156759.55
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;9214670.85
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;32928597.24
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;30500461.43
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;28122554.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;31988508.21
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;31218766.68
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;34196290.61
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8907112.39
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;7550822.57
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8107815.19
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;7662007.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8720062.24
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8682697.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;238585696.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2460823.83
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2235290.98
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;6817140.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;17626689.5
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;29139944.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;300162778.61
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;307695958.15
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;311105001.08
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;807030170.37
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;299937474.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;216231258.88
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;208928974.78
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;279462172.83
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;217710775.44
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;224949710.78
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;224718183.51
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;236144598.97
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;3634077058.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1039624223.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1185726904.33
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1453116401.11
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1792194737.52
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);879423994.06
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1540743946.08
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1222146519.49
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1311506511.09
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1249153557.99
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1260523474.77
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1251116948.61
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1231129923.68
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);15416407142.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);606899.12
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);37108001517.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);58085531.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências Obrigatórias da União relativas às Emendas de Bancada (art. 166, § 16, da CF) (VI);68103676.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI);36981812309.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);15417014041.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);41.69
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);17973160782.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);48.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);17074502743.47
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);46.17
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);16175844704.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);43.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);25835368379.44
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);29738977899.02
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);30733711559.21
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;20556632344.09
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;24507643005.09
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;24994698540.82
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;5215147578.18
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;5384577954.37
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;5438021160.54
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Financiamentos;Financiamentos;14932951336.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Financiamentos;Financiamentos;18732105051.69
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Financiamentos;Financiamentos;19191320829.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosInternos;Internos;4876617356.36
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2FinanciamentosInternos;Internos;5327147459.05
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2FinanciamentosInternos;Internos;5600987681.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2FinanciamentosExternos;Externos;10056333979.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2FinanciamentosExternos;Externos;13404957592.64
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2FinanciamentosExternos;Externos;13590333148.37
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;408533429.66
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;390959999.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;365356550.66
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;314777596.44
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;297798295.26
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;299271936.2
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;93490572.12
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;92896442.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;65998122.81
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;265261.1
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;265261.1
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDoFGTS;Do FGTS;86491.65
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;5173368460.86
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;5136038189.88
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;5647973201.58
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;105367574.49
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;95296704.05
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;91039816.81
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4308656440.79
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5279220758.63
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);7380837775.79
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3518192204.2
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;4390738058.41
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;6408986359.66
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4008908201.8
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4438278519.47
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;6439486092.31
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;490715997.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;47540461.06
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;30499732.65
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;790464236.59
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;888482700.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;971851416.13
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);21526711938.65
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);24459757140.39
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);23352873783.42
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);34525803568.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);36209168085.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);37108001517.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);15553198.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);36653201.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);58085531.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);34510250369.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);36172514883.47
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);37049915985.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);74.86
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);82.21
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);82.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);62.38
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);67.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);63.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;69020500739.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;72345029766.94
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;74099831971.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);62118450665.41
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);65110526790.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);66689848774.57
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;340853294242.64
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;340853294242.64
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;340853294242.64
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos e Consignações Sem Contrapartida;1014449656.52
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;Depositos;Depósitos e Consignações Sem Contrapartida;1045445206.73
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;Depositos;Depósitos e Consignações Sem Contrapartida;1269334146.43
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;600475911.06
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;142328591.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;65533991.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualDePPP;Dívida Contratual de PPP;595327549.11
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratualDePPP;Dívida Contratual de PPP;561146342.64
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratualDePPP;Dívida Contratual de PPP;578548334.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;697586360.68
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;689106890.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;677042592.8
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasPorMeioDeFundosEProgramas;POR MEIO DE FUNDOS E PROGRAMAS (IV);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasPorMeioDeFundosEProgramas;POR MEIO DE FUNDOS E PROGRAMAS (IV);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasPorMeioDeFundosEProgramas;POR MEIO DE FUNDOS E PROGRAMAS (IV);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);34525803568.62
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);36209168085.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);37108001517.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (VII);15553198.95
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (VII);36653201.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (VII);58085531.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);34510250369.67
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);36172514883.47
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);37049915985.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.27
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL AJUSTADA (V/VIII);0.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7592255081.33
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7957953274.36
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;8150981516.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);6833029573.2
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);7162157946.92
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);7335883365.2
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasEmGarantiasPorMeioDeFundosEProgramas;EM GARANTIAS POR MEIO DE FUNDOS E PROGRAMAS (XII);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ContragarantiasRecebidasEmGarantiasPorMeioDeFundosEProgramas;EM GARANTIAS POR MEIO DE FUNDOS E PROGRAMAS (XII);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ContragarantiasRecebidasEmGarantiasPorMeioDeFundosEProgramas;EM GARANTIAS POR MEIO DE FUNDOS E PROGRAMAS (XII);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XIII) = (IX + X + XI + XII);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XIII) = (IX + X + XI + XII);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XIII) = (IX + X + XI + XII);91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;488386127.23
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;571031786.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;284961523.55
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;291320051.57
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;284961523.55
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;291320051.57
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;203424603.68
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;279711734.43
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;203424603.68
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;279711734.43
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);488386127.23
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);571031786.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);37108001517.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);58085531.35
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);37049915985.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);571031786.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);1.54
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;5927986557.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;16.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);5335187901.97
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;2593494119.01
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;7.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;37108001517.22
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamentoDemonstrativoSimplificado;Receita Corrente Líquida Ajustada para Cálculo dos Limites de Endividamento;37049915985.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada para Cálculo dos Limites da Despesa com Pessoal;36981812309.87
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;15417014041.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;41.69
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;17973160782.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;48.6
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;17074502743.47
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.17
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;16175844704.34
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;43.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;23352873783.42
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;63.03
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;74099831971.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;91600000.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;0.25
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;8150981516.89
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;571031786.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1.54
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;5927986557.74
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;2593494119.01
+2020;2;Q;Governo do Estado da Bahia;29;BA;E;14873064;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

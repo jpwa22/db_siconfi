@@ -1,0 +1,455 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);500479520.15
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);515675027.89
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);516731396.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);609052137.33
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);679048608.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);608008449.87
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);612931366.44
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);601871861.03
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);603738771.71
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);638970437.44
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);495381626.94
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1193207434.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7575096638.09
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1732717.42
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;326904863.97
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;342585395.68
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;342695010.03
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;384482465.63
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;464705320.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;399810994.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;401563703.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;395057910.87
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;401625790.91
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;438302961.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;294843341.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;869950066.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;5062527824.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;1577508.04
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;236479939.05
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;244197057.34
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;244547359.69
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;268298243.21
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;350731189.69
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;284267850.88
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;288630400.3
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;275237004.05
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;298509956.76
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;283074445.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;276168285.94
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;576741137.85
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;3626882869.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;1565030.51
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;90424924.92
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;98388338.34
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;98147650.34
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;116184222.42
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;113974130.31
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;115543144.05
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;112933302.81
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;119820906.82
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;103115834.15
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;155228516.4
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;18675055.72
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;293208928.7
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;1435644954.98
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);ObrigacoesPatronais;Obrigações Patronais;12477.53
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;162032617.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;161983378.51
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;163020414.72
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;205450517.56
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;190240713.87
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;189326854.53
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;189246548.92
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;195034049.3
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;190336196.19
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;189241564.54
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;189133470.44
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;289212198.8
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2314258525.13
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;128179098.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;128202567.86
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;128850636.38
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;166184072.21
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;149895218.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;149158705.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;149262385.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;149592586.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;150082375.08
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;149153626.64
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;149295618.57
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;224521861.39
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1822378752.48
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesasPensoesInativosEPensionistas;Pensões;33853519.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;33780810.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;34169778.34
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesasPensoesInativosEPensionistas;Pensões;39266445.35
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;40345495.51
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;40168149.06
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;39984163.32
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;45441463.13
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;40253821.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;40087937.9
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;39837851.87
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;64690337.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;491879772.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11542038.43
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11106253.7
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11015971.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);19119154.14
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);24102574.9
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);18870600.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);22121114.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11779900.86
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11776784.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11425911.49
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11404814.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);34045169.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);198310288.21
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);155209.38
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);94842496.53
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);164525155.67
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);163858884.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);206322026.92
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);272655042.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);173501240.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);181434981.08
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);203536315.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);113961362.46
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);197387197.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);2353834.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);100275890.08
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1874654428.07
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);5652.48
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;112870.7
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;157536.15
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;138663.35
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;862736.3
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;82335377.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;13893704.27
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;21969715.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;6699789.98
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;7746034.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;8145633.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;2324107.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;17671504.26
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;162057672.67
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1471585.51
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2384241.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;699806.68
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;8773.06
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;78951.72
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;769496.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;560952.14
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1802476.49
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;62954.81
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;29726.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;351154.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;8220119.33
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;5652.48
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;93258040.32
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;161983378.51
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;163020414.72
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;205450517.56
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;190240713.87
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;158838039.05
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;158904313.69
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;195034049.3
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;106152373.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;189241564.54
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;82253231.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1704376636.07
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);405637023.62
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);351149872.22
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);352872511.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);402730110.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);406393566.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);434507209.71
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);431496385.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);398335545.26
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);489777409.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);441583239.89
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);493027792.44
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1092931544.28
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);5700442210.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1727064.94
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);13517450096.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);10349336.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências Obrigatórias da União relativas às Emendas de Bancada (art. 166, § 16, da CF) (VI);11893053.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI);13495207706.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);5702169274.96
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);42.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);6612651776.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);49.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);6282019187.22
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);46.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);5951386598.42
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);44.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);9046722686.49
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8394065234.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8350458427.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);9067438865.9
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;7260067283.22
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;6609789138.91
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;6722923221.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;6779547635.99
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;6951347651.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;6312653824.9
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;6422089325.05
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;6490648449.13
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;3902666221.56
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;3702841260.69
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;3761012765.88
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;3740938599.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;3048681429.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;2609812564.21
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;2661076559.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;2749709850.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;221545925.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;209961607.56
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;213660190.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;201725480.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;17648285.89
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;17049109.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;21863608.56
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeTributos;De Tributos;20787480.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;189149378.94
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;179306064.78
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;179331974.78
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;169615219.98
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;14748260.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;13606433.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;12464606.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;11322779.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;87173706.45
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;87173706.45
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;87173706.45
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DemaisDividasContratuais;Demais Dívidas Contratuais;87173706.45
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1703707314.98
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1703707314.98
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1580294246.48
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;2118761111.3
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;82948088.29
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;80568780.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;47240959.56
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;OutrasDividas;Outras Dívidas;169130118.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3501633127.13
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4466796032.27
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3928410605.26
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2176039590.78
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3497955590.52
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;4454819216.42
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3914836826.86
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2161609315.53
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4395718975.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4985557913.44
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4403960676.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;3050552546.87
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;722063707.34
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;350618415.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;294090685.04
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;658216915.57
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;175699677.64
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;180120281.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;195033164.46
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DepositosRestituiveisEValoresVinculados;(-) Depósitos Restituíveis e Valores Vinculados;230726315.77
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;3677536.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;11976815.85
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;13573778.4
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;14430275.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);5545089559.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3927269202.09
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);4422047822.39
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6891399275.12
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);11455231445.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);12351911015.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);13176913562.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);13517450096.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);13887465.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);14620690.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);23892365.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);10349336.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);11441343980.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);12337290324.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);13153021196.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);13507100759.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);79.07
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);68.04
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);63.49
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);67.13
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);48.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);31.83
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);33.62
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);51.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;22882687961.68
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;24674580649.32
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;26306042393.2
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;27014290391.22
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);20594419165.51
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);22207122584.39
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);23675438153.88
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);24312861352.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);107054367.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);107054367.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);107054367.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);87512028.89
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;22456556155.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;22456556155.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;24836405743.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;24836405743.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;438180518.9
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;646709971.81
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;438926326.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;1082115251.67
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;11291825.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;11248998.92
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;11196252.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;11196252.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);11455231445.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);12351911015.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);13176913562.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);13517450096.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);13887465.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);14620690.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);23892365.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (VII);10349336.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);11441343980.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);12337290324.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);13153021196.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);13507100759.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2517095675.78
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2714203871.43
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2893664663.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;2971562167.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2265386108.2
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2442783484.29
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2604298196.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2674405950.31
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;8465245.88
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;143406268.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;8465245.88
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;105646337.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;116458.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;97297550.21
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaOperacoesDeCreditoPrevistas;Operações de Crédito não sujeitas ao limite para fins de contratação (I);8348786.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaOperacoesDeCreditoPrevistas;Operações de Crédito não sujeitas ao limite para fins de contratação (I);8348786.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;37759930.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;17265930.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaOperacoesDeCreditoPrevistas;Operações de crédito não sujeitas ao limite para fins de contratação (II);20494000.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);8465245.88
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);143406268.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);13517450096.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);10349336.95
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);13507100759.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);114563481.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);0.85
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;2161136121.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;16.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1945022509.32
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;945497053.14
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;7.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividas;Parcelamentos de Dívidas;15372379.41
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeDividasDeTributos;Tributos;5707719.81
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoParcelamentosDeContribuicoesSociaisPrevidenciarias;Contribuições Previdenciárias;9664659.6
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (I);1315978106.99
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Não Vinculados de Impostos;1315978106.99
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (II);1379431899.67
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB;79254056.69
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados à Educação;104628824.09
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados à Saúde;140911575.7
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);101783627.85
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);179276895.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados;773576919.59
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);2695410006.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (I);119135748.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Não Vinculados de Impostos;119135748.61
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (II);142965152.94
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB;6960841.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados à Educação;581319.83
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados à Saúde;34923491.98
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);7627967.06
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);24138150.17
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados;68733382.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);262100901.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (I);289027716.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Não Vinculados de Impostos;289027716.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (II);203438860.19
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB;48944335.15
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados à Educação;2051895.34
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados à Saúde;11721710.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);63902517.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);13665930.93
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados;63152470.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);492466576.84
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (I);130229041.33
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Não Vinculados de Impostos;130229041.33
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (II);101659803.03
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Transferências do FUNDEB;1626872.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados à Educação;2180501.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados à Saúde;13587867.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);5753376.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);49820131.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados;28691054.19
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);231888844.36
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (I);10977204.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Não Vinculados de Impostos;10977204.66
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS VINCULADOS (II);1246.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outros Recursos Vinculados à Saúde;1246.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);10978451.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (I);766608395.74
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Não Vinculados de Impostos;766608395.74
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (II);931366837.01
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB;21722007.82
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados à Educação;99815107.67
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados à Saúde;80677259.2
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);24499766.94
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);91652683.18
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados;613000012.2
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);1697975232.75
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (I);432352344.04
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Não Vinculados de Impostos;432352344.04
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (II);328445985.92
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências do FUNDEB;6838617.32
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados à Educação;11581124.14
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados à Saúde;35780584.13
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);540564.29
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);89776712.92
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados;183928383.12
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);760798329.96
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL DOS RECURSOS NÃO VINCULADOS (I);334256051.7
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Não Vinculados de Impostos;334256051.7
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL DOS RECURSOS VINCULADOS (II);602920851.09
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Transferências do FUNDEB;14883390.5
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados à Educação;88233983.53
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados à Saúde;44896675.07
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Vinculados ao RPPS - Fundo em Repartição (Plano Financeiro);23959202.65
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);1875970.26
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados;429071629.08
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL (III) = (I + II);937176902.79
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;13517450096.11
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamentoDemonstrativoSimplificado;Receita Corrente Líquida Ajustada para Cálculo dos Limites de Endividamento;13507100759.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada para Cálculo dos Limites da Despesa com Pessoal;13495207706.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;5702169274.96
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;42.25
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;6612651776.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;49.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;6282019187.22
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.55
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;5951386598.42
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;44.1
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;6891399275.12
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;51.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;27014201518.32
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2971562167.02
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;114563481.16
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.85
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;2161136121.47
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;945497053.14
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;760798329.96
+2022;3;Q;Governo do Estado do Piauí;22;PI;E;3289290;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;937176902.79

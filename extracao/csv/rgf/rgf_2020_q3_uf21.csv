@@ -1,0 +1,477 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);249202794.11
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);559221549.61
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);505256019.05
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);253844003.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);954900786.06
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);734560268.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);512058533.41
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);421849883.34
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);820190751.47
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1135287674.39
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);450674767.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1371605246.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7968652276.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);3524781.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;211520448.56
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;520545975.15
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;366129727.81
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;253844003.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;565407769.25
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;514903607.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;419943313.47
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;243625820.91
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;562751113.25
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;747070354.32
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;430856366.98
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;710900037.28
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;5547498537.69
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;3524781.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;206452336.63
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;472021237.69
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;329816624.21
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;220010136.67
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;457192205.36
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;500482601.57
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;409107198.91
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;209630427.32
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;380311286.67
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;676778222.04
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;357125091.91
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;525494235.08
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;4744421604.06
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;703387.29
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;4731687.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;48189819.59
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;36281821.61
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;33802975.45
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;108160312.13
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;13178307.48
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;10833779.1
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;33689858.02
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;181827554.33
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;69980483.75
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;73081555.68
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;185089271.13
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;798847425.27
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);ObrigacoesPatronais;Obrigações Patronais;2821035.61
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;BeneficiosPrevidenciarios;Benefícios Previdenciários;336424.93
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;BeneficiosPrevidenciarios;Benefícios Previdenciários;334917.87
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;BeneficiosPrevidenciarios;Benefícios Previdenciários;31281.99
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;BeneficiosPrevidenciarios;Benefícios Previdenciários;30890.88
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;BeneficiosPrevidenciarios;Benefícios Previdenciários;55251.76
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;BeneficiosPrevidenciarios;Benefícios Previdenciários;1242698.66
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;BeneficiosPrevidenciarios;Benefícios Previdenciários;2335.46
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;BeneficiosPrevidenciarios;Benefícios Previdenciários;305535.57
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;BeneficiosPrevidenciarios;Benefícios Previdenciários;612272.25
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;BeneficiosPrevidenciarios;Benefícios Previdenciários;311648.53
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;BeneficiosPrevidenciarios;Benefícios Previdenciários;649719.39
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;BeneficiosPrevidenciarios;Benefícios Previdenciários;316531.07
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);BeneficiosPrevidenciarios;Benefícios Previdenciários;4229508.36
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);BeneficiosPrevidenciarios;Benefícios Previdenciários;358.32
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;37682345.55
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;38675574.46
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;139126291.24
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;389493016.81
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;219656661.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;92115219.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;178224062.43
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;257439638.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;388217320.07
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;19818400.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;660705208.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;2421153739.17
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;21455131.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;21956856.32
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;121704586.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;354355022.41
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;185266592.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;40161422.29
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;155512511.41
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;219498066.75
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;307650200.31
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;534523178.41
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1962083568.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesasPensoesInativosEPensionistas;Pensões;16226183.75
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;16717695.89
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;17421704.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;35136976.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;34388232.47
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;51953614.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;22711551.02
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;37941571.47
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;80567119.76
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;19818400.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;126181675.21
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;459064725.02
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;1030.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;1022.25
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;1018.02
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;1835.82
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;183.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;355.32
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);OutrosBeneficiosPrevidenciariosInativosEPensionistas;Outros Benefícios Previdenciários;5445.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1306525.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);285799.21
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);140520118.6
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);243100.77
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);351371790.13
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);176081789.52
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);64316349.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);177913310.64
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);242203685.13
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);243153495.48
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);21843487.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);450438349.87
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1869677801.95
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);544709.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;31906.03
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1590.44
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1049.11
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;26527.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7427.83
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;59334.37
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;127835.48
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;3794.49
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5497.79
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5179.93
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;3476.63
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;6883.23
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;3476.63
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;10680.48
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5179.93
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5487.9
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5487.9
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5170.04
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;4367.53
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;64682.48
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1302731.31
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;280301.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1388647.43
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;239624.14
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;306419.96
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2166582.25
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1520389.01
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1017321.99
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3732324.97
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;5798310.69
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2012489.13
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;4140186.19
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;23905328.49
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;544709.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;139126291.24
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;351058486.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;173911730.64
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;62753373.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;176889218.28
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;238464823.15
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;237323169.19
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;19818400.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;446234461.78
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1845579955.5
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);247896268.31
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);558935750.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);364735900.45
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);253600902.23
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);603528995.93
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);558478479.28
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);447742184.03
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);243936572.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);577987066.34
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);892134178.91
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);428831279.98
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);921166896.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);6098974474.91
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);2980071.28
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);16314807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências Obrigatórias da União relativas às Emendas de Bancada (art. 166, § 16, da CF) (VI);43336600.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI);16269470610.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);6101954546.19
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb);37.51
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);7972040599.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF);49.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);7573438569.26
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF);46.55
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);7174836539.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF);44.1
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;VALORES TRANSFERIDOS POR CONTRATO DE RATEIO;DespesaComPessoalBrutaEnteConsorciado;DESPESA BRUTA COM PESSOAL (I);2932510.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;LIQUIDADAS (a);DespesaComPessoalBrutaEnteConsorciado;DESPESA BRUTA COM PESSOAL (I);2925413.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBrutaEnteConsorciado;DESPESA BRUTA COM PESSOAL (I);7096.77
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;TOTAL (c = a + b);DespesaComPessoalBrutaEnteConsorciado;DESPESA BRUTA COM PESSOAL (I);2932510.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;VALORES TRANSFERIDOS POR CONTRATO DE RATEIO;DespesaComPessoalAtivoBrutaEnteConsorciado;Pessoal Ativo;2932510.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;LIQUIDADAS (a);DespesaComPessoalAtivoBrutaEnteConsorciado;Pessoal Ativo;2925413.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBrutaEnteConsorciado;Pessoal Ativo;7096.77
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;TOTAL (c = a + b);DespesaComPessoalAtivoBrutaEnteConsorciado;Pessoal Ativo;2932510.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;VALORES TRANSFERIDOS POR CONTRATO DE RATEIO;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II);2932510.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;LIQUIDADAS (a);DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II);2925413.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II);7096.77
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 01;E;Consórcio Interestadual de Desenvolvimento do Brasil Central;TOTAL (c = a + b);DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II);2932510.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);7461344237.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8069853758.85
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8028268191.64
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);7989634870.21
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;6248300213.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;6906606398.26
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;6901096569.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;6354702942.48
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;4893489417.06
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;5428301892.26
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;5409713820.42
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;5384770648.49
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;3332519687.14
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;3321420647.82
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;3501826848.04
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;3566864810.2
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;1560969729.92
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;2106881244.44
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;1907886972.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;1817905838.29
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1354810796.67
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1478304506.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;1491382748.96
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;969932293.99
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1213044023.49
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1163247360.59
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1127171622.26
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;1634931927.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);911392260.52
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4850225130.07
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5252803124.24
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1173045133.43
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;900468479.55
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;4839301349.1
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;5241879343.27
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1157762593.77
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1681690942.15
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;5251234552.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;5499466351.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1799684368.16
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;781222462.6
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;411933203.28
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;257587008.53
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;641921774.39
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;10923780.97
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;10923780.97
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;10923780.97
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;15282539.66
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6549951976.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);3219628628.78
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);2775465067.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6816589736.78
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);14698617424.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);14961941998.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);15793059288.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);16314807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);14698617424.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);14959941998.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);15791059288.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);16312807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);50.76
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);53.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);50.84
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL AJUSTADA (I/VI);48.98
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);44.56
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);21.52
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);17.58
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL AJUSTADA (III/VI);41.79
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;29397234849.72
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;29919883996.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;31586118576.18
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;32629614421.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);26457511364.75
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);26927895596.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);28427506718.56
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);29366652979.17
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);173061004.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);173061004.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);173061004.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosAPartirDe05052000;Precatórios Posteriores a 05/05/2000 (Não incluídos na DC);70990403.19
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;41887544713.51
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;41887544713.51
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;41887544713.51
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;103388821057.68
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos e Consignações Sem Contrapartida;455792526.36
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;Depositos;Depósitos e Consignações Sem Contrapartida;600353089.95
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;Depositos;Depósitos e Consignações Sem Contrapartida;494424144.63
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;Depositos;Depósitos e Consignações Sem Contrapartida;284873882.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;746267127.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;588648367.66
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;484082198.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados;719638053.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;487848095.03
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;537901441.14
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;573750764.95
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;ApropriacaoDeDepositosJudiciais;Apropriação de Depósitos Judiciais;537829576.59
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);14698617424.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);14961941998.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);15793059288.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);16314807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (VII);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (VII);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (VII);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);14698617424.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);14959941998.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);15791059288.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VIII) = (VI - VII);16312807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3233695833.47
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3291187239.56
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3474473043.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;3589257586.34
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2910326250.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);2962068515.6
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3127025739.04
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);3230331827.71
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasDosEstados;DOS ESTADOS (IX);1560969729.92
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ContragarantiasRecebidasDosEstados;DOS ESTADOS (IX);2106881244.44
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ContragarantiasRecebidasDosEstados;DOS ESTADOS (IX);1907886972.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasDosEstadosEmGarantiaAsOperacoesDeCreditoExternas;Em Garantia às Operações de Crédito Externas;1560969729.92
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ContragarantiasRecebidasDosEstadosEmGarantiaAsOperacoesDeCreditoExternas;Em Garantia às Operações de Crédito Externas;2106881244.44
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ContragarantiasRecebidasDosEstadosEmGarantiaAsOperacoesDeCreditoExternas;Em Garantia às Operações de Crédito Externas;1907886972.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XIII) = (IX + X + XI + XII);1560969729.92
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XIII) = (IX + X + XI + XII);2106881244.44
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (XIII) = (IX + X + XI + XII);1907886972.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;15295906.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;182394244.33
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;159835221.72
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;159835221.72
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;15295906.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;22559022.61
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;15295906.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;22559022.61
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);15295906.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);182394244.33
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);16314807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, § 1º, da CF) (V);2000000.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (VI) = (IV - V);16312807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);182394244.33
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (VIII) = (IIIa + VII - Ia - IIa);1.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;2610049153.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;LIMITE GERAL DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO INTERNAS E EXTERNAS;16.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);2349044238.33
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;1141896504.75
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 04;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL PARA AS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA ORÇAMENTÁRIA;7.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (I);699112718.91
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;529972202.15
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos não Vinculados;169140516.76
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (II);967793791.14
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Educação;1993853.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB;60687340.19
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados à Educação;104152231.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Saúde;2674929.04
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados à Saúde;119815773.01
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Vinculados à Assistência Social;6054596.57
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Vinculados ao RPPS - Plano Previdenciário;128131496.27
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);92446579.57
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados;451836991.49
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);1666906510.05
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (I);90340533.26
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;89417620.29
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos não Vinculados;922912.97
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (II);113228956.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;103132516.9
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB;29979.31
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados à Educação;74818.52
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;4212944.99
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados à Saúde;12628.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);2767713.78
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados;2998354.47
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);203569489.96
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (I);313634489.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;305190876.5
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos não Vinculados;8443613.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (II);124186597.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;67539279.84
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB;13520591.82
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados à Educação;1118331.14
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;24247093.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados à Saúde;981565.18
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);3255181.51
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados;13524555.36
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);437821087.74
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (I);4694301.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;4676176.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos não Vinculados;18125.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (II);760140.03
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados à Educação;421741.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);131913.43
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados;206484.87
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);5454441.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (I);10133.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Ordinários;10077.86
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outros Recursos não Vinculados;55.79
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS VINCULADOS (II);8241566.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Receitas de Impostos e de Transferência de Impostos - Saúde;8155235.35
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outros Recursos Vinculados à Saúde;32998.98
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);53332.02
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);8251700.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (I);290433261.11
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;130677451.41
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos não Vinculados;159755809.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (II);721376530.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Educação;-168677943.09
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB;47136769.06
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados à Educação;102537339.96
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Saúde;-33940344.39
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados à Saúde;118788580.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Vinculados à Assistência Social;6054596.57
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Vinculados ao RPPS - Plano Previdenciário;128131496.27
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);86238438.83
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados;435107596.79
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);1011809791.23
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (I);205207055.12
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;184529776.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos não Vinculados;20677278.32
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (II);447138264.72
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;23591319.94
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados à Educação;7702162.66
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;221563824.97
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados à Saúde;25020731.55
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Vinculados à Assistência Social;2227659.8
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Vinculados ao RPPS - Plano Previdenciário;18541973.29
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);52494503.1
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados;95996089.41
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);652345319.84
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL DOS RECURSOS NÃO VINCULADOS (I);85226205.99
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Ordinários;-53852325.39
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos não Vinculados;139078531.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL DOS RECURSOS VINCULADOS (II);274238265.4
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Receitas de Impostos e de Transferência de Impostos - Educação;-192269263.03
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Transferências do FUNDEB;47136769.06
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados à Educação;94835177.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Receitas de Impostos e de Transferência de Impostos - Saúde;-255504169.36
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados à Saúde;93767848.57
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Vinculados à Assistência Social;3826936.77
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Vinculados ao RPPS - Plano Previdenciário;109589522.98
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos de Operações de Crédito (exceto vinculados à Educação e à Saúde);33743935.73
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados;339111507.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL (III) = (I + II);359464471.39
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;16314807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamentoDemonstrativoSimplificado;Receita Corrente Líquida Ajustada para Cálculo dos Limites de Endividamento;16312807210.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada para Cálculo dos Limites da Despesa com Pessoal;16269470610.65
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;6101954546.19
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;37.51
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;7972040599.22
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;49.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;7573438569.26
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.55
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;7174836539.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;44.1
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;6816589736.78
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;41.79
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;32629614421.3
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;3474473043.38
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;182394244.33
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1.13
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;2610049153.7
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1141896504.75
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;652345319.84
+2020;3;Q;Governo do Estado do Maranhão;21;MA;E;7075181;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;359464471.39

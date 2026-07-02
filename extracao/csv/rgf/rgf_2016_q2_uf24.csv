@@ -1,0 +1,160 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);5216483270.55
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;3414836535.17
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1793884025.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);7762709.45
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);1215763126.87
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;86390932.5
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;16894283.19
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;1112477911.18
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);4000720143.68
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);8046800010.36
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);4000720143.68
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);49.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);3942932005.08
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);3745785404.83
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);3548638804.57
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1848460964.64
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1999010046.1
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);1896105133.15
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;1514237137.16
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;1601744818.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;1562451500.34
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;1238685362.35
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;1276570379.83
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;1267673480.14
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;275551774.81
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;325174439.1
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;294778020.2
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;332605207.52
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;332605207.52
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;332605207.52
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;1618619.96
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;64660019.65
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;1048425.29
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);759444324.15
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1393112369.17
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1510058005.43
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1028163779.87
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1486195962.6
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1598578146.05
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);268719455.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);93083593.43
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);88520140.62
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1089016640.49
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);605897676.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);386047127.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8027993522.97
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8036936741.04
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8046800010.36
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);23.03
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);24.87
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);23.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);13.57
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);7.54
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);4.8
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;16093600020.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14484240018.65
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1514237137.16
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1601744818.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);1562451500.34
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);33541616.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);23864337.83
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);12937679.91
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;33541616.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;23864337.83
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;12937679.91
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;33541616.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;23864337.83
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;12937679.91
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1480695520.23
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1577880481.1
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);1549513820.43
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;1205143745.42
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1252706042.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;1254735800.23
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;275551774.81
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;325174439.1
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;294778020.2
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;12492725.5
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;13589487.79
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;18604491.22
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;31941086.04
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;31497711.04
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;30768545.59
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);40476375.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);40476375.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);40476375.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;40476375.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;40476375.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaDemaisDividas;Demais Dívidas;40476375.56
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);343759625.98
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);388907507.46
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);402997503.22
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;334701430.2
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;379458868.93
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;393202990.08
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;13217706.64
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;13307276.23
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;13587634.31
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;4159510.86
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;3858637.7
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;3793121.17
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-303283250.42
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-348431131.9
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);-362521127.66
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);8027993522.97
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);8036936741.04
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);8046800010.36
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);10033064.77
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);169614134.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;10033064.77
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;169614134.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;33064.77
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;67379830.57
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;33064.77
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaOutrasOperacoesDeCredito;Outras Operações de Crédito;67379830.57
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;10000000.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;102234304.16
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;10000000.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaOutrasOperacoesDeCredito;Outras Operações de Crédito;102234304.16
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8046800010.36
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);169614134.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);2.11
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1287488001.66
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);1158739201.49
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;563276000.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);169614134.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);2.11
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;8046800010.36
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;4000720143.68
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;49.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;3942932005.08
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;3745785404.82
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;386047127.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;4.8
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;16093600020.72
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;169614134.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;2.11
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1287488001.66
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;563276000.73
+2016;2;Q;Governo do Estado do Rio Grande do Norte;24;RN;E;3442175;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

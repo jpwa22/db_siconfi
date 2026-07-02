@@ -1,0 +1,265 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);15471159056.28
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;8298854838.56
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;7172304217.72
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);4938056945.47
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;7569405.64
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;146843749.99
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;125108097.24
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;4658535692.6
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);10533102110.81
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);21512144300.43
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF);1044099.6
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);21511100200.83
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);10533102110.81
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);48.97
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);10540439098.41
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);10013417143.49
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);9486395188.57
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);15106217589.3
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);14817246891.26
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);14545935177.16
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);14734618918.51
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;14428000314.15
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;14140055675.63
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;13868270642.48
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;14112169956.36
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;10820921286.23
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;10540493956.69
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;10308903178.57
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;10614664258.22
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;4573756468.39
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;4445544234.68
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;4318268056.38
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;4204001049.65
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;6247164817.84
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;6094949722.01
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;5990635122.19
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;6410663208.57
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;3571730456.85
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;3566718233.14
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;3528625659.37
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;3410200620.86
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;35348571.07
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;32843485.8
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;30741804.54
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;87305077.28
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;25982722.98
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;23912247.25
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;22245309.78
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;78731793.17
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;9365848.09
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;8931238.55
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;8496494.76
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;8573284.11
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;678217275.15
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;677191215.63
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;677664534.68
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 (inclusive) Vencidos e Não Pagos;622448962.15
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2452134696.46
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4119382320.18
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3962289840.46
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1558167958.68
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2367643305.16
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;4033183230.03
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3882186679.16
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1475274069.81
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;3574711170.01
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4416912051.45
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4148414527.91
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2966572069.28
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;1207067864.85
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;383728821.42
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;266227848.75
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;1491297999.47
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;84491391.3
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;86199090.15
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;80103161.3
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;82893888.87
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);12654082892.84
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);10697864571.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);10583645336.7
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);13176450959.83
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;20853041088.71
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;21282248236.18
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;21652972395.92
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;21512144300.43
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);72.44
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);69.62
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);67.18
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);68.49
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);60.68
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);50.27
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);48.88
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);61.25
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;41706082177.42
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;42564496472.36
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;43305944791.84
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;43024288600.86
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);37535473959.68
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);38308046825.12
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);38975350312.66
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);38721859740.77
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;193686180828.89
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;198617712109.77
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;201943440255.53
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;221772914909.42
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;854066441.25
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;Depositos;Depósitos;973820780.47
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;Depositos;Depósitos;1174753007.63
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;Depositos;Depósitos;1396558549.71
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasExternas;EXTERNAS (I);746036.58
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);755773.26
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);775178.56
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasConcedidasExternas;EXTERNAS (I);818581.11
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;746036.58
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;755773.26
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;775178.56
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasExternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;818581.11
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);746036.58
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);755773.26
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);775178.56
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);818581.11
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);20853041088.71
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);21282248236.18
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);21652972395.92
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);21512144300.43
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4587669039.52
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4682094611.96
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4763653927.1
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;4732671746.09
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);4128902135.57
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);4213885150.76
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);4287288534.39
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);4259404571.48
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasInternas;INTERNAS (VI);1964236.51
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;1964236.51
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;ContragarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);1964236.51
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);203000.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;248764081.57
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;387473908.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;50667126.45
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;129148952.96
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;50667126.45
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;129148952.96
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;198096955.12
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;258324955.12
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;198096955.12
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualExternaEmprestimos;Empréstimos;258324955.12
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);248764081.57
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);387473908.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;21512144300.43
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);387473908.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);1.8
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;3441943088.07
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);3097748779.26
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1505850101.03
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (I);2503976614.4
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Educação;92002773.83
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB 60%;666804.44
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB 40%;81467289.47
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Destinados à Educação;76217727.82
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Saúde;225871945.24
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Destinados à Saúde;237801309.32
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Destinados à Assistência Social;10806534.63
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos destinados ao RPPS - Plano Previdenciário;396667305.45
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);413400280.27
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Alienação de Bens/Ativos;42413151.18
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outras Destinações Vinculadas de Recursos;926661492.75
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (II);1608239742.5
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;1608239742.5
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);4112216356.9
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);166222968.92
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;24212017.78
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB 60%;436261.4
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB 40%;3317450.29
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Destinados à Educação;1615651.43
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;47435567.05
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Destinados à Saúde;78611183.22
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Destinados à Assistência Social;3532240.87
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos destinados ao RPPS - Plano Previdenciário;9374.36
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);1077063.53
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;5976158.99
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);27712212.46
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;27712212.46
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);193935181.38
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);622978096.48
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;67790756.05
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB 60%;230543.04
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB 40%;80585194.17
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Destinados à Educação;74602076.39
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;178436378.19
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Destinados à Saúde;159190126.1
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Destinados à Assistência Social;12258986.69
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos destinados ao RPPS - Plano Previdenciário;15103.37
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);13255430.07
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos de Alienação de Bens/Ativos;56646.42
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outras Destinações Vinculadas de Recursos;36556855.99
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);643405348.8
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;643405348.8
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);1266383445.28
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS VINCULADOS (I);509475263.82
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos destinados ao RPPS - Plano Previdenciário;509475263.82
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (II);2032954802.32
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Ordinários;2032954802.32
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);2542430066.14
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (I);1205300285.18
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB 40%;-2435354.99
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Destinados à Assistência Social;-4984692.93
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos destinados ao RPPS - Plano Previdenciário;-112832436.1
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Operações de Crédito (exceto destinados à Educação e à Saúde);399067786.67
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Alienação de Bens/Ativos;42356504.76
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outras Destinações Vinculadas de Recursos;884128477.77
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (II);-1095832621.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;-1095832621.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);109467664.1
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;21512144300.43
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;21511100200.83
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;10533102110.81
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;48.97
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;10540439098.41
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;10013417143.49
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;10697864571.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;10583645336.7
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;13176450959.83
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;42564496472.36
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;43305944791.84
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;43024288600.86
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;755773.26
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;775178.56
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;818581.11
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4682094611.96
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4763653927.1
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;4732671746.09
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;387473908.08
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1.8
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;3441943088.07
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1505850101.03
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2017;3;Q;Governo do Estado de Pernambuco;26;PE;E;9410336;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;109467664.1

@@ -1,0 +1,220 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1952706168.94
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;1951349434.75
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1356734.19
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);85974547.88
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;3193867.72
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;52444.39
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1424927.29
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;81303308.48
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1866731621.06
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);4369061858.47
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);4369061858.47
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);1866731621.06
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);42.73
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);2140840310.65
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);2033798295.12
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);1926756279.59
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2809429087.46
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2773780617.58
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2745803828.81
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2762486685.81
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;1781440387.02
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;1747764010.63
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;1721570310.46
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;1747716178.88
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;1781440387.02
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;1747764010.63
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;1721570310.46
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;1747716178.88
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;1777855803.95
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;1744179427.56
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;1718995040.95
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;1745692487.2
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;3584583.07
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;3584583.07
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;2575269.51
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;2023691.68
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;1027988700.44
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;1026016606.95
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;1024233518.35
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;OutrasDividas;Outras Dívidas;1014770506.93
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1793186623.05
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2297091827.27
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2342628323.41
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);3446015072.05
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1793186623.05
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2297091827.27
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;2342628323.41
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;3446015072.05
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1828645860.64
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2331531840.55
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;2372576256.26
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;3678062982.65
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;35459237.59
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;34440013.28
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;29947932.85
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;232047910.6
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1016242464.41
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);476688790.31
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);403175505.4
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4690145295.31
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4717127410.15
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4718490577.58
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4369061858.47
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);59.9
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);58.8
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);58.19
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);63.23
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);21.67
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);10.11
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);8.54
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;9380290590.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;9434254820.3
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;9436981155.16
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;8738123716.94
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);8442261531.56
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);8490829338.27
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);8493283039.64
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);7864311345.25
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);4690145295.31
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);4717127410.15
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);4718490577.58
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);4369061858.47
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;750423247.25
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;754740385.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;754958492.41
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;699049897.36
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);675380922.53
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);679266347.06
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);679462643.17
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);629144907.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoMobiliaria;Mobiliária;52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMobiliaria;Mobiliária;52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoMobiliariaInterna;Interna;52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMobiliariaInterna;Interna;52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (I);52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (I);52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL;4369061858.47
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (III) = (Ia + II);1.21
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;699049897.36
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);629144907.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;305834330.09
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (I);4057729724.34
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Educação;71196949.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB 60%;459747238.69
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB 40%;306498159.12
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Receitas de Impostos e de Transferência de Impostos - Saúde;216366360.35
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Destinados à Saúde;44455161.38
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Destinados à Assistência Social;85332.19
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos de Alienação de Bens/Ativos;39404.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outras Destinações Vinculadas de Recursos;2959341118.99
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (II);8557637472.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;8557637472.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);12615367196.34
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);171745011.35
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;4842836.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB 60%;75650287.8
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB 40%;50433525.2
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;28861620.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;11956742.35
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);644235178.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;644235178.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);815980189.35
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);105948452.42
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;3403632.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB 60%;53808763.19
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB 40%;35872508.79
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;1262662.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Destinados à Saúde;4776262.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outras Destinações Vinculadas de Recursos;6824624.44
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);224026883.48
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;224026883.48
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);329975335.9
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (I);341698477.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Educação;2558432.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Transferências do FUNDEB 60%;19580164.8
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Transferências do FUNDEB 40%;13053443.2
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Receitas de Impostos e de Transferência de Impostos - Saúde;52541443.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Destinados à Saúde;350000.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outras Destinações Vinculadas de Recursos;253614994.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (II);192879439.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;192879439.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);534577916.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS VINCULADOS (I);286244870.24
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Receitas de Impostos e de Transferência de Impostos - Educação;1054401.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Transferências do FUNDEB 60%;150756528.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Transferências do FUNDEB 40%;100504352.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Receitas de Impostos e de Transferência de Impostos - Saúde;17755926.83
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Destinados à Assistência Social;58.26
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Outras Destinações Vinculadas de Recursos;16173604.15
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (II);1299305662.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Ordinários;1299305662.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);1585550532.24
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (I);3152092913.33
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Educação;59337648.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB 60%;159951494.9
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB 40%;106634329.93
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Receitas de Impostos e de Transferência de Impostos - Saúde;115944708.52
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Destinados à Saúde;39328899.38
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Destinados à Assistência Social;85273.93
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos de Alienação de Bens/Ativos;39404.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outras Destinações Vinculadas de Recursos;2670771154.05
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (II);6197190309.52
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;6197190309.52
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);9349283222.85
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (I);83575752.78
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Educação;2026899.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências do FUNDEB 60%;521800.8
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências do FUNDEB 40%;347867.2
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Receitas de Impostos e de Transferência de Impostos - Saúde;3479610.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Destinados à Saúde;3424247.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outras Destinações Vinculadas de Recursos;73775328.78
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (II);138073244.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;138073244.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);221648996.78
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;TOTAL DOS RECURSOS VINCULADOS (I);560918.38
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;Receitas de Impostos e de Transferência de Impostos - Saúde;15871.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;Outras Destinações Vinculadas de Recursos;545047.38
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;TOTAL DOS RECURSOS NÃO VINCULADOS (II);2435007.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;Recursos Ordinários;2435007.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 05;E;Padrão;EMPENHOS NÃO LIQUIDADOS CANCELADOS (NÃO INSCRITOS POR INSUFICIÊNCIA FINANCEIRA);EmpenhosNaoLiquidadosCanceladosNaoInscritosPorInsuficienciaFinanceira;TOTAL (III) = (I + II);2995925.38
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;4369061858.47
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;1866731621.06
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;42.73
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;2140840310.65
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;2033798295.12
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;476688790.31
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;403175505.4
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;9434254820.3
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;9436981155.16
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;8738123716.94
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;754740385.62
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;754958492.41
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;699049897.36
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;52865325.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;1.21
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;699049897.36
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;305834330.09
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;221648996.78
+2017;3;Q;Governo do Estado do Amapá;16;AP;E;782295;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;9349283222.85

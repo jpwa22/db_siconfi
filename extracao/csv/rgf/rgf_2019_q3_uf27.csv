@@ -1,0 +1,407 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);79661497.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);560657873.54
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);411104107.54
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);378548813.05
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);400056175.24
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);345581913.88
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);377972300.24
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);357887221.98
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);423834316.93
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);344643753.41
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);392642259.64
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);476237211.4
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);4548827443.97
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);74798.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalAtivoBruta;Pessoal Ativo;79661497.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalAtivoBruta;Pessoal Ativo;248604581.98
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalAtivoBruta;Pessoal Ativo;255608059.98
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalAtivoBruta;Pessoal Ativo;215779287.87
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalAtivoBruta;Pessoal Ativo;238759944.77
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalAtivoBruta;Pessoal Ativo;196974706.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalAtivoBruta;Pessoal Ativo;207399832.59
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalAtivoBruta;Pessoal Ativo;205362282.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalAtivoBruta;Pessoal Ativo;266444769.54
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalAtivoBruta;Pessoal Ativo;199214910.67
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalAtivoBruta;Pessoal Ativo;231747347.32
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalAtivoBruta;Pessoal Ativo;233265423.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;2578822645.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;74798.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;67058494.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;220790853.18
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;206657885.54
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;181804227.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;206241846.85
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;171792123.78
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;178015051.56
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;182310816.42
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;231834113.95
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;161680528.92
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;199212594.75
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;183455581.03
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;2190854118.04
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);VencimentosVantagensEOutrasDespesasVariaveis;Vencimentos, Vantagens e Outras Despesas Variáveis;74798.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;ObrigacoesPatronais;Obrigações Patronais;12597130.5
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;ObrigacoesPatronais;Obrigações Patronais;27756724.75
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;ObrigacoesPatronais;Obrigações Patronais;48918411.27
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;ObrigacoesPatronais;Obrigações Patronais;33943942.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;ObrigacoesPatronais;Obrigações Patronais;32488896.24
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;ObrigacoesPatronais;Obrigações Patronais;25153353.57
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;ObrigacoesPatronais;Obrigações Patronais;29357969.31
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;ObrigacoesPatronais;Obrigações Patronais;23022439.23
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;ObrigacoesPatronais;Obrigações Patronais;34583050.47
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;ObrigacoesPatronais;Obrigações Patronais;37506462.37
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;ObrigacoesPatronais;Obrigações Patronais;32509168.19
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;ObrigacoesPatronais;Obrigações Patronais;49787561.13
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);ObrigacoesPatronais;Obrigações Patronais;387625109.11
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;BeneficiosPrevidenciarios;Benefícios Previdenciários;5871.66
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;BeneficiosPrevidenciarios;Benefícios Previdenciários;57004.05
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;BeneficiosPrevidenciarios;Benefícios Previdenciários;31763.17
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;BeneficiosPrevidenciarios;Benefícios Previdenciários;31118.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;BeneficiosPrevidenciarios;Benefícios Previdenciários;29201.68
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;BeneficiosPrevidenciarios;Benefícios Previdenciários;29229.16
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;BeneficiosPrevidenciarios;Benefícios Previdenciários;26811.72
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;BeneficiosPrevidenciarios;Benefícios Previdenciários;29027.04
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;BeneficiosPrevidenciarios;Benefícios Previdenciários;27605.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;BeneficiosPrevidenciarios;Benefícios Previdenciários;27919.38
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;BeneficiosPrevidenciarios;Benefícios Previdenciários;25584.38
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;BeneficiosPrevidenciarios;Benefícios Previdenciários;22281.8
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);BeneficiosPrevidenciarios;Benefícios Previdenciários;343417.85
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;292064507.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;146437860.88
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;151594294.61
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;150620042.46
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;148607207.37
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;149277551.22
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;141374060.19
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;146776083.93
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;145428842.74
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;150201021.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;205949607.99
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;1828331080.25
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;241291932.95
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;120082398.72
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;123955641.98
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;122841785.13
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;120909486.25
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;121362053.31
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;114018835.36
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;118695622.17
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;117271848.31
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;121447226.04
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;179246710.57
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);AposentadoriasReservaEReformas;Aposentadorias, Reserva e Reformas;1501123540.79
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesasPensoesInativosEPensionistas;Pensões;50772574.4
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesasPensoesInativosEPensionistas;Pensões;26355462.16
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesasPensoesInativosEPensionistas;Pensões;27638652.63
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesasPensoesInativosEPensionistas;Pensões;27778257.33
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesasPensoesInativosEPensionistas;Pensões;27697721.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesasPensoesInativosEPensionistas;Pensões;27915497.91
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesasPensoesInativosEPensionistas;Pensões;27355224.83
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesasPensoesInativosEPensionistas;Pensões;28080461.76
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesasPensoesInativosEPensionistas;Pensões;28156994.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesasPensoesInativosEPensionistas;Pensões;28753795.47
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesasPensoesInativosEPensionistas;Pensões;26702897.42
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesasPensoesInativosEPensionistas;Pensões;327207539.46
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);19988784.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);9058186.68
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11175230.57
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);10676188.01
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);21294916.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);11150879.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);10613463.46
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);10693890.81
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);37022179.45
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF);141673718.72
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);72992.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);99065222.56
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);56946768.05
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);53349941.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);70701463.09
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);53062280.65
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);52084410.8
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);53475254.99
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);101725077.97
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);53849685.26
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);52292188.86
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);75709266.22
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);722334552.77
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;124660.37
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;5896238.67
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;158975.32
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1310586.16
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;292445.7
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;182716.26
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;243680.84
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;108132.39
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;110593.55
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;126105.24
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;61169.28
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;8615303.78
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;72992.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;434633.36
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;405521.03
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;326943.64
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;639426.39
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;673606.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;517637.13
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;695398.34
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;468416.31
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;1061239.58
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;330693.93
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;21954570.11
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;27581078.83
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;30788.84
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1258203.45
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1746092.66
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;18011755.32
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1164897.99
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2376690.65
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1861531.06
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;50589973.36
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;3404874.49
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1093153.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;2631938.78
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;84169899.95
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;98475139.99
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;49386804.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;51117929.81
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;50739695.22
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;50931330.84
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;49007366.76
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;50674644.75
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;50558555.91
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;49272977.64
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;50742236.34
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;51061588.05
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;601968270.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-11>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);79588504.23
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-10>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);461592650.98
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-9>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);354157339.49
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-8>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);325198871.62
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-7>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);329354712.15
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-6>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);292519633.23
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-5>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);325887889.44
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-4>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);304411966.99
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-3>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);322109238.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-2>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);290794068.15
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR-1>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);340350070.78
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;<MR>;DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);400527945.18
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;TOTAL (ÚLTIMOS 12 MESES) (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3826492891.2
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);74798.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;Valor;ReceitaCorrenteLiquidaAjustada;= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI);8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);3826567689.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb);44.71
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);4193913528.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF);49.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);3984217852.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF);46.55
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);3774522176.06
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 01;E;Padrão;% sobre a RCL Ajustada;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF);44.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8671048806.86
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8774193064.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8606670643.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);8806971453.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;8671048806.86
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;8774193064.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;8606670643.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaContratual;Dívida Contratual;8806971453.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2Emprestimos;Empréstimos;2366229969.25
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2Emprestimos;Empréstimos;2472270749.62
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2Emprestimos;Empréstimos;2322959942.11
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2Emprestimos;Empréstimos;2514791238.07
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosInternos;Internos;724592455.69
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosInternos;Internos;841875218.7
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosInternos;Internos;806266622.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosInternos;Internos;895533009.22
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2EmprestimosExternos;Externos;1641637513.56
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2EmprestimosExternos;Externos;1630395530.92
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2EmprestimosExternos;Externos;1516693320.03
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2EmprestimosExternos;Externos;1619258228.85
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;6182962797.4
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;6182546248.2
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;6166815959.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReestruturacaoDaDividaDeEstadosEMunicipios;Reestruturação da Dívida de Estados e Municípios;6177649483.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;121856040.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;119376066.39
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;116894742.14
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividas;Parcelamento e Renegociação de Dívidas;114530732.71
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;85271443.56
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;82791469.74
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;80831677.91
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisPrevidenciarias;De Contribuições Previdenciárias;79510733.32
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;36584596.65
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;36584596.65
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;36063064.23
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ParcelamentoERenegociacaoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;De Demais Contribuições Sociais;35019999.39
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1854702676.28
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2513446597.48
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2527511463.45
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);2402849535.28
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1261367032.68
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1920381913.3
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1934312141.94
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2DisponibilidadeDeCaixa;Disponibilidade de Caixa;1863841899.07
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1624867195.19
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1988313460.38
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1966858118.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;1888678083.37
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;363500162.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;67931547.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;32545976.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados;24836184.3
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;593335643.6
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;593064684.18
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;593199321.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;539007636.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6816346130.58
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6260746466.73
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6079159179.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);6404121918.62
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;7962976440.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8244782794.09
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8279172705.29
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);108.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);106.42
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);103.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);102.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);85.6
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);75.94
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);73.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);74.82
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;15925952881.78
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;16489565588.18
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;16558345410.58
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;17118014403.92
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14333357593.6
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14840609029.36
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14902510869.52
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 02;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);15406212963.53
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasConcedidasAsEntidadesControladas;ÀS ENTIDADES CONTROLADAS (III);250741606.2
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;GarantiasConcedidasAsEntidadesControladasEmOperacoesDeCreditoInternas;Em Operações de Crédito Internas;250741606.2
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (V) = (I + II + III + IV);250741606.2
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);7962976440.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);8244782794.09
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);8279172705.29
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (VI);8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (V/VI);2.93
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1751854817.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1813852214.7
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1821417995.16
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;1882981584.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1576669335.3
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1632466993.23
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1639276195.64
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 03;E;Padrão;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);1694683425.99
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;80000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;180000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;80000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;180000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;80000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoContratualInternaEmprestimos;Empréstimos;180000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;No Quadrimestre de Referência;RGF4OperacoesDeCreditoTotal;TOTAL (III);80000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;Até o Quadrimestre de Referência (a);RGF4OperacoesDeCreditoTotal;TOTAL (III);180000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;VALOR;RGF4ReceitaCorrenteLiquida;Receita Corrente Líquida - RCL (IV);8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (VI) = (IIIa + V - Ia - IIa);180000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;Total Considerado para Fins da Apuração do Cumprimento do Limite (VI) = (IIIa + V - Ia - IIa);2.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;1369441152.31
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;VALOR;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);1232497037.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;Limite de Alerta(inciso III do § 1º do art. 59 da LRF);14.4
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;599130504.14
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 04;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS NÃO VINCULADOS (I);900596745.58
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Ordinários;900596745.58
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL DOS RECURSOS VINCULADOS (II);1433392694.63
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Transferências do FUNDEB;194555312.85
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados à Educação;34416974.67
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados à Saúde;157307375.84
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Vinculados ao RPPS - Plano Previdenciário;514459247.37
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Recursos Vinculados ao RPPS - Plano Financeiro;121451464.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;Outros Recursos Vinculados;411202319.55
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA BRUTA (a);DisponibilidadeDeCaixaBruta;TOTAL (III) = (I + II);2333989440.21
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (I);9803101.64
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Ordinários;9803101.64
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (II);15539042.84
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Transferências do FUNDEB;4181705.44
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados à Educação;1276.8
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados à Saúde;5778667.57
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Vinculados ao RPPS - Plano Previdenciário;9.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Recursos Vinculados ao RPPS - Plano Financeiro;5207360.68
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;Outros Recursos Vinculados;370023.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;De Exercícios Anteriores (b);RestosAPagarLiquidadosENaoPagosDeExerciciosAnteriores;TOTAL (III) = (I + II);25342144.48
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (I);328478398.03
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Ordinários;328478398.03
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (II);195584958.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Transferências do FUNDEB;105262499.22
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados à Educação;1407581.41
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados à Saúde;12440726.71
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Vinculados ao RPPS - Plano Previdenciário;86616.28
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Recursos Vinculados ao RPPS - Plano Financeiro;68510439.59
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;Outros Recursos Vinculados;7877095.22
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Do Exercício (c);RestosAPagarLiquidadosENaoPagosDoExercicio;TOTAL (III) = (I + II);524063356.46
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS NÃO VINCULADOS (I);18378.76
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Recursos Ordinários;18378.76
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL DOS RECURSOS VINCULADOS (II);82126.12
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados à Saúde;80995.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;Outros Recursos Vinculados;1130.61
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Restos a Pagar Empenhados e Não Liquidados de Exercícios Anteriores (d);RestosAPagarEmpenhadosENaoLiquidadosDeExerciciosAnteriores;TOTAL (III) = (I + II);100504.88
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL DOS RECURSOS NÃO VINCULADOS (I);207492429.8
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;Recursos Ordinários;207492429.8
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;Demais Obrigações Financeiras (e);DemaisObrigacoesFinanceiras;TOTAL (III) = (I + II);207492429.8
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS NÃO VINCULADOS (I);354804437.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Ordinários;354804437.35
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL DOS RECURSOS VINCULADOS (II);1222186567.24
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Transferências do FUNDEB;85111108.19
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados à Educação;33008116.46
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados à Saúde;139006986.05
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Vinculados ao RPPS - Plano Previdenciário;514372622.09
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Recursos Vinculados ao RPPS - Plano Financeiro;47733664.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;Outros Recursos Vinculados;402954070.37
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (g)=(a-(b+c+d+e)-f);DisponibilidadeDeCaixaLiquida;TOTAL (III) = (I + II);1576991004.59
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS NÃO VINCULADOS (I);135093645.27
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Recursos Ordinários;135093645.27
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL DOS RECURSOS VINCULADOS (II);73500095.23
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Transferências do FUNDEB;27211148.54
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados à Educação;1838476.76
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados à Saúde;9109091.9
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;Outros Recursos Vinculados;35341378.03
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO (h);RestosAPagarEmpenhadosENaoLiquidadosDoExercicio;TOTAL (III) = (I + II);208593740.5
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL DOS RECURSOS NÃO VINCULADOS (I);219710792.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Ordinários;219710792.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL DOS RECURSOS VINCULADOS (II);1148686472.01
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Transferências do FUNDEB;57899959.65
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados à Educação;31169639.7
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados à Saúde;129897894.15
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Vinculados ao RPPS - Plano Previdenciário;514372622.09
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Recursos Vinculados ao RPPS - Plano Financeiro;47733664.08
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;Outros Recursos Vinculados;367612692.34
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 05;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO) (i) = (g - h);DisponibilidadeDeCaixaLiquidaAposRP;TOTAL (III) = (I + II);1368397264.09
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;Valor Até o Quadrimestre;ReceitaCorrenteLiquidaAjustada;Receita Corrente Líquida Ajustada;8559007201.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;3826567689.89
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;44.71
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;4193913528.96
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I, II e III art. 20 da LRF) - <%>;49.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;3984217852.51
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial (parágrafo único art. 22 da LRF) - <%>;46.55
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;3774522176.06
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL AJUSTADA;LimiteDeAlertaDespesaComPessoalDemonstrativoSimplificado;Limite de Alerta (inciso II do §1º do art. 59 da LRF) - <%>;44.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;6404121918.62
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;74.82
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;17118014403.92
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;250741606.2
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;2.93
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;1882981584.43
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;180000000.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;2.1
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;1369441152.31
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;599130504.14
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;RESTOS A PAGAR EMPENHADOS E NÃO LIQUIDADOS DO EXERCÍCIO;ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;208593740.5
+2019;3;Q;Governo do Estado de Alagoas;27;AL;E;3322820;RGF-Anexo 06;E;Padrão;DISPONIBILIDADE DE CAIXA LÍQUIDA (APÓS A INSCRIÇÃO EM RESTOS A PAGAR NÃO PROCESSADOS DO EXERCÍCIO);ValorTotalRestosAPagarDemonstrativoSimplificado;Valor Total;1368397264.09

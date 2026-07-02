@@ -1,0 +1,231 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);24758459452.54
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);7259055.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;9661613642.96
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;7259055.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;14936653488.28
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);160192321.3
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);10760467511.53
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);6799459.19
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;691143156.36
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;6799459.19
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;198355841.67
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;9870968513.5
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);13997991941.01
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);459596.43
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);29726106632.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);13998451537.44
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);47.09
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);14565792250.06
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);13837502637.56
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);13109213025.05
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);59939701992.16
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);61999921128.75
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);64393889886.57
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;55370748024.7
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;57477275470.02
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;59929876864.39
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;49908007247.34
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;51370978895.1
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;52551729506.09
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;5462740777.36
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;6106296574.92
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;7378147358.3
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;4568953967.46
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;4522645658.73
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;4464013022.18
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;5385771845.14
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;5372701532.33
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;5597058113.56
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-11624294010.04
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-12311474760.32
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;-12767564712.7
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);957137610.28
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);1253262819.19
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);2758283685.51
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);59939701992.16
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);61999921128.75
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);64393889886.57
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;28633465815.75
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;29088538478.89
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;29726106632.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);209.33
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);213.14
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);216.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);209.33
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);213.14
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);216.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;57266931631.5
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;58177076957.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;59452213265.56
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);51540238468.35
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);52359369262.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);53506991939.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);55370748024.7
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);57477275470.02
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);59929876864.39
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);667175856.57
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);653655619.73
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);642439282.17
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeTributos;De Tributos;46464.02
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;42607.14
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeTributos;De Tributos;34712.58
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;667129392.55
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;653613012.59
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;642404569.59
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;568751019.77
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;559560269.59
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;552242457.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;98378372.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;94052743.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;90162111.81
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);54683401494.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);56803449176.16
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);59267266908.09
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;49220660716.64
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;50697152601.24
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;51889119549.79
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;5462740777.36
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;6106296574.92
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;7378147358.3
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);20170674.13
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);20170674.13
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);20170674.13
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InsuficienciaFinanceira;Insuficiência Financeira;7195659775.18
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InsuficienciaFinanceira;Insuficiência Financeira;8192036047.18
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InsuficienciaFinanceira;Insuficiência Financeira;9928790284.65
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;1392557793.2
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;1574746180.7
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;1772100062.76
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;252999426.76
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;895212173.05
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;1068149625.45
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);5524260537.72
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);5524260537.72
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);5524260537.72
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;5524260537.72
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;5524260537.72
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;5524260537.72
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);239867898.22
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);318003807.08
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);400139357.74
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;239867898.22
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;318003807.08
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;400139357.74
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);5284392639.5
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);5206256730.64
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);5124121179.98
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;DCL;272.74
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;Excedente;72.74
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;Redutor;4.85
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;266.15
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;274.06
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;295.29
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;267.89
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;288.02
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;279.95
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;280.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;263.04
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;286.82
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;283.33
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;282.7
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;258.19
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;278.31
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;266.8
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;257.79
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;253.34
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;253.66
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;254.3
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;253.47
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;248.49
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;254.43
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;246.06
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;253.83
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;243.64
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;240.11
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;237.55
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;234.48
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;238.79
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;224.81
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;220.53
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;219.53
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;233.94
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;235.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;226.13
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;214.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;229.09
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;211.11
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;209.77
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;213.77
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;224.24
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;209.65
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;215.47
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;218.13
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;219.39
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;213.41
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;208.05
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;208.58
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;214.54
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;208.27
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;204.66
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;3º;209.33
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;209.69
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;1º;213.14
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;2º;216.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 02;E;;% da DCL sobre a RCL;PercentualDaDCLSobreARCLTrajetoriaDeAjuste;% Limite de Endividamento;204.85
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);348212004.16
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);445071937.37
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);567159059.1
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;348212004.16
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;445071937.37
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasAvalOuFiancaEmOperacoesDeCredito;Aval ou Fiança em Operações de Crédito;567159059.1
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);348212004.16
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);445071937.37
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);567159059.1
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);28633465815.75
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);29088538478.89
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);29726106632.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.22
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.53
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);1.91
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6299362479.46
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6399478465.36
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6539743459.21
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5669426231.51
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5759530618.82
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5885769113.29
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);2969000.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoNaoSujeitasAoLimiteParaFinsDeContratacao;NÃO SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (II);13070769.01
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;2969000.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoMelhoriaDaAdministacaoDeReceitasEDaGestaoFiscalFinanceiraEPatrimonial;Melhoria da Administração de Receitas e da Gestão Fiscal Financeira e Patrimonial;13070769.01
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;29726106632.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;4756177061.24
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);4280559355.12
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;2080827464.29
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);13070769.01
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);0.04
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;29726106632.78
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;13998451537.44
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;47.09
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;14565792250.06
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;13837502637.56
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;64393889886.57
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;216.62
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;59452213265.56
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;567159059.1
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;1.91
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;6539743459.21
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;22.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;4756177061.24
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;16.0
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;2080827464.29
+2015;2;Q;Governo do Estado do Rio Grande do Sul;43;RS;E;11207274;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;7.0

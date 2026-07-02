@@ -1,9 +1,512 @@
-library(shiny); runApp('scripts/app_icms.R')
-library(shiny); runApp('scripts/app_icms.R')
-runApp('scripts/icms/app_icms.R')
-runApp('scripts/icms/app_icms.R')
+) +
+theme_minimal(base_size = 12) +
+theme(axis.text.x = element_text(angle = 45, hjust = 1))
+grafico_serie
+View(periodo_recente)
+View(total_12m)
+View(cobertura)
+View(icms)
+getwd()
+setwd("scripts")
+getwd()
+library(httr)
+library(jsonlite)
+library(readr)
+library(fs)
+# Função para baixar RREO
+baixar_dados_rreo <- function(ano, bimestre, uf) {
+url <- sprintf("https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rreo?an_exercicio=%s&nr_periodo=%s&co_tipo_demonstrativo=RREO&no_anexo=&co_esfera=E&id_ente=%s",
+ano, bimestre, uf)
+resposta <- GET(url)
+if (status_code(resposta) == 200) {
+conteudo <- content(resposta, as = "text", encoding = "UTF-8")
+dados <- fromJSON(conteudo)
+if (!is.null(dados$items) && length(dados$items) > 0) {
+df <- as.data.frame(dados$items)
+dir_create("csv/rreo")
+caminho <- sprintf("csv/rreo/rreo_%s_b%s_uf%s.csv", ano, bimestre, uf)
+write_csv2(df, caminho)
+message(sprintf("✔️ RREO salvo: %s", caminho))
+} else {
+message(sprintf("⚠️ Nenhum RREO para %s Bim %s UF %s", ano, bimestre, uf))
+}
+} else {
+warning(sprintf("❌ Erro RREO %s Bim %s UF %s", ano, bimestre, uf))
+}
+}
+# Função para baixar RGF
+baixar_dados_rgf <- function(ano, quadrimestre, uf) {
+url <- sprintf("https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rgf?an_exercicio=%s&nr_periodo=%s&co_tipo_demonstrativo=RGF&id_ente=%s",
+ano, quadrimestre, uf)
+resposta <- GET(url)
+if (status_code(resposta) == 200) {
+conteudo <- content(resposta, as = "text", encoding = "UTF-8")
+dados <- fromJSON(conteudo)
+if (!is.null(dados$items) && length(dados$items) > 0) {
+df <- as.data.frame(dados$items)
+dir_create("csv/rgf")
+caminho <- sprintf("csv/rgf/rgf_%s_q%s_uf%s.csv", ano, quadrimestre, uf)
+write_csv2(df, caminho)
+message(sprintf("✔️ RGF salvo: %s", caminho))
+} else {
+message(sprintf("⚠️ Nenhum RGF para %s Quad %s UF %s", ano, quadrimestre, uf))
+}
+} else {
+warning(sprintf("❌ Erro RGF %s Quad %s UF %s", ano, quadrimestre, uf))
+}
+}
+ufs <- c(11:17, 21:29, 31:35, 41:43, 50:53)  # Códigos IBGE dos estados
+anos <- 2000:2026  # Intervalo de anos
+quadrimestres <- ""   # Intervalo de quadrimestres (1 a 3)
+bimestres <- 1:2 # Intervalo de bimestres (1 a 6)
+# Loop para todos os estados (UFs de 11 a 53), todos os períodos
+for (ano in anos) {
+for (uf in ufs) {
+for (b in bimestres) {
+baixar_dados_rreo(ano, b, uf)
+}
+for (q in quadrimestres) {
+baixar_dados_rgf(ano, q, uf)
+}
+}
+}
+anos <- 2009:2026  # Intervalo de anos
+# Loop para todos os estados (UFs de 11 a 53), todos os períodos
+for (ano in anos) {
+for (uf in ufs) {
+for (b in bimestres) {
+baixar_dados_rreo(ano, b, uf)
+}
+for (q in quadrimestres) {
+baixar_dados_rgf(ano, q, uf)
+}
+}
+}
+anos <- 2015:2026  # Intervalo de anos
+# Loop para todos os estados (UFs de 11 a 53), todos os períodos
+for (ano in anos) {
+for (uf in ufs) {
+for (b in bimestres) {
+baixar_dados_rreo(ano, b, uf)
+}
+for (q in quadrimestres) {
+baixar_dados_rgf(ano, q, uf)
+}
+}
+}
 library(tidyverse)
 library(data.table)
-icms <- read_rds("icms.rds")
-readr::write_excel_csv2(icms,"csv/icms.csv")
-readr::write_excel_csv2(icms,"scripts/csv/icms.csv")
+caminho_pasta <- "G:\\Meu Drive\\IGPE\\Concluídos\\db_siconfi\\scripts\\csv\\rreo"
+# Listar todos os arquivos CSV na pasta
+arquivos_csv <- list.files(caminho_pasta, pattern = "\\.csv$", full.names = TRUE)
+# Ler e combinar todos os arquivos CSV em um único objeto
+# Usando data.table::fread para eficiência
+dados_combinados <- rbindlist(lapply(arquivos_csv, fread), fill = TRUE)
+# Converter para tibble (opcional, se você preferir usar o dplyr)
+# Atribuir o data frame a um objeto com o nome especificado
+dados_combinados <- as_tibble(dados_combinados)
+glimpse(dados_combinados)
+colunas_rreo_mensais <- c(
+"<MR-11>", "<MR-10>", "<MR-9>", "<MR-8>", "<MR-7>", "<MR-6>",
+"<MR-5>", "<MR-4>", "<MR-3>", "<MR-2>", "<MR-1>", "<MR>"
+)
+mes_rreo_mensal <- c(
+"<MR-11>" = 5,
+"<MR-10>" = 6,
+"<MR-9>" = 7,
+"<MR-8>" = 8,
+"<MR-7>" = 9,
+"<MR-6>" = 10,
+"<MR-5>" = 11,
+"<MR-4>" = 12,
+"<MR-3>" = 1,
+"<MR-2>" = 2,
+"<MR-1>" = 3,
+"<MR>" = 4
+)
+df <- dados_combinados |>
+filter(anexo == "RREO-Anexo 03", cod_conta == "ICMSLiquidoExcetoTransferenciasEFUNDEB") |>
+mutate(mes = unname(mes_rreo_mensal[coluna]))
+saveRDS(df,"icms.rds")
+library(tidyverse)
+raiz <- if (file.exists("icms.rds")) "." else ".."
+arquivo_icms <- file.path(raiz, "icms.rds")
+dir_saida <- file.path(raiz, "outputs", "analise_icms")
+dir.create(dir_saida, recursive = TRUE, showWarnings = FALSE)
+icms <- readRDS(arquivo_icms) |>
+mutate(
+exercicio = as.integer(exercicio),
+periodo = as.integer(periodo),
+valor = as.numeric(valor),
+uf = as.character(uf),
+coluna = as.character(coluna)
+)
+fmt_num <- function(x) format(round(x, 1), big.mark = ".", decimal.mark = ",", scientific = FALSE)
+fmt_pct <- function(x) ifelse(is.na(x), NA_character_, paste0(format(round(100 * x, 1), decimal.mark = ","), "%"))
+cobertura <- icms |>
+count(exercicio, periodo, uf, name = "linhas") |>
+summarise(
+ufs = n_distinct(uf),
+linhas_min = min(linhas),
+linhas_max = max(linhas),
+.by = c(exercicio, periodo)
+) |>
+arrange(exercicio, periodo)
+total_12m <- icms |>
+filter(str_detect(str_to_upper(coluna), "TOTAL")) |>
+transmute(
+exercicio,
+periodo,
+periodo_ref = paste0(exercicio, "B", periodo),
+uf,
+instituicao,
+cod_ibge,
+valor_12m = valor,
+valor_12m_bilhoes = valor / 1e9
+) |>
+arrange(uf, exercicio, periodo)
+if (nrow(total_12m) == 0) {
+stop("Nao foram encontradas linhas de total em icms.rds.")
+}
+crescimento_yoy_uf <- total_12m |>
+left_join(
+total_12m |>
+transmute(
+uf,
+exercicio = exercicio + 1L,
+periodo,
+valor_12m_ano_anterior = valor_12m
+),
+by = c("uf", "exercicio", "periodo")
+) |>
+mutate(
+crescimento_yoy = valor_12m / valor_12m_ano_anterior - 1,
+crescimento_yoy_pct = 100 * crescimento_yoy
+)
+brasil_12m <- total_12m |>
+summarise(
+valor_12m = sum(valor_12m, na.rm = TRUE),
+valor_12m_bilhoes = valor_12m / 1e9,
+.by = c(exercicio, periodo, periodo_ref)
+) |>
+arrange(exercicio, periodo) |>
+left_join(
+total_12m |>
+summarise(
+valor_12m_ano_anterior = sum(valor_12m, na.rm = TRUE),
+.by = c(exercicio, periodo)
+) |>
+mutate(exercicio = exercicio + 1L),
+by = c("exercicio", "periodo")
+) |>
+mutate(crescimento_yoy = valor_12m / valor_12m_ano_anterior - 1)
+mediana_ufs <- crescimento_yoy_uf |>
+summarise(
+mediana_valor_12m = median(valor_12m, na.rm = TRUE),
+mediana_crescimento_yoy = median(crescimento_yoy, na.rm = TRUE),
+.by = c(exercicio, periodo, periodo_ref)
+)
+periodo_recente <- total_12m |>
+distinct(exercicio, periodo, periodo_ref) |>
+arrange(desc(exercicio), desc(periodo)) |>
+slice(1)
+comparacao_recente_ufs <- crescimento_yoy_uf |>
+semi_join(periodo_recente, by = c("exercicio", "periodo", "periodo_ref")) |>
+mutate(
+ranking_crescimento = min_rank(desc(crescimento_yoy)),
+destaque = if_else(uf == "PE", "PE", "Demais UFs")
+) |>
+arrange(desc(crescimento_yoy))
+pe_recente <- comparacao_recente_ufs |> filter(uf == "PE")
+brasil_recente <- brasil_12m |> semi_join(periodo_recente, by = c("exercicio", "periodo", "periodo_ref"))
+mediana_recente <- mediana_ufs |> semi_join(periodo_recente, by = c("exercicio", "periodo", "periodo_ref"))
+resumo_pe_vs_brasil <- tibble(
+periodo_ref = periodo_recente$periodo_ref,
+valor_pe_12m_bilhoes = pe_recente$valor_12m_bilhoes,
+crescimento_pe_yoy = pe_recente$crescimento_yoy,
+crescimento_brasil_yoy = brasil_recente$crescimento_yoy,
+crescimento_mediana_ufs_yoy = mediana_recente$mediana_crescimento_yoy,
+diferenca_pe_brasil_pontos_percentuais = 100 * (pe_recente$crescimento_yoy - brasil_recente$crescimento_yoy),
+ranking_pe_entre_ufs = pe_recente$ranking_crescimento,
+total_ufs = nrow(comparacao_recente_ufs)
+)
+serie_indice <- bind_rows(
+total_12m |>
+filter(uf == "PE") |>
+transmute(exercicio, periodo, periodo_ref, serie = "PE", valor = valor_12m),
+brasil_12m |>
+transmute(exercicio, periodo, periodo_ref, serie = "Brasil", valor = valor_12m),
+mediana_ufs |>
+transmute(exercicio, periodo, periodo_ref, serie = "Mediana das UFs", valor = mediana_valor_12m)
+) |>
+arrange(serie, exercicio, periodo) |>
+group_by(serie) |>
+mutate(indice_base_100 = 100 * valor / first(valor)) |>
+ungroup()
+readr::write_csv(cobertura, file.path(dir_saida, "cobertura_periodos.csv"))
+readr::write_csv(total_12m, file.path(dir_saida, "total_12m_uf_periodo.csv"))
+readr::write_csv(crescimento_yoy_uf, file.path(dir_saida, "crescimento_yoy_uf.csv"))
+readr::write_csv(comparacao_recente_ufs, file.path(dir_saida, "comparacao_recente_ufs.csv"))
+readr::write_csv(resumo_pe_vs_brasil, file.path(dir_saida, "resumo_pe_vs_brasil.csv"))
+grafico_serie <- ggplot(serie_indice, aes(x = reorder(periodo_ref, exercicio + periodo / 10), y = indice_base_100, color = serie, group = serie)) +
+geom_line(linewidth = 1) +
+geom_point(size = 2) +
+scale_color_manual(values = c("PE" = "#C43E3E", "Brasil" = "#2A6F97", "Mediana das UFs" = "#5F6F52")) +
+labs(
+title = "ICMS: PE contra Brasil e mediana das UFs",
+subtitle = "Indice do total acumulado em 12 meses, base 100 no primeiro periodo disponivel",
+x = NULL,
+y = "Indice base 100",
+color = NULL
+) +
+theme_minimal(base_size = 12) +
+theme(axis.text.x = element_text(angle = 45, hjust = 1))
+ggsave(file.path(dir_saida, "serie_indice_pe_brasil_mediana.png"), grafico_serie, width = 9, height = 5, dpi = 150)
+grafico_recente <- ggplot(comparacao_recente_ufs, aes(x = reorder(uf, crescimento_yoy), y = crescimento_yoy, fill = destaque)) +
+geom_col(width = 0.75) +
+geom_hline(yintercept = brasil_recente$crescimento_yoy, linetype = "dashed", color = "#2A6F97") +
+geom_hline(yintercept = mediana_recente$mediana_crescimento_yoy, linetype = "dotted", color = "#5F6F52") +
+coord_flip() +
+scale_y_continuous(labels = \(x) paste0(round(100 * x, 1), "%")) +
+scale_fill_manual(values = c("PE" = "#C43E3E", "Demais UFs" = "#B8B8B8")) +
+labs(
+title = paste0("Crescimento do ICMS no periodo mais recente: ", periodo_recente$periodo_ref),
+subtitle = "Variacao do total acumulado em 12 meses contra o mesmo bimestre do ano anterior",
+x = NULL,
+y = "Crescimento anual",
+fill = NULL
+) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
+ggsave(file.path(dir_saida, "crescimento_recente_ufs.png"), grafico_recente, width = 8, height = 7, dpi = 150)
+interpretacao <- case_when(
+resumo_pe_vs_brasil$diferenca_pe_brasil_pontos_percentuais > 1 ~ "PE cresce acima do agregado nacional no periodo mais recente.",
+resumo_pe_vs_brasil$diferenca_pe_brasil_pontos_percentuais < -1 ~ "PE cresce abaixo do agregado nacional no periodo mais recente.",
+TRUE ~ "PE se move proximo ao agregado nacional no periodo mais recente."
+)
+linhas_md <- c(
+"# Analise exploratoria inicial do ICMS",
+"",
+paste0("Arquivo analisado: `", arquivo_icms, "`."),
+paste0("Cobertura: ", min(total_12m$periodo_ref), " a ", max(total_12m$periodo_ref), ", com ", n_distinct(total_12m$uf), " UFs."),
+"",
+"## Leitura principal",
+"",
+paste0("- Periodo mais recente: **", resumo_pe_vs_brasil$periodo_ref, "**."),
+paste0("- PE arrecadou R$ ", fmt_num(resumo_pe_vs_brasil$valor_pe_12m_bilhoes), " bilhoes no total acumulado em 12 meses."),
+paste0("- Crescimento de PE contra o mesmo bimestre do ano anterior: **", fmt_pct(resumo_pe_vs_brasil$crescimento_pe_yoy), "**."),
+paste0("- Crescimento do agregado Brasil: **", fmt_pct(resumo_pe_vs_brasil$crescimento_brasil_yoy), "**."),
+paste0("- Crescimento mediano entre UFs: **", fmt_pct(resumo_pe_vs_brasil$crescimento_mediana_ufs_yoy), "**."),
+paste0("- Diferenca PE - Brasil: **", fmt_num(resumo_pe_vs_brasil$diferenca_pe_brasil_pontos_percentuais), " p.p.**."),
+paste0("- Ranking de PE entre UFs no crescimento anual recente: **", resumo_pe_vs_brasil$ranking_pe_entre_ufs, " de ", resumo_pe_vs_brasil$total_ufs, "**."),
+"",
+"## Interpretacao inicial",
+"",
+paste0("- ", interpretacao),
+"- A comparacao usa a linha de total acumulado em 12 meses do RREO, pois ela evita duplicar as 12 linhas mensais existentes em cada bimestre informado.",
+"- Os graficos e tabelas gerados nesta pasta permitem verificar se a diferenca de PE e persistente ou concentrada no periodo mais recente.",
+"",
+"## Arquivos gerados",
+"",
+"- `cobertura_periodos.csv`",
+"- `total_12m_uf_periodo.csv`",
+"- `crescimento_yoy_uf.csv`",
+"- `comparacao_recente_ufs.csv`",
+"- `resumo_pe_vs_brasil.csv`",
+"- `serie_indice_pe_brasil_mediana.png`",
+"- `crescimento_recente_ufs.png`"
+)
+writeLines(linhas_md, file.path(dir_saida, "analise_exploratoria_inicial.md"), useBytes = TRUE)
+print(resumo_pe_vs_brasil)
+message("Analise salva em: ", normalizePath(dir_saida, winslash = "/"))
+library(tidyverse)
+raiz <- if (file.exists("icms.rds")) "." else ".."
+arquivo_icms <- file.path(raiz, "icms.rds")
+dir_saida <- file.path(raiz, "outputs", "analise_icms")
+dir.create(dir_saida, recursive = TRUE, showWarnings = FALSE)
+icms <- readRDS(arquivo_icms) |>
+mutate(
+exercicio = as.integer(exercicio),
+periodo = as.integer(periodo),
+valor = as.numeric(valor),
+uf = as.character(uf),
+coluna = as.character(coluna)
+)
+fmt_num <- function(x) format(round(x, 1), big.mark = ".", decimal.mark = ",", scientific = FALSE)
+fmt_pct <- function(x) ifelse(is.na(x), NA_character_, paste0(format(round(100 * x, 1), decimal.mark = ","), "%"))
+cobertura <- icms |>
+count(exercicio, periodo, uf, name = "linhas") |>
+summarise(
+ufs = n_distinct(uf),
+linhas_min = min(linhas),
+linhas_max = max(linhas),
+.by = c(exercicio, periodo)
+) |>
+arrange(exercicio, periodo)
+View(cobertura)
+total_12m <- icms |>
+filter(str_detect(str_to_upper(coluna), "TOTAL")) |>
+transmute(
+exercicio,
+periodo,
+periodo_ref = paste0(exercicio, "B", periodo),
+uf,
+instituicao,
+cod_ibge,
+valor_12m = valor,
+valor_12m_bilhoes = valor / 1e9
+) |>
+arrange(uf, exercicio, periodo)
+View(cobertura)
+if (nrow(total_12m) == 0) {
+stop("Nao foram encontradas linhas de total em icms.rds.")
+}
+crescimento_yoy_uf <- total_12m |>
+left_join(
+total_12m |>
+transmute(
+uf,
+exercicio = exercicio + 1L,
+periodo,
+valor_12m_ano_anterior = valor_12m
+),
+by = c("uf", "exercicio", "periodo")
+) |>
+mutate(
+crescimento_yoy = valor_12m / valor_12m_ano_anterior - 1,
+crescimento_yoy_pct = 100 * crescimento_yoy
+)
+View(crescimento_yoy_uf)
+brasil_12m <- total_12m |>
+summarise(
+valor_12m = sum(valor_12m, na.rm = TRUE),
+valor_12m_bilhoes = valor_12m / 1e9,
+.by = c(exercicio, periodo, periodo_ref)
+) |>
+arrange(exercicio, periodo) |>
+left_join(
+total_12m |>
+summarise(
+valor_12m_ano_anterior = sum(valor_12m, na.rm = TRUE),
+.by = c(exercicio, periodo)
+) |>
+mutate(exercicio = exercicio + 1L),
+by = c("exercicio", "periodo")
+) |>
+mutate(crescimento_yoy = valor_12m / valor_12m_ano_anterior - 1)
+mediana_ufs <- crescimento_yoy_uf |>
+summarise(
+mediana_valor_12m = median(valor_12m, na.rm = TRUE),
+mediana_crescimento_yoy = median(crescimento_yoy, na.rm = TRUE),
+.by = c(exercicio, periodo, periodo_ref)
+)
+View(mediana_ufs)
+periodo_recente <- total_12m |>
+distinct(exercicio, periodo, periodo_ref) |>
+arrange(desc(exercicio), desc(periodo)) |>
+slice(1)
+View(periodo_recente)
+comparacao_recente_ufs <- crescimento_yoy_uf |>
+semi_join(periodo_recente, by = c("exercicio", "periodo", "periodo_ref")) |>
+mutate(
+ranking_crescimento = min_rank(desc(crescimento_yoy)),
+destaque = if_else(uf == "PE", "PE", "Demais UFs")
+) |>
+arrange(desc(crescimento_yoy))
+pe_recente <- comparacao_recente_ufs |> filter(uf == "PE")
+brasil_recente <- brasil_12m |> semi_join(periodo_recente, by = c("exercicio", "periodo", "periodo_ref"))
+mediana_recente <- mediana_ufs |> semi_join(periodo_recente, by = c("exercicio", "periodo", "periodo_ref"))
+resumo_pe_vs_brasil <- tibble(
+periodo_ref = periodo_recente$periodo_ref,
+valor_pe_12m_bilhoes = pe_recente$valor_12m_bilhoes,
+crescimento_pe_yoy = pe_recente$crescimento_yoy,
+crescimento_brasil_yoy = brasil_recente$crescimento_yoy,
+crescimento_mediana_ufs_yoy = mediana_recente$mediana_crescimento_yoy,
+diferenca_pe_brasil_pontos_percentuais = 100 * (pe_recente$crescimento_yoy - brasil_recente$crescimento_yoy),
+ranking_pe_entre_ufs = pe_recente$ranking_crescimento,
+total_ufs = nrow(comparacao_recente_ufs)
+)
+View(resumo_pe_vs_brasil)
+serie_indice <- bind_rows(
+total_12m |>
+filter(uf == "PE") |>
+transmute(exercicio, periodo, periodo_ref, serie = "PE", valor = valor_12m),
+brasil_12m |>
+transmute(exercicio, periodo, periodo_ref, serie = "Brasil", valor = valor_12m),
+mediana_ufs |>
+transmute(exercicio, periodo, periodo_ref, serie = "Mediana das UFs", valor = mediana_valor_12m)
+) |>
+arrange(serie, exercicio, periodo) |>
+group_by(serie) |>
+mutate(indice_base_100 = 100 * valor / first(valor)) |>
+ungroup()
+View(serie_indice)
+grafico_serie <- ggplot(serie_indice, aes(x = reorder(periodo_ref, exercicio + periodo / 10), y = indice_base_100, color = serie, group = serie)) +
+geom_line(linewidth = 1) +
+geom_point(size = 2) +
+scale_color_manual(values = c("PE" = "#C43E3E", "Brasil" = "#2A6F97", "Mediana das UFs" = "#5F6F52")) +
+labs(
+title = "ICMS: PE contra Brasil e mediana das UFs",
+subtitle = "Indice do total acumulado em 12 meses, base 100 no primeiro periodo disponivel",
+x = NULL,
+y = "Indice base 100",
+color = NULL
+) +
+theme_minimal(base_size = 12) +
+theme(axis.text.x = element_text(angle = 45, hjust = 1))
+grafico_serie
+grafico_recente <- ggplot(comparacao_recente_ufs, aes(x = reorder(uf, crescimento_yoy), y = crescimento_yoy, fill = destaque)) +
+geom_col(width = 0.75) +
+geom_hline(yintercept = brasil_recente$crescimento_yoy, linetype = "dashed", color = "#2A6F97") +
+geom_hline(yintercept = mediana_recente$mediana_crescimento_yoy, linetype = "dotted", color = "#5F6F52") +
+coord_flip() +
+scale_y_continuous(labels = \(x) paste0(round(100 * x, 1), "%")) +
+scale_fill_manual(values = c("PE" = "#C43E3E", "Demais UFs" = "#B8B8B8")) +
+labs(
+title = paste0("Crescimento do ICMS no periodo mais recente: ", periodo_recente$periodo_ref),
+subtitle = "Variacao do total acumulado em 12 meses contra o mesmo bimestre do ano anterior",
+x = NULL,
+y = "Crescimento anual",
+fill = NULL
+) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
+grafico_recente
+interpretacao <- case_when(
+resumo_pe_vs_brasil$diferenca_pe_brasil_pontos_percentuais > 1 ~ "PE cresce acima do agregado nacional no periodo mais recente.",
+resumo_pe_vs_brasil$diferenca_pe_brasil_pontos_percentuais < -1 ~ "PE cresce abaixo do agregado nacional no periodo mais recente.",
+TRUE ~ "PE se move proximo ao agregado nacional no periodo mais recente."
+)
+linhas_md <- c(
+"# Analise exploratoria inicial do ICMS",
+"",
+paste0("Arquivo analisado: `", arquivo_icms, "`."),
+paste0("Cobertura: ", min(total_12m$periodo_ref), " a ", max(total_12m$periodo_ref), ", com ", n_distinct(total_12m$uf), " UFs."),
+"",
+"## Leitura principal",
+"",
+paste0("- Periodo mais recente: **", resumo_pe_vs_brasil$periodo_ref, "**."),
+paste0("- PE arrecadou R$ ", fmt_num(resumo_pe_vs_brasil$valor_pe_12m_bilhoes), " bilhoes no total acumulado em 12 meses."),
+paste0("- Crescimento de PE contra o mesmo bimestre do ano anterior: **", fmt_pct(resumo_pe_vs_brasil$crescimento_pe_yoy), "**."),
+paste0("- Crescimento do agregado Brasil: **", fmt_pct(resumo_pe_vs_brasil$crescimento_brasil_yoy), "**."),
+paste0("- Crescimento mediano entre UFs: **", fmt_pct(resumo_pe_vs_brasil$crescimento_mediana_ufs_yoy), "**."),
+paste0("- Diferenca PE - Brasil: **", fmt_num(resumo_pe_vs_brasil$diferenca_pe_brasil_pontos_percentuais), " p.p.**."),
+paste0("- Ranking de PE entre UFs no crescimento anual recente: **", resumo_pe_vs_brasil$ranking_pe_entre_ufs, " de ", resumo_pe_vs_brasil$total_ufs, "**."),
+"",
+"## Interpretacao inicial",
+"",
+paste0("- ", interpretacao),
+"- A comparacao usa a linha de total acumulado em 12 meses do RREO, pois ela evita duplicar as 12 linhas mensais existentes em cada bimestre informado.",
+"- Os graficos e tabelas gerados nesta pasta permitem verificar se a diferenca de PE e persistente ou concentrada no periodo mais recente.",
+"",
+"## Arquivos gerados",
+"",
+"- `cobertura_periodos.csv`",
+"- `total_12m_uf_periodo.csv`",
+"- `crescimento_yoy_uf.csv`",
+"- `comparacao_recente_ufs.csv`",
+"- `resumo_pe_vs_brasil.csv`",
+"- `serie_indice_pe_brasil_mediana.png`",
+"- `crescimento_recente_ufs.png`"
+)
+library(shiny); runApp('app_icms.R')

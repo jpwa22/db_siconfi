@@ -1,0 +1,207 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);17072701040.61
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);3097333.35
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalAtivoBruta;Pessoal Ativo;11931047091.07
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalAtivoBruta;Pessoal Ativo;1302279.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;5062411222.7
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);79242726.84
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta;Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF);1795053.58
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);3806175455.91
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;167737993.07
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;160037942.14
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;70925722.7
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;3407473798.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;"DESPESAS LIQUIDADAS 
+(a)";DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);13266525584.7
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;DESPESAS INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);3097333.35
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);27348882834.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);13269622918.05
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);48.52
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);13291557057.67
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);48.6
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);12626979204.79
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.17
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);11962401351.9
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);43.74
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);21381306825.23
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);19965358652.02
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);19237408467.68
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;18891511151.06
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;17580575086.6
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratual;Dívida Contratual;16985518940.19
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;9170965285.83
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;9075569335.48
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualInterna;Interna;9034023257.02
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;9720545865.23
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;8505005751.12
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaContratualExterna;Externa;7951495683.17
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;2455912929.1
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;2359606626.85
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PrecatoriosPosterioresA05052000VencidosENaoPagos;Precatórios Posteriores a 05/05/2000 Vencidos e Não Pagos;2189468184.54
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;33882745.07
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;25176938.57
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;OutrasDividas;Outras Dívidas;62421342.95
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5243397916.25
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);5099063112.8
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);4793507179.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;5059774293.58
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4572110656.59
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaAnexo02;Disponibilidade de Caixa Bruta;4349225050.86
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceiros;Demais Haveres Financeiros;752363858.5
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;678382759.84
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisHaveresFinanceiros;Demais Haveres Financeiros;537725364.93
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);568740235.83
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);151430303.63
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);93443236.07
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);16137908908.98
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);14866295539.22
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);14443901287.96
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;27207610584.58
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;27329461676.97
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;27348882834.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);78.59
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);73.05
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);70.34
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);59.31
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);54.4
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);52.81
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;54697765669.44
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 3º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);49227989102.5
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);18891511151.06
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);17580575086.6
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);16985518940.19
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);159815373.53
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);159322019.16
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);291154170.54
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;151756960.36
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;151597662.1
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;284104834.99
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;76233203.52
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;74209036.82
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;205360749.28
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;75523756.84
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;77388625.28
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisDemaisContribuicoesSociais;Demais Contribuições Sociais;78744085.71
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDoFGTS;Do FGTS;8058413.17
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;7724357.06
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;ParcelamentoDeDividasDoFGTS;Do FGTS;7049335.55
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);13861917582.5
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);12505174676.04
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceira;DÍVIDA COM INSTITUIÇÃO FINANCEIRA (VII);12113518645.89
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraInterna;Interna;4141371717.27
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;4000168924.92
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraInterna;Interna;4162022962.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaComInstituicaoFinanceiraExterna;Externa;9720545865.23
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;8505005751.12
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaComInstituicaoFinanceiraExterna;Externa;7951495683.17
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);4869778195.03
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);4916078391.4
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);4580846123.76
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;Depositos;Depósitos;748990656.14
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;Depositos;Depósitos;840905987.93
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;Depositos;Depósitos;790140077.15
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;222196044.66
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;58236051.15
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RPNaoProcessadosDeExerciciosAnteriores;RP Não-Processados de Exercícios Anteriores;22186868.35
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);166795071183.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);166795071183.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);166795071183.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;166795071183.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;166795071183.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;166795071183.77
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1408184830.55
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1301916785.84
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);1320432803.45
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;36224.8
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;23429.7
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;1440048826.46
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;InvestimentosAtivo;Investimentos;1301999989.84
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;InvestimentosAtivo;Investimentos;1320528802.55
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;31863995.91
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;119428.8
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;RestosAPagarProcessados;(-) Restos a Pagar Processados;119428.8
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);165386886353.22
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);165493154397.93
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 02;E;;Até o 2º Quadrimestre;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);165474638380.32
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasConcedidasInternas;INTERNAS (II);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasConcedidasInternas;INTERNAS (II);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;GarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalGarantiasConcedidas;TOTAL GARANTIAS CONCEDIDAS (III) = (I + II);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);27207610584.58
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);27329461676.97
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;RGF3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL (IV);27348882834.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.34
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.34
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;PercentualDoTotalDasGarantiasSobreARCL;% do TOTAL DAS GARANTIAS sobre a RCL (III/IV);0.33
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;5985674328.61
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6012481568.93
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;6016754223.64
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5387106895.75
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5411233412.04
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III § 1º do art. 59 da LRF);5415078801.28
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasRecebidasInternas;INTERNAS (VI);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasRecebidasInternas;INTERNAS (VI);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;ContragarantiasInternasOutrasGarantiasNosTermosDaLRF;Outras Garantias nos Termos da LRF;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;SALDO DO EXERCÍCIO ANTERIOR;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 1º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 03;E;;Até o 2º Quadrimestre;TotalContragarantiasRecebidas;TOTAL CONTRAGARANTIAS RECEBIDAS (VII) = (V + VI);91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);416246745.2
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoSujeitasAoLimiteParaFinsDeContratacao;SUJEITAS AO LIMITE PARA FINS DE CONTRATAÇÃO (I);591617051.69
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratual;Contratual;416246745.2
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratual;Contratual;591617051.69
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInterna;Interna;335855548.13
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInterna;Interna;492304930.47
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;335855548.13
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualInternaAberturaDeCredito;Abertura de Crédito;492304930.47
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExterna;Externa;80391197.07
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExterna;Externa;99312121.22
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;No Quadrimestre de Referência;OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;80391197.07
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;Até o Quadrimestre de Referência (a);OperacoesDeCreditoContratualExternaAberturaDeCredito;Abertura de Crédito;99312121.22
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;VALOR;RGF4ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;27348882834.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);591617051.69
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaFinsDaApuracaoDoCumprimentoDoLimiteOperacoesDeCredito;TOTAL CONSIDERADO PARA FINS DA APURAÇÃO DO CUMPRIMENTO DO LIMITE (IV) = (Ia + III);2.16
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;VALOR;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;4375821253.56
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteGeralDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoInternasEExternas;Limite Geral Definido por Resolução do Senado Federal para as Operações de Crédito Internas e Externas;16.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;VALOR;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);3938239128.2
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDeAlertaOperacoesCredito;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);14.4
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;1914421798.43
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalParaAsOperacoesDeCreditoPorAntecipacaoDaReceitaOrcamentaria;Limite Definido por Resolução do Senado Federal para as Operações de Crédito por Antecipação da Receita Orçamentária;7.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;VALOR;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);591617051.69
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 04;E;;% SOBRE A RCL;TotalConsideradoParaConstratacaoDeNovasOperacoesDeCredito;TOTAL CONSIDERADO PARA CONTRATAÇÃO DE NOVAS OPERAÇÕES DE CRÉDITO (V) = (IV + IIa);2.16
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;27348882834.72
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;13269622918.05
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;0.49
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;13291557057.67
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;0.49
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;12626979204.79
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;0.46
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;14443901287.96
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;0.53
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;54697765669.44
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;2.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;TotalDasGarantiasConcedidasDemonstrativoSimplificado;Total das Garantias Concedidas;91600000.0
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;6016754223.64
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalGarantiasDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;0.22
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;591617051.69
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;OperacoesDeCreditoInternasEExternasDemonstrativoSimplificado;Operações de Crédito Internas e Externas;0.02
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;4375821253.56
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoExternasEInternasDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito Externas e Internas;0.16
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;1914421798.43
+2016;2;Q;Governo do Estado da Bahia;29;BA;E;15203934;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPeloSenadoFederalParaOperacoesDeCreditoPorAntecipacaoDaReceitaDemonstrativoSimplificado;Limite Definido pelo Senado Federal para Operações de Crédito por Antecipação da Receita;0.07

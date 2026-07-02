@@ -1,0 +1,75 @@
+exercicio;periodo;periodicidade;instituicao;cod_ibge;uf;co_poder;populacao;anexo;esfera;rotulo;coluna;cod_conta;conta;valor
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalBruta;DESPESA BRUTA COM PESSOAL (I);1816199177.93
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalAtivoBruta;Pessoal Ativo;1784714354.23
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalInativoEPensionistasBruta;Pessoal Inativo e Pensionistas;31484823.7
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputada;DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II);38429470.02
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria;Indenizações por Demissão e Incentivos à Demissão Voluntária;1391229.77
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao;Decorrentes de Decisão Judicial de Período Anterior ao da Apuração;5105763.29
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao;Despesas de Exercícios Anteriores de Período Anterior ao da Apuração;1133852.57
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados;Inativos e Pensionistas com Recursos Vinculados;30798624.39
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;LIQUIDADAS (a);DespesaComPessoalLiquida;DESPESA LÍQUIDA COM PESSOAL (III) = (I - II);1777769707.91
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;Valor;ReceitaCorrenteLiquidaLimiteLegal;RECEITA CORRENTE LIQUIDA - RCL (IV);3987099850.89
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;Valor;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);1777769707.91
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;% sobre a RCL;DespesaComPessoalTotal;DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b);44.59
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;Valor;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);1953678926.94
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;% sobre a RCL;LimiteMaximoDespesaComPessoalTotal;LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF);49.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;Valor;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);1855994980.59
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;% sobre a RCL;LimitePrudencialDespesaComPessoalTotal;LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF);46.55
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;Valor;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);1758311034.24
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 01;E;;% sobre a RCL;LimiteDeAlertaDespesaComPessoalTotal;LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF);44.1
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2483028270.11
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidada;DÍVIDA CONSOLIDADA - DC (I);2463685648.97
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratual;Dívida Contratual;1640344264.87
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratual;Dívida Contratual;1621995454.47
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualInterna;Interna;1636337707.95
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualInterna;Interna;1617988897.55
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaContratualExterna;Externa;4006556.92
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaContratualExterna;Externa;4006556.92
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;OutrasDividas;Outras Dívidas;842684005.24
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;OutrasDividas;Outras Dívidas;841690194.5
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidada;DEDUÇÕES (II);826397702.96
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DeducoesDaDividaConsolidada;DEDUÇÕES (II);1278598822.47
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1027896422.85
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DisponibilidadeDeCaixaBruta;Disponibilidade de Caixa Bruta;1465537747.35
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);201498719.89
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RestosAPagarProcessadosExcetoPrecatorios;(-) Restos a Pagar Processados (Exceto Precatórios);186938924.88
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1656630567.15
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DividaConsolidadaLiquida;DÍVIDA CONSOLIDADA LÍQUIDA (DCL) (III) = (I - II);1185086826.5
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;4020130039.48
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;RGF2ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA - RCL;3987099850.89
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);61.76
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCSobreARCL;% da DC sobre a RCL (I/RCL);61.79
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);41.21
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;PercentualDaDCLSobreARCL;% da DCL sobre a RCL (III/RCL);29.72
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;8040260079.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDefinidoPorResolucaoDoSenadoFederal;LIMITE DEFINIDO POR RESOLUÇÃO DO SENADO FEDERAL;7974199702.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);7236234071.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;LimiteDeAlerta;LIMITE DE ALERTA (inciso III do § 1º do art. 59 da LRF);7176779732.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);846691362.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DetalheDaDividaContratual;DÍVIDA CONTRATUAL (IV = V + VI + VII + VIII);845696751.42
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);842684805.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividas;PARCELAMENTO DE DÍVIDAS (VI);841690194.5
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;842684805.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociais;De Contribuições Sociais;841690194.5
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;842684805.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;ParcelamentoDeDividasDeContribuicoesSociaisPrevidenciarias;Previdenciárias;841690194.5
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);4006557.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;Até o 1º Quadrimestre;DemaisDividasContratuais;DEMAIS DÍVIDAS CONTRATUAIS (VIII);4006556.92
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciaria;DÍVIDA CONSOLIDADA PREVIDENCIÁRIA (IX);4591460289.17
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaPrevidenciariaPassivoAtuarial;Passivo Atuarial;4591460289.17
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DeducoesDaDividaConsolidadaPrevidenciaria;DEDUÇÕES (X);2229837422.39
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DisponibilidadeDeCaixaBrutaPrevidenciaria;Disponibilidade de Caixa Bruta;1236019.66
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;InvestimentosAtivo;Investimentos;2228614796.49
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DemaisHaveresFinanceirosPrevidenciarios;Demais Haveres Financeiros;7501.82
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;RestosAPagarProcessados;(-) Restos a Pagar Processados;20895.58
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 02;E;;SALDO DO EXERCÍCIO ANTERIOR;DividaConsolidadaLiquidaPrevidenciaria;DÍVIDA CONSOLIDADA LÍQUIDA PREVIDENCIÁRIA (XI) = (IX - X);2361622866.78
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;Valor até o Bimestre/Semestre;ReceitaCorrenteLiquida;Receita Corrente Líquida;3987099850.89
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;VALOR;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;1777769707.91
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;% SOBRE A RCL;DespesaTotalComPessoalDemonstrativoSimplificado;Despesa Total com Pessoal - DTP;44.59
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;VALOR;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;1953678926.94
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteMaximoDespesaComPessoalDemonstrativoSimplificado;Limite Máximo (incisos I II e III art. 20 da LRF) - <%>;49.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;VALOR;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;1855994980.59
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;% SOBRE A RCL;LimitePrudencialDespesaComPessoalDemonstrativoSimplificado;Limite Prudencial  (parágrafo único art. 22 da LRF) - <%>;46.55
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;VALOR;DividaConsolidadaLiquidaDemonstrativoSimplificado;Dívida Consolidada Líquida;1185086826.5
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;VALOR;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;7974199702.0
+2015;1;Q;Governo do Estado do Amapá;16;AP;E;750912;RGF-Anexo 06;E;;% SOBRE A RCL;LimiteDefinidoPorResolucaoDoSenadoFederalDividaConsolidadaDemonstrativoSimplificado;Limite Definido por Resolução do Senado Federal;200.0
