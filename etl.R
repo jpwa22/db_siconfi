@@ -1,46 +1,47 @@
+library(DBI)
+library(duckdb)
 library(tidyverse)
-library(data.table)
 
-caminho_pasta <- "data/csv/rreo"
+db_path <- file.path("data", "siconfi.duckdb")
 
-# Listar todos os arquivos CSV na pasta
-arquivos_csv <- list.files(caminho_pasta, pattern = "\\.csv$", full.names = TRUE)
+if (!file.exists(db_path)) {
+  stop(
+    "Banco DuckDB não encontrado em ", db_path, ". ",
+    "Execute source('build_duckdb.R') antes do ETL."
+  )
+}
 
-# Ler e combinar todos os arquivos CSV em um único objeto
-# Usando data.table::fread para eficiência
-dados_combinados <- rbindlist(lapply(arquivos_csv, fread), fill = TRUE)
+con <- dbConnect(duckdb(), dbdir = db_path, read_only = TRUE)
+on.exit({
+  dbDisconnect(con, shutdown = TRUE)
+}, add = TRUE)
 
-# Converter para tibble (opcional, se você preferir usar o dplyr)
-# Atribuir o data frame a um objeto com o nome especificado
-dados_combinados <- as_tibble(dados_combinados)
+icms <- dbGetQuery(con, "
+  SELECT
+    *,
+    CASE coluna
+      WHEN '<MR-11>' THEN 5
+      WHEN '<MR-10>' THEN 6
+      WHEN '<MR-9>' THEN 7
+      WHEN '<MR-8>' THEN 8
+      WHEN '<MR-7>' THEN 9
+      WHEN '<MR-6>' THEN 10
+      WHEN '<MR-5>' THEN 11
+      WHEN '<MR-4>' THEN 12
+      WHEN '<MR-3>' THEN 1
+      WHEN '<MR-2>' THEN 2
+      WHEN '<MR-1>' THEN 3
+      WHEN '<MR>' THEN 4
+    END AS mes
+  FROM rreo
+  WHERE anexo = 'RREO-Anexo 03'
+    AND cod_conta = 'ICMSLiquidoExcetoTransferenciasEFUNDEB'
+") |>
+  as_tibble()
 
-glimpse(dados_combinados)
+glimpse(icms)
 
+dir.create(file.path("data", "csv"), recursive = TRUE, showWarnings = FALSE)
 
-colunas_rreo_mensais <- c(
-  "<MR-11>", "<MR-10>", "<MR-9>", "<MR-8>", "<MR-7>", "<MR-6>",
-  "<MR-5>", "<MR-4>", "<MR-3>", "<MR-2>", "<MR-1>", "<MR>"
-)
-
-mes_rreo_mensal <- c(
-  "<MR-11>" = 5,
-  "<MR-10>" = 6,
-  "<MR-9>" = 7,
-  "<MR-8>" = 8,
-  "<MR-7>" = 9,
-  "<MR-6>" = 10,
-  "<MR-5>" = 11,
-  "<MR-4>" = 12,
-  "<MR-3>" = 1,
-  "<MR-2>" = 2,
-  "<MR-1>" = 3,
-  "<MR>" = 4
-)
-
-df <- dados_combinados |>
-  filter(anexo == "RREO-Anexo 03", cod_conta == "ICMSLiquidoExcetoTransferenciasEFUNDEB") |>
-  mutate(mes = unname(mes_rreo_mensal[coluna]))
-
-saveRDS(df, "data/icms.rds")
-icms <- readRDS("data/icms.rds")
-readr::write_excel_csv2(icms, "data/csv/icms.csv")
+saveRDS(icms, file.path("data", "icms.rds"))
+readr::write_excel_csv2(icms, file.path("data", "csv", "icms.csv"))

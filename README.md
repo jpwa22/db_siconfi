@@ -20,7 +20,7 @@ API SICONFI
 [5] app/app.R                                        → Dashboard Shiny interativo
 ```
 
-O módulo DuckDB é uma camada de armazenamento local para consulta dos CSVs brutos de RREO e RGF. Ele não substitui o `etl.R`, que continua sendo o tratamento específico para a análise de ICMS.
+O módulo DuckDB é uma camada de armazenamento local para consulta dos CSVs brutos de RREO e RGF. O `etl.R` usa esse banco como fonte para gerar a base específica de ICMS.
 
 ---
 
@@ -40,7 +40,7 @@ db_siconfi/
 │   └── csv/
 │       └── icms.csv        # Dado consolidado de ICMS em CSV (gitignored)
 ├── build_duckdb.R          # [2] Constrói data/siconfi.duckdb a partir dos CSVs brutos
-├── etl.R                   # [3] Transforma CSVs brutos em data/icms.rds
+├── etl.R                   # [3] Extrai ICMS do DuckDB e gera data/icms.rds
 ├── analise/
 │   └── analise_icms.R      # [4] Análise exploratória (PE vs Brasil/Nordeste)
 ├── app/
@@ -133,7 +133,7 @@ DBI::dbGetQuery(con, "
 dbDisconnect(con, shutdown = TRUE)
 ```
 
-**3. ETL de ICMS** — consolida os CSVs em um único objeto R:
+**3. ETL de ICMS** — consulta o DuckDB e gera a base analítica de ICMS:
 
 ```r
 source("etl.R")
@@ -166,7 +166,6 @@ shiny::runApp("app/app.R")
 ## Próximos passos de organização
 
 - **`extracao/`** deve virar um repositório separado (`extrator-siconfi`) — é uma ferramenta genérica reutilizável, independente desta análise específica.
-- Avaliar se o `etl.R` deve passar a ler diretamente de `data/siconfi.duckdb`, em vez de ler os CSVs brutos novamente.
 - A pasta `scripts/` (se ainda existir vazia) pode ser deletada manualmente.
 
 ---
